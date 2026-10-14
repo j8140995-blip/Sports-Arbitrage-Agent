@@ -1,0 +1,849 @@
+{
+  "alley-oop": {
+    "hit_rate": 0.3938,
+    "smoothed": 0.3949,
+    "yes_count": 76,
+    "total": 193,
+    "confidence": "high"
+  },
+  "trade / trades / traded": {
+    "hit_rate": 0.7212,
+    "smoothed": 0.719,
+    "yes_count": 150,
+    "total": 208,
+    "confidence": "high"
+  },
+  "buzzer": {
+    "hit_rate": 0.3471,
+    "smoothed": 0.3488,
+    "yes_count": 59,
+    "total": 170,
+    "confidence": "high"
+  },
+  "mvp": {
+    "hit_rate": 0.6284,
+    "smoothed": 0.6273,
+    "yes_count": 137,
+    "total": 218,
+    "confidence": "high"
+  },
+  "ankle": {
+    "hit_rate": 0.5755,
+    "smoothed": 0.5748,
+    "yes_count": 122,
+    "total": 212,
+    "confidence": "high"
+  },
+  "injury / injured": {
+    "hit_rate": 0.9668,
+    "smoothed": 0.9624,
+    "yes_count": 204,
+    "total": 211,
+    "confidence": "high"
+  },
+  "airball / airballs / airballed": {
+    "hit_rate": 0.5962,
+    "smoothed": 0.5943,
+    "yes_count": 62,
+    "total": 104,
+    "confidence": "high"
+  },
+  "triple double": {
+    "hit_rate": 0.4083,
+    "smoothed": 0.4091,
+    "yes_count": 89,
+    "total": 218,
+    "confidence": "high"
+  },
+  "jordan": {
+    "hit_rate": 0.5732,
+    "smoothed": 0.5723,
+    "yes_count": 94,
+    "total": 164,
+    "confidence": "high"
+  },
+  "playoff": {
+    "hit_rate": 0.7561,
+    "smoothed": 0.7536,
+    "yes_count": 155,
+    "total": 205,
+    "confidence": "high"
+  },
+  "elbow": {
+    "hit_rate": 0.7654,
+    "smoothed": 0.7622,
+    "yes_count": 124,
+    "total": 162,
+    "confidence": "high"
+  },
+  "tech / technical": {
+    "hit_rate": 0.6321,
+    "smoothed": 0.6308,
+    "yes_count": 122,
+    "total": 193,
+    "confidence": "high"
+  },
+  "retire / retired / retirement": {
+    "hit_rate": 0.1399,
+    "smoothed": 0.1448,
+    "yes_count": 20,
+    "total": 143,
+    "confidence": "high"
+  },
+  "crowd / crowded": {
+    "hit_rate": 0.8462,
+    "smoothed": 0.8396,
+    "yes_count": 88,
+    "total": 104,
+    "confidence": "high"
+  },
+  "draft / drafted": {
+    "hit_rate": 0.619,
+    "smoothed": 0.6154,
+    "yes_count": 39,
+    "total": 63,
+    "confidence": "high"
+  },
+  "rookie": {
+    "hit_rate": 0.8788,
+    "smoothed": 0.8713,
+    "yes_count": 87,
+    "total": 99,
+    "confidence": "high"
+  },
+  "overtime": {
+    "hit_rate": 0.2929,
+    "smoothed": 0.297,
+    "yes_count": 29,
+    "total": 99,
+    "confidence": "high"
+  },
+  "mortgage matchup": {
+    "hit_rate": 0.75,
+    "smoothed": 0.6667,
+    "yes_count": 3,
+    "total": 4,
+    "confidence": "low"
+  },
+  "rocket": {
+    "hit_rate": 0.8182,
+    "smoothed": 0.7692,
+    "yes_count": 9,
+    "total": 11,
+    "confidence": "medium"
+  },
+  "american airlines": {
+    "hit_rate": 0.6667,
+    "smoothed": 0.6364,
+    "yes_count": 6,
+    "total": 9,
+    "confidence": "low"
+  },
+  "kaseya center": {
+    "hit_rate": 0.5,
+    "smoothed": 0.5,
+    "yes_count": 1,
+    "total": 2,
+    "confidence": "low"
+  },
+  "td garden": {
+    "hit_rate": 0.75,
+    "smoothed": 0.7,
+    "yes_count": 6,
+    "total": 8,
+    "confidence": "low"
+  },
+  "ball arena": {
+    "hit_rate": 0.9091,
+    "smoothed": 0.8462,
+    "yes_count": 10,
+    "total": 11,
+    "confidence": "medium"
+  },
+  "kia": {
+    "hit_rate": 0.75,
+    "smoothed": 0.7,
+    "yes_count": 6,
+    "total": 8,
+    "confidence": "low"
+  },
+  "toyota": {
+    "hit_rate": 0.8,
+    "smoothed": 0.75,
+    "yes_count": 8,
+    "total": 10,
+    "confidence": "medium"
+  },
+  "spectrum": {
+    "hit_rate": 0.5,
+    "smoothed": 0.5,
+    "yes_count": 2,
+    "total": 4,
+    "confidence": "low"
+  },
+  "fiserv": {
+    "hit_rate": 0.8,
+    "smoothed": 0.7143,
+    "yes_count": 4,
+    "total": 5,
+    "confidence": "low"
+  },
+  "intuit": {
+    "hit_rate": 0.9167,
+    "smoothed": 0.8571,
+    "yes_count": 11,
+    "total": 12,
+    "confidence": "medium"
+  },
+  "state farm": {
+    "hit_rate": 1.0,
+    "smoothed": 0.8333,
+    "yes_count": 4,
+    "total": 4,
+    "confidence": "low"
+  },
+  "msg / madison square garden": {
+    "hit_rate": 0.8333,
+    "smoothed": 0.7857,
+    "yes_count": 10,
+    "total": 12,
+    "confidence": "medium"
+  },
+  "paycom": {
+    "hit_rate": 0.6,
+    "smoothed": 0.5882,
+    "yes_count": 9,
+    "total": 15,
+    "confidence": "medium"
+  },
+  "crypto / crypto.com": {
+    "hit_rate": 0.8333,
+    "smoothed": 0.7857,
+    "yes_count": 10,
+    "total": 12,
+    "confidence": "medium"
+  },
+  "frost bank": {
+    "hit_rate": 0.6667,
+    "smoothed": 0.6429,
+    "yes_count": 8,
+    "total": 12,
+    "confidence": "medium"
+  },
+  "chase": {
+    "hit_rate": 0.75,
+    "smoothed": 0.7143,
+    "yes_count": 9,
+    "total": 12,
+    "confidence": "medium"
+  },
+  "little caesars arena": {
+    "hit_rate": 0.0,
+    "smoothed": 0.3333,
+    "yes_count": 0,
+    "total": 1,
+    "confidence": "low"
+  },
+  "moda": {
+    "hit_rate": 1.0,
+    "smoothed": 0.875,
+    "yes_count": 6,
+    "total": 6,
+    "confidence": "low"
+  },
+  "target center": {
+    "hit_rate": 1.0,
+    "smoothed": 0.8,
+    "yes_count": 3,
+    "total": 3,
+    "confidence": "low"
+  },
+  "golden 1": {
+    "hit_rate": 1.0,
+    "smoothed": 0.75,
+    "yes_count": 2,
+    "total": 2,
+    "confidence": "low"
+  },
+  "xfinity": {
+    "hit_rate": 0.6667,
+    "smoothed": 0.6364,
+    "yes_count": 6,
+    "total": 9,
+    "confidence": "low"
+  },
+  "rocket arena": {
+    "hit_rate": 1.0,
+    "smoothed": 0.6667,
+    "yes_count": 1,
+    "total": 1,
+    "confidence": "low"
+  },
+  "little caesars": {
+    "hit_rate": 0.6667,
+    "smoothed": 0.625,
+    "yes_count": 4,
+    "total": 6,
+    "confidence": "low"
+  },
+  "draft": {
+    "hit_rate": 0.561,
+    "smoothed": 0.5581,
+    "yes_count": 23,
+    "total": 41,
+    "confidence": "high"
+  },
+  "king james": {
+    "hit_rate": 0.0,
+    "smoothed": 0.1111,
+    "yes_count": 0,
+    "total": 7,
+    "confidence": "low"
+  },
+  "target": {
+    "hit_rate": 1.0,
+    "smoothed": 0.875,
+    "yes_count": 6,
+    "total": 6,
+    "confidence": "low"
+  },
+  "capital one": {
+    "hit_rate": 1.0,
+    "smoothed": 0.75,
+    "yes_count": 2,
+    "total": 2,
+    "confidence": "low"
+  },
+  "kevin hart": {
+    "hit_rate": 0.0,
+    "smoothed": 0.3333,
+    "yes_count": 0,
+    "total": 1,
+    "confidence": "low"
+  },
+  "hollywood": {
+    "hit_rate": 0.0,
+    "smoothed": 0.3333,
+    "yes_count": 0,
+    "total": 1,
+    "confidence": "low"
+  },
+  "streamer": {
+    "hit_rate": 0.0,
+    "smoothed": 0.3333,
+    "yes_count": 0,
+    "total": 1,
+    "confidence": "low"
+  },
+  "dunk / dunks / dunked": {
+    "hit_rate": 0.75,
+    "smoothed": 0.7,
+    "yes_count": 6,
+    "total": 8,
+    "confidence": "low"
+  },
+  "justin bieber": {
+    "hit_rate": 0.0,
+    "smoothed": 0.3333,
+    "yes_count": 0,
+    "total": 1,
+    "confidence": "low"
+  },
+  "wemby / wembanyama": {
+    "hit_rate": 1.0,
+    "smoothed": 0.6667,
+    "yes_count": 1,
+    "total": 1,
+    "confidence": "low"
+  },
+  "all-star": {
+    "hit_rate": 0.8706,
+    "smoothed": 0.8621,
+    "yes_count": 74,
+    "total": 85,
+    "confidence": "high"
+  },
+  "retire / retirement": {
+    "hit_rate": 0.0448,
+    "smoothed": 0.058,
+    "yes_count": 3,
+    "total": 67,
+    "confidence": "high"
+  },
+  "airball / air ball": {
+    "hit_rate": 0.434,
+    "smoothed": 0.4352,
+    "yes_count": 46,
+    "total": 106,
+    "confidence": "high"
+  },
+  "scotiabank": {
+    "hit_rate": 1.0,
+    "smoothed": 0.6667,
+    "yes_count": 1,
+    "total": 1,
+    "confidence": "low"
+  },
+  "fedexforum / fedex": {
+    "hit_rate": 0.75,
+    "smoothed": 0.6667,
+    "yes_count": 3,
+    "total": 4,
+    "confidence": "low"
+  },
+  "delta": {
+    "hit_rate": 1.0,
+    "smoothed": 0.6667,
+    "yes_count": 1,
+    "total": 1,
+    "confidence": "low"
+  },
+  "rip city": {
+    "hit_rate": 1.0,
+    "smoothed": 0.6667,
+    "yes_count": 1,
+    "total": 1,
+    "confidence": "low"
+  },
+  "gainbridge": {
+    "hit_rate": 1.0,
+    "smoothed": 0.6667,
+    "yes_count": 1,
+    "total": 1,
+    "confidence": "low"
+  },
+  "united": {
+    "hit_rate": 0.5,
+    "smoothed": 0.5,
+    "yes_count": 1,
+    "total": 2,
+    "confidence": "low"
+  },
+  "golden": {
+    "hit_rate": 1.0,
+    "smoothed": 0.75,
+    "yes_count": 2,
+    "total": 2,
+    "confidence": "low"
+  },
+  "elbow / elbows / elbowed": {
+    "hit_rate": 1.0,
+    "smoothed": 0.75,
+    "yes_count": 2,
+    "total": 2,
+    "confidence": "low"
+  },
+  "long beach": {
+    "hit_rate": 1.0,
+    "smoothed": 0.6667,
+    "yes_count": 1,
+    "total": 1,
+    "confidence": "low"
+  },
+  "laker / lakers": {
+    "hit_rate": 1.0,
+    "smoothed": 0.6667,
+    "yes_count": 1,
+    "total": 1,
+    "confidence": "low"
+  },
+  "olympic / olympics": {
+    "hit_rate": 1.0,
+    "smoothed": 0.6667,
+    "yes_count": 1,
+    "total": 1,
+    "confidence": "low"
+  },
+  "marijuana / weed / cannabis": {
+    "hit_rate": 0.0,
+    "smoothed": 0.3333,
+    "yes_count": 0,
+    "total": 1,
+    "confidence": "low"
+  },
+  "the wall": {
+    "hit_rate": 1.0,
+    "smoothed": 0.75,
+    "yes_count": 2,
+    "total": 2,
+    "confidence": "low"
+  },
+  "ballmer": {
+    "hit_rate": 1.0,
+    "smoothed": 0.6667,
+    "yes_count": 1,
+    "total": 1,
+    "confidence": "low"
+  },
+  "kaseya": {
+    "hit_rate": 1.0,
+    "smoothed": 0.6667,
+    "yes_count": 1,
+    "total": 1,
+    "confidence": "low"
+  },
+  "buzzer beater": {
+    "hit_rate": 0.0417,
+    "smoothed": 0.06,
+    "yes_count": 2,
+    "total": 48,
+    "confidence": "high"
+  },
+  "jackal": {
+    "hit_rate": 1.0,
+    "smoothed": 0.6667,
+    "yes_count": 1,
+    "total": 1,
+    "confidence": "low"
+  },
+  "alien": {
+    "hit_rate": 0.0,
+    "smoothed": 0.25,
+    "yes_count": 0,
+    "total": 2,
+    "confidence": "low"
+  },
+  "tower / towers": {
+    "hit_rate": 0.0,
+    "smoothed": 0.3333,
+    "yes_count": 0,
+    "total": 1,
+    "confidence": "low"
+  },
+  "tee morant / dad / father": {
+    "hit_rate": 0.0,
+    "smoothed": 0.3333,
+    "yes_count": 0,
+    "total": 1,
+    "confidence": "low"
+  },
+  "fedex /  fedexforum": {
+    "hit_rate": 1.0,
+    "smoothed": 0.6667,
+    "yes_count": 1,
+    "total": 1,
+    "confidence": "low"
+  },
+  "ice trae": {
+    "hit_rate": 0.0,
+    "smoothed": 0.3333,
+    "yes_count": 0,
+    "total": 1,
+    "confidence": "low"
+  },
+  "christmas": {
+    "hit_rate": 1.0,
+    "smoothed": 0.8571,
+    "yes_count": 5,
+    "total": 5,
+    "confidence": "low"
+  },
+  "dominant / dominance / dominating": {
+    "hit_rate": 0.5,
+    "smoothed": 0.5,
+    "yes_count": 2,
+    "total": 4,
+    "confidence": "low"
+  },
+  "spike lee": {
+    "hit_rate": 1.0,
+    "smoothed": 0.75,
+    "yes_count": 2,
+    "total": 2,
+    "confidence": "low"
+  },
+  "garland": {
+    "hit_rate": 0.0,
+    "smoothed": 0.3333,
+    "yes_count": 0,
+    "total": 1,
+    "confidence": "low"
+  },
+  "giannis": {
+    "hit_rate": 0.0,
+    "smoothed": 0.3333,
+    "yes_count": 0,
+    "total": 1,
+    "confidence": "low"
+  },
+  "joker": {
+    "hit_rate": 1.0,
+    "smoothed": 0.6667,
+    "yes_count": 1,
+    "total": 1,
+    "confidence": "low"
+  },
+  "tatum": {
+    "hit_rate": 1.0,
+    "smoothed": 0.6667,
+    "yes_count": 1,
+    "total": 1,
+    "confidence": "low"
+  },
+  "garden": {
+    "hit_rate": 1.0,
+    "smoothed": 0.75,
+    "yes_count": 2,
+    "total": 2,
+    "confidence": "low"
+  },
+  "achilles": {
+    "hit_rate": 1.0,
+    "smoothed": 0.6667,
+    "yes_count": 1,
+    "total": 1,
+    "confidence": "low"
+  },
+  "disney": {
+    "hit_rate": 0.0,
+    "smoothed": 0.25,
+    "yes_count": 0,
+    "total": 2,
+    "confidence": "low"
+  },
+  "record": {
+    "hit_rate": 0.8,
+    "smoothed": 0.7143,
+    "yes_count": 4,
+    "total": 5,
+    "confidence": "low"
+  },
+  "davis": {
+    "hit_rate": 0.0,
+    "smoothed": 0.3333,
+    "yes_count": 0,
+    "total": 1,
+    "confidence": "low"
+  },
+  "knee": {
+    "hit_rate": 1.0,
+    "smoothed": 0.6667,
+    "yes_count": 1,
+    "total": 1,
+    "confidence": "low"
+  },
+  "10 point / double digit": {
+    "hit_rate": 1.0,
+    "smoothed": 0.75,
+    "yes_count": 2,
+    "total": 2,
+    "confidence": "low"
+  },
+  "snow / snowy / snowing": {
+    "hit_rate": 0.0,
+    "smoothed": 0.3333,
+    "yes_count": 0,
+    "total": 1,
+    "confidence": "low"
+  },
+  "kawhi": {
+    "hit_rate": 0.0,
+    "smoothed": 0.3333,
+    "yes_count": 0,
+    "total": 1,
+    "confidence": "low"
+  },
+  "hurricane": {
+    "hit_rate": 0.0,
+    "smoothed": 0.3333,
+    "yes_count": 0,
+    "total": 1,
+    "confidence": "low"
+  },
+  "shaq / shaquille": {
+    "hit_rate": 0.0,
+    "smoothed": 0.3333,
+    "yes_count": 0,
+    "total": 1,
+    "confidence": "low"
+  },
+  "florida": {
+    "hit_rate": 1.0,
+    "smoothed": 0.6667,
+    "yes_count": 1,
+    "total": 1,
+    "confidence": "low"
+  },
+  "south beach": {
+    "hit_rate": 0.0,
+    "smoothed": 0.3333,
+    "yes_count": 0,
+    "total": 1,
+    "confidence": "low"
+  },
+  "butler": {
+    "hit_rate": 0.0,
+    "smoothed": 0.3333,
+    "yes_count": 0,
+    "total": 1,
+    "confidence": "low"
+  },
+  "poster / posterized": {
+    "hit_rate": 0.1,
+    "smoothed": 0.1667,
+    "yes_count": 1,
+    "total": 10,
+    "confidence": "medium"
+  },
+  "twin cities": {
+    "hit_rate": 0.0,
+    "smoothed": 0.3333,
+    "yes_count": 0,
+    "total": 1,
+    "confidence": "low"
+  },
+  "ant man / ant-man": {
+    "hit_rate": 1.0,
+    "smoothed": 0.6667,
+    "yes_count": 1,
+    "total": 1,
+    "confidence": "low"
+  },
+  "durant": {
+    "hit_rate": 0.0,
+    "smoothed": 0.3333,
+    "yes_count": 0,
+    "total": 1,
+    "confidence": "low"
+  },
+  "trade / trades": {
+    "hit_rate": 0.0,
+    "smoothed": 0.25,
+    "yes_count": 0,
+    "total": 2,
+    "confidence": "low"
+  },
+  "nike": {
+    "hit_rate": 0.0,
+    "smoothed": 0.2,
+    "yes_count": 0,
+    "total": 3,
+    "confidence": "low"
+  },
+  "trade / traded": {
+    "hit_rate": 0.75,
+    "smoothed": 0.7,
+    "yes_count": 6,
+    "total": 8,
+    "confidence": "low"
+  },
+  "allen iverson": {
+    "hit_rate": 1.0,
+    "smoothed": 0.6667,
+    "yes_count": 1,
+    "total": 1,
+    "confidence": "low"
+  },
+  "liberty bell": {
+    "hit_rate": 0.0,
+    "smoothed": 0.3333,
+    "yes_count": 0,
+    "total": 1,
+    "confidence": "low"
+  },
+  "mark cuban": {
+    "hit_rate": 1.0,
+    "smoothed": 0.6667,
+    "yes_count": 1,
+    "total": 1,
+    "confidence": "low"
+  },
+  "ring": {
+    "hit_rate": 0.2857,
+    "smoothed": 0.3333,
+    "yes_count": 2,
+    "total": 7,
+    "confidence": "low"
+  },
+  "downtown": {
+    "hit_rate": 0.7143,
+    "smoothed": 0.6667,
+    "yes_count": 5,
+    "total": 7,
+    "confidence": "low"
+  },
+  "challenge / challenged": {
+    "hit_rate": 1.0,
+    "smoothed": 0.8889,
+    "yes_count": 7,
+    "total": 7,
+    "confidence": "low"
+  },
+  "splash": {
+    "hit_rate": 0.1429,
+    "smoothed": 0.2222,
+    "yes_count": 1,
+    "total": 7,
+    "confidence": "low"
+  },
+  "bang": {
+    "hit_rate": 0.1667,
+    "smoothed": 0.25,
+    "yes_count": 1,
+    "total": 6,
+    "confidence": "low"
+  },
+  "charge / charged": {
+    "hit_rate": 0.5,
+    "smoothed": 0.5,
+    "yes_count": 3,
+    "total": 6,
+    "confidence": "low"
+  },
+  "heat check": {
+    "hit_rate": 0.0,
+    "smoothed": 0.125,
+    "yes_count": 0,
+    "total": 6,
+    "confidence": "low"
+  },
+  "nasty": {
+    "hit_rate": 0.1667,
+    "smoothed": 0.25,
+    "yes_count": 1,
+    "total": 6,
+    "confidence": "low"
+  },
+  "euro / eurostep": {
+    "hit_rate": 0.1667,
+    "smoothed": 0.25,
+    "yes_count": 1,
+    "total": 6,
+    "confidence": "low"
+  },
+  "snatch / snatched": {
+    "hit_rate": 0.1667,
+    "smoothed": 0.25,
+    "yes_count": 1,
+    "total": 6,
+    "confidence": "low"
+  },
+  "the brow": {
+    "hit_rate": 0.0,
+    "smoothed": 0.3333,
+    "yes_count": 0,
+    "total": 1,
+    "confidence": "low"
+  },
+  "bronny": {
+    "hit_rate": 0.0,
+    "smoothed": 0.3333,
+    "yes_count": 0,
+    "total": 1,
+    "confidence": "low"
+  },
+  "turkey": {
+    "hit_rate": 0.0,
+    "smoothed": 0.3333,
+    "yes_count": 0,
+    "total": 1,
+    "confidence": "low"
+  },
+  "retirement / retiring": {
+    "hit_rate": 0.0,
+    "smoothed": 0.3333,
+    "yes_count": 0,
+    "total": 1,
+    "confidence": "low"
+  }
+}

@@ -1,0 +1,4852 @@
+{
+  "players": {
+    "A.J. Lawson": {
+      "pts": 3.9,
+      "reb": 1.7,
+      "ast": 0.3,
+      "team": "TOR",
+      "gp": 16
+    },
+    "AJ Green": {
+      "pts": 9.6,
+      "reb": 2.5,
+      "ast": 1.9,
+      "team": "MIL",
+      "gp": 70
+    },
+    "AJ Johnson": {
+      "pts": 2.7,
+      "reb": 1.1,
+      "ast": 0.9,
+      "team": "DAL",
+      "gp": 41
+    },
+    "Aaron Gordon": {
+      "pts": 16.6,
+      "reb": 5.9,
+      "ast": 2.5,
+      "team": "DEN",
+      "gp": 32
+    },
+    "Aaron Holiday": {
+      "pts": 5.5,
+      "reb": 0.9,
+      "ast": 1.0,
+      "team": "HOU",
+      "gp": 49
+    },
+    "Aaron Nesmith": {
+      "pts": 13.8,
+      "reb": 4.2,
+      "ast": 1.9,
+      "team": "IND",
+      "gp": 45
+    },
+    "Aaron Wiggins": {
+      "pts": 9.8,
+      "reb": 3.3,
+      "ast": 1.7,
+      "team": "OKC",
+      "gp": 58
+    },
+    "Ace Bailey": {
+      "pts": 13.5,
+      "reb": 4.2,
+      "ast": 1.8,
+      "team": "UTA",
+      "gp": 66
+    },
+    "Adama Bal": {
+      "pts": 3.0,
+      "reb": 2.0,
+      "ast": 3.0,
+      "team": "MEM",
+      "gp": 1
+    },
+    "Adem Bona": {
+      "pts": 4.8,
+      "reb": 4.5,
+      "ast": 0.4,
+      "team": "PHI",
+      "gp": 64
+    },
+    "Adou Thiero": {
+      "pts": 1.5,
+      "reb": 1.0,
+      "ast": 0.3,
+      "team": "LAL",
+      "gp": 20
+    },
+    "Ajay Mitchell": {
+      "pts": 14.0,
+      "reb": 3.5,
+      "ast": 3.6,
+      "team": "OKC",
+      "gp": 52
+    },
+    "Al Horford": {
+      "pts": 8.3,
+      "reb": 5.0,
+      "ast": 2.6,
+      "team": "GSW",
+      "gp": 43
+    },
+    "Alex Caruso": {
+      "pts": 6.4,
+      "reb": 2.8,
+      "ast": 2.0,
+      "team": "OKC",
+      "gp": 52
+    },
+    "Alex Morales": {
+      "pts": 2.0,
+      "reb": 3.0,
+      "ast": 4.0,
+      "team": "ORL",
+      "gp": 1
+    },
+    "Alex Sarr": {
+      "pts": 16.3,
+      "reb": 7.4,
+      "ast": 2.7,
+      "team": "WAS",
+      "gp": 48
+    },
+    "Alijah Martin": {
+      "pts": 2.7,
+      "reb": 1.1,
+      "ast": 0.5,
+      "team": "TOR",
+      "gp": 18
+    },
+    "Alondes Williams": {
+      "pts": 11.0,
+      "reb": 6.3,
+      "ast": 3.0,
+      "team": "WAS",
+      "gp": 4
+    },
+    "Alperen Sengun": {
+      "pts": 20.7,
+      "reb": 9.0,
+      "ast": 6.2,
+      "team": "HOU",
+      "gp": 65
+    },
+    "Amari Williams": {
+      "pts": 1.2,
+      "reb": 1.6,
+      "ast": 0.4,
+      "team": "BOS",
+      "gp": 20
+    },
+    "Amen Thompson": {
+      "pts": 17.9,
+      "reb": 7.9,
+      "ast": 5.2,
+      "team": "HOU",
+      "gp": 72
+    },
+    "Amir Coffey": {
+      "pts": 2.9,
+      "reb": 1.2,
+      "ast": 0.6,
+      "team": "PHX",
+      "gp": 43
+    },
+    "Andersson Garcia": {
+      "pts": 5.2,
+      "reb": 8.4,
+      "ast": 2.8,
+      "team": "UTA",
+      "gp": 5
+    },
+    "Andre Drummond": {
+      "pts": 6.4,
+      "reb": 8.4,
+      "ast": 1.1,
+      "team": "PHI",
+      "gp": 56
+    },
+    "Andre Jackson Jr.": {
+      "pts": 2.0,
+      "reb": 1.3,
+      "ast": 0.8,
+      "team": "MIL",
+      "gp": 41
+    },
+    "Andrew Nembhard": {
+      "pts": 16.9,
+      "reb": 2.8,
+      "ast": 7.7,
+      "team": "IND",
+      "gp": 57
+    },
+    "Andrew Wiggins": {
+      "pts": 15.6,
+      "reb": 5.0,
+      "ast": 2.7,
+      "team": "MIA",
+      "gp": 61
+    },
+    "Anfernee Simons": {
+      "pts": 14.3,
+      "reb": 2.5,
+      "ast": 2.4,
+      "team": "CHI",
+      "gp": 55
+    },
+    "Anthony Black": {
+      "pts": 15.3,
+      "reb": 3.9,
+      "ast": 3.8,
+      "team": "ORL",
+      "gp": 60
+    },
+    "Anthony Davis": {
+      "pts": 20.4,
+      "reb": 11.1,
+      "ast": 2.8,
+      "team": "WAS",
+      "gp": 20
+    },
+    "Anthony Edwards": {
+      "pts": 29.5,
+      "reb": 5.1,
+      "ast": 3.7,
+      "team": "MIN",
+      "gp": 58
+    },
+    "Anthony Gill": {
+      "pts": 4.7,
+      "reb": 2.6,
+      "ast": 1.1,
+      "team": "WAS",
+      "gp": 47
+    },
+    "Antonio Reeves": {
+      "pts": 3.0,
+      "reb": 0.9,
+      "ast": 0.2,
+      "team": "CHA",
+      "gp": 9
+    },
+    "Ariel Hukporti": {
+      "pts": 1.8,
+      "reb": 2.8,
+      "ast": 0.5,
+      "team": "NYK",
+      "gp": 49
+    },
+    "Asa Newell": {
+      "pts": 5.0,
+      "reb": 2.0,
+      "ast": 0.5,
+      "team": "ATL",
+      "gp": 40
+    },
+    "Ausar Thompson": {
+      "pts": 10.0,
+      "reb": 5.7,
+      "ast": 2.9,
+      "team": "DET",
+      "gp": 65
+    },
+    "Austin Reaves": {
+      "pts": 23.6,
+      "reb": 4.7,
+      "ast": 5.5,
+      "team": "LAL",
+      "gp": 48
+    },
+    "Ayo Dosunmu": {
+      "pts": 14.5,
+      "reb": 3.2,
+      "ast": 3.5,
+      "team": "MIN",
+      "gp": 63
+    },
+    "Bam Adebayo": {
+      "pts": 20.1,
+      "reb": 9.9,
+      "ast": 3.0,
+      "team": "MIA",
+      "gp": 66
+    },
+    "Baylor Scheierman": {
+      "pts": 5.0,
+      "reb": 3.5,
+      "ast": 1.4,
+      "team": "BOS",
+      "gp": 69
+    },
+    "Ben Saraf": {
+      "pts": 6.7,
+      "reb": 1.9,
+      "ast": 3.2,
+      "team": "BKN",
+      "gp": 38
+    },
+    "Ben Sheppard": {
+      "pts": 7.0,
+      "reb": 3.0,
+      "ast": 1.7,
+      "team": "IND",
+      "gp": 63
+    },
+    "Bennedict Mathurin": {
+      "pts": 18.8,
+      "reb": 5.6,
+      "ast": 2.3,
+      "team": "LAC",
+      "gp": 47
+    },
+    "Bez Mbeng": {
+      "pts": 4.8,
+      "reb": 3.7,
+      "ast": 3.3,
+      "team": "UTA",
+      "gp": 9
+    },
+    "Bilal Coulibaly": {
+      "pts": 11.3,
+      "reb": 4.4,
+      "ast": 2.6,
+      "team": "WAS",
+      "gp": 52
+    },
+    "Bismack Biyombo": {
+      "pts": 0.9,
+      "reb": 1.0,
+      "ast": 0.2,
+      "team": "SAS",
+      "gp": 23
+    },
+    "Blake Hinson": {
+      "pts": 10.6,
+      "reb": 2.2,
+      "ast": 0.8,
+      "team": "UTA",
+      "gp": 11
+    },
+    "Blake Wesley": {
+      "pts": 5.4,
+      "reb": 1.4,
+      "ast": 2.3,
+      "team": "POR",
+      "gp": 27
+    },
+    "Bobby Portis": {
+      "pts": 13.7,
+      "reb": 6.4,
+      "ast": 1.6,
+      "team": "MIL",
+      "gp": 67
+    },
+    "Bobi Klintman": {
+      "pts": 1.8,
+      "reb": 1.6,
+      "ast": 0.5,
+      "team": "DET",
+      "gp": 12
+    },
+    "Bogdan Bogdanovi\u0107": {
+      "pts": 7.3,
+      "reb": 2.7,
+      "ast": 2.4,
+      "team": "LAC",
+      "gp": 21
+    },
+    "Bones Hyland": {
+      "pts": 8.0,
+      "reb": 1.6,
+      "ast": 2.6,
+      "team": "MIN",
+      "gp": 65
+    },
+    "Bradley Beal": {
+      "pts": 8.2,
+      "reb": 0.8,
+      "ast": 1.7,
+      "team": "LAC",
+      "gp": 6
+    },
+    "Branden Carlson": {
+      "pts": 4.6,
+      "reb": 2.5,
+      "ast": 0.6,
+      "team": "OKC",
+      "gp": 37
+    },
+    "Brandin Podziemski": {
+      "pts": 13.3,
+      "reb": 5.3,
+      "ast": 3.8,
+      "team": "GSW",
+      "gp": 75
+    },
+    "Brandon Clarke": {
+      "pts": 4.0,
+      "reb": 3.0,
+      "ast": 0.5,
+      "team": "MEM",
+      "gp": 2
+    },
+    "Brandon Ingram": {
+      "pts": 21.4,
+      "reb": 5.6,
+      "ast": 3.7,
+      "team": "TOR",
+      "gp": 70
+    },
+    "Brandon Miller": {
+      "pts": 20.3,
+      "reb": 5.1,
+      "ast": 3.4,
+      "team": "CHA",
+      "gp": 58
+    },
+    "Brandon Williams": {
+      "pts": 12.7,
+      "reb": 2.9,
+      "ast": 3.8,
+      "team": "DAL",
+      "gp": 62
+    },
+    "Brice Sensabaugh": {
+      "pts": 14.2,
+      "reb": 3.0,
+      "ast": 1.7,
+      "team": "UTA",
+      "gp": 69
+    },
+    "Bronny James": {
+      "pts": 2.1,
+      "reb": 0.5,
+      "ast": 1.1,
+      "team": "LAL",
+      "gp": 34
+    },
+    "Brook Lopez": {
+      "pts": 8.1,
+      "reb": 3.3,
+      "ast": 1.3,
+      "team": "LAC",
+      "gp": 68
+    },
+    "Brooks Barnhizer": {
+      "pts": 1.3,
+      "reb": 1.8,
+      "ast": 0.5,
+      "team": "OKC",
+      "gp": 36
+    },
+    "Bruce Brown": {
+      "pts": 7.8,
+      "reb": 3.8,
+      "ast": 2.1,
+      "team": "DEN",
+      "gp": 76
+    },
+    "Bryce McGowens": {
+      "pts": 8.1,
+      "reb": 2.1,
+      "ast": 1.5,
+      "team": "NOP",
+      "gp": 42
+    },
+    "Bub Carrington": {
+      "pts": 10.3,
+      "reb": 3.5,
+      "ast": 4.5,
+      "team": "WAS",
+      "gp": 74
+    },
+    "Buddy Boeheim": {
+      "pts": 1.5,
+      "reb": 0.0,
+      "ast": 0.0,
+      "team": "OKC",
+      "gp": 4
+    },
+    "Buddy Hield": {
+      "pts": 7.3,
+      "reb": 2.3,
+      "ast": 1.4,
+      "team": "ATL",
+      "gp": 49
+    },
+    "CJ Huntley": {
+      "pts": 2.0,
+      "reb": 0.0,
+      "ast": 0.0,
+      "team": "PHX",
+      "gp": 1
+    },
+    "CJ McCollum": {
+      "pts": 18.8,
+      "reb": 3.4,
+      "ast": 3.8,
+      "team": "ATL",
+      "gp": 70
+    },
+    "Cade Cunningham": {
+      "pts": 24.5,
+      "reb": 5.6,
+      "ast": 9.9,
+      "team": "DET",
+      "gp": 61
+    },
+    "Caleb Houstan": {
+      "pts": 1.9,
+      "reb": 0.4,
+      "ast": 0.2,
+      "team": "ATL",
+      "gp": 16
+    },
+    "Caleb Love": {
+      "pts": 11.0,
+      "reb": 2.5,
+      "ast": 2.7,
+      "team": "POR",
+      "gp": 46
+    },
+    "Caleb Martin": {
+      "pts": 3.9,
+      "reb": 2.5,
+      "ast": 1.4,
+      "team": "DAL",
+      "gp": 58
+    },
+    "Cam Christie": {
+      "pts": 3.1,
+      "reb": 1.5,
+      "ast": 0.6,
+      "team": "LAC",
+      "gp": 49
+    },
+    "Cam Spencer": {
+      "pts": 11.1,
+      "reb": 2.6,
+      "ast": 5.5,
+      "team": "MEM",
+      "gp": 69
+    },
+    "Cam Thomas": {
+      "pts": 13.5,
+      "reb": 1.7,
+      "ast": 2.6,
+      "team": "MIL",
+      "gp": 42
+    },
+    "Cam Whitmore": {
+      "pts": 9.2,
+      "reb": 2.8,
+      "ast": 0.7,
+      "team": "WAS",
+      "gp": 21
+    },
+    "Cameron Johnson": {
+      "pts": 11.8,
+      "reb": 3.6,
+      "ast": 2.3,
+      "team": "DEN",
+      "gp": 50
+    },
+    "Cameron Payne": {
+      "pts": 7.9,
+      "reb": 1.9,
+      "ast": 2.8,
+      "team": "PHI",
+      "gp": 20
+    },
+    "Caris LeVert": {
+      "pts": 7.3,
+      "reb": 1.9,
+      "ast": 2.7,
+      "team": "DET",
+      "gp": 53
+    },
+    "Carter Bryant": {
+      "pts": 4.0,
+      "reb": 2.5,
+      "ast": 0.5,
+      "team": "SAS",
+      "gp": 63
+    },
+    "Cason Wallace": {
+      "pts": 8.6,
+      "reb": 3.1,
+      "ast": 2.7,
+      "team": "OKC",
+      "gp": 72
+    },
+    "Cedric Coward": {
+      "pts": 13.5,
+      "reb": 6.1,
+      "ast": 2.8,
+      "team": "MEM",
+      "gp": 57
+    },
+    "Chaney Johnson": {
+      "pts": 7.3,
+      "reb": 4.1,
+      "ast": 2.3,
+      "team": "BKN",
+      "gp": 12
+    },
+    "Charles Bassey": {
+      "pts": 2.3,
+      "reb": 3.0,
+      "ast": 0.3,
+      "team": "BOS",
+      "gp": 6
+    },
+    "Chaz Lanier": {
+      "pts": 2.6,
+      "reb": 0.7,
+      "ast": 0.5,
+      "team": "DET",
+      "gp": 28
+    },
+    "Chet Holmgren": {
+      "pts": 17.1,
+      "reb": 8.9,
+      "ast": 1.7,
+      "team": "OKC",
+      "gp": 64
+    },
+    "Chris Boucher": {
+      "pts": 2.3,
+      "reb": 2.0,
+      "ast": 0.3,
+      "team": "BOS",
+      "gp": 9
+    },
+    "Chris Livingston": {
+      "pts": 3.0,
+      "reb": 1.0,
+      "ast": 0.3,
+      "team": "CLE",
+      "gp": 3
+    },
+    "Chris Ma\u00f1on": {
+      "pts": 0.3,
+      "reb": 1.0,
+      "ast": 0.2,
+      "team": "LAL",
+      "gp": 6
+    },
+    "Chris Paul": {
+      "pts": 2.9,
+      "reb": 1.8,
+      "ast": 3.3,
+      "team": "LAC",
+      "gp": 16
+    },
+    "Chris Youngblood": {
+      "pts": 2.2,
+      "reb": 0.8,
+      "ast": 0.4,
+      "team": "POR",
+      "gp": 33
+    },
+    "Christian Braun": {
+      "pts": 11.6,
+      "reb": 4.7,
+      "ast": 2.8,
+      "team": "DEN",
+      "gp": 40
+    },
+    "Christian Koloko": {
+      "pts": 2.6,
+      "reb": 2.9,
+      "ast": 0.7,
+      "team": "ATL",
+      "gp": 25
+    },
+    "Chucky Hepburn": {
+      "pts": 0.0,
+      "reb": 0.5,
+      "ast": 1.0,
+      "team": "TOR",
+      "gp": 2
+    },
+    "Clint Capela": {
+      "pts": 3.7,
+      "reb": 4.7,
+      "ast": 0.7,
+      "team": "HOU",
+      "gp": 67
+    },
+    "Coby White": {
+      "pts": 17.6,
+      "reb": 3.6,
+      "ast": 4.2,
+      "team": "CHA",
+      "gp": 44
+    },
+    "Cody Martin": {
+      "pts": 1.8,
+      "reb": 3.5,
+      "ast": 0.5,
+      "team": "IND",
+      "gp": 4
+    },
+    "Cody Williams": {
+      "pts": 7.9,
+      "reb": 2.8,
+      "ast": 1.7,
+      "team": "UTA",
+      "gp": 60
+    },
+    "Colby Jones": {
+      "pts": 2.0,
+      "reb": 4.0,
+      "ast": 2.0,
+      "team": "DET",
+      "gp": 1
+    },
+    "Cole Anthony": {
+      "pts": 6.7,
+      "reb": 2.5,
+      "ast": 3.5,
+      "team": "MIL",
+      "gp": 35
+    },
+    "Colin Castleton": {
+      "pts": 2.0,
+      "reb": 4.0,
+      "ast": 1.0,
+      "team": "ORL",
+      "gp": 1
+    },
+    "Collin Gillespie": {
+      "pts": 13.1,
+      "reb": 4.1,
+      "ast": 4.8,
+      "team": "PHX",
+      "gp": 73
+    },
+    "Collin Murray-Boyles": {
+      "pts": 7.9,
+      "reb": 4.9,
+      "ast": 1.9,
+      "team": "TOR",
+      "gp": 50
+    },
+    "Collin Sexton": {
+      "pts": 15.0,
+      "reb": 2.0,
+      "ast": 3.3,
+      "team": "CHI",
+      "gp": 60
+    },
+    "Cooper Flagg": {
+      "pts": 20.4,
+      "reb": 6.6,
+      "ast": 4.6,
+      "team": "DAL",
+      "gp": 62
+    },
+    "Corey Kispert": {
+      "pts": 9.1,
+      "reb": 2.4,
+      "ast": 1.6,
+      "team": "ATL",
+      "gp": 54
+    },
+    "Cormac Ryan": {
+      "pts": 5.0,
+      "reb": 0.3,
+      "ast": 0.3,
+      "team": "MIL",
+      "gp": 4
+    },
+    "Craig Porter Jr.": {
+      "pts": 4.4,
+      "reb": 3.3,
+      "ast": 3.2,
+      "team": "CLE",
+      "gp": 58
+    },
+    "Curtis Jones": {
+      "pts": 1.3,
+      "reb": 0.7,
+      "ast": 0.6,
+      "team": "DEN",
+      "gp": 7
+    },
+    "D'Angelo Russell": {
+      "pts": 10.2,
+      "reb": 2.3,
+      "ast": 4.0,
+      "team": "WAS",
+      "gp": 26
+    },
+    "DaQuan Jeffries": {
+      "pts": 10.3,
+      "reb": 1.7,
+      "ast": 0.3,
+      "team": "SAC",
+      "gp": 3
+    },
+    "DaRon Holmes II": {
+      "pts": 4.2,
+      "reb": 1.4,
+      "ast": 0.8,
+      "team": "DEN",
+      "gp": 21
+    },
+    "Daeqwon Plowden": {
+      "pts": 10.1,
+      "reb": 3.0,
+      "ast": 1.1,
+      "team": "SAC",
+      "gp": 26
+    },
+    "Dalano Banton": {
+      "pts": 2.0,
+      "reb": 0.2,
+      "ast": 0.8,
+      "team": "BOS",
+      "gp": 5
+    },
+    "Dalen Terry": {
+      "pts": 3.7,
+      "reb": 1.8,
+      "ast": 1.4,
+      "team": "PHI",
+      "gp": 47
+    },
+    "Dalton Knecht": {
+      "pts": 4.2,
+      "reb": 1.4,
+      "ast": 0.3,
+      "team": "LAL",
+      "gp": 48
+    },
+    "Daniel Gafford": {
+      "pts": 9.5,
+      "reb": 7.0,
+      "ast": 1.1,
+      "team": "DAL",
+      "gp": 51
+    },
+    "Daniss Jenkins": {
+      "pts": 8.7,
+      "reb": 2.1,
+      "ast": 3.5,
+      "team": "DET",
+      "gp": 64
+    },
+    "Danny Wolf": {
+      "pts": 8.9,
+      "reb": 4.9,
+      "ast": 2.2,
+      "team": "BKN",
+      "gp": 57
+    },
+    "Dario Saric": {
+      "pts": 1.0,
+      "reb": 1.2,
+      "ast": 0.4,
+      "team": "SAC",
+      "gp": 5
+    },
+    "Darius Brown": {
+      "pts": 0.0,
+      "reb": 1.0,
+      "ast": 0.0,
+      "team": "CLE",
+      "gp": 1
+    },
+    "Darius Garland": {
+      "pts": 19.1,
+      "reb": 2.4,
+      "ast": 6.9,
+      "team": "LAC",
+      "gp": 39
+    },
+    "David Jones Garcia": {
+      "pts": 2.9,
+      "reb": 1.2,
+      "ast": 1.6,
+      "team": "SAS",
+      "gp": 11
+    },
+    "David Roddy": {
+      "pts": 1.0,
+      "reb": 2.0,
+      "ast": 1.0,
+      "team": "DEN",
+      "gp": 2
+    },
+    "Davion Mitchell": {
+      "pts": 9.0,
+      "reb": 2.7,
+      "ast": 6.5,
+      "team": "MIA",
+      "gp": 64
+    },
+    "Day'Ron Sharpe": {
+      "pts": 8.7,
+      "reb": 6.7,
+      "ast": 2.3,
+      "team": "BKN",
+      "gp": 62
+    },
+    "De'Aaron Fox": {
+      "pts": 18.8,
+      "reb": 3.8,
+      "ast": 6.3,
+      "team": "SAS",
+      "gp": 64
+    },
+    "De'Andre Hunter": {
+      "pts": 13.7,
+      "reb": 4.1,
+      "ast": 2.0,
+      "team": "SAC",
+      "gp": 45
+    },
+    "De'Anthony Melton": {
+      "pts": 12.7,
+      "reb": 3.2,
+      "ast": 2.5,
+      "team": "GSW",
+      "gp": 43
+    },
+    "DeAndre Jordan": {
+      "pts": 4.4,
+      "reb": 6.3,
+      "ast": 0.9,
+      "team": "NOP",
+      "gp": 12
+    },
+    "DeJon Jarreau": {
+      "pts": 8.0,
+      "reb": 4.6,
+      "ast": 3.3,
+      "team": "MEM",
+      "gp": 9
+    },
+    "DeMar DeRozan": {
+      "pts": 18.5,
+      "reb": 3.0,
+      "ast": 4.1,
+      "team": "SAC",
+      "gp": 74
+    },
+    "Dean Wade": {
+      "pts": 5.8,
+      "reb": 4.2,
+      "ast": 1.5,
+      "team": "CLE",
+      "gp": 57
+    },
+    "Deandre Ayton": {
+      "pts": 12.3,
+      "reb": 8.3,
+      "ast": 0.8,
+      "team": "LAL",
+      "gp": 64
+    },
+    "Dejounte Murray": {
+      "pts": 17.3,
+      "reb": 5.2,
+      "ast": 6.5,
+      "team": "NOP",
+      "gp": 13
+    },
+    "Deni Avdija": {
+      "pts": 23.8,
+      "reb": 6.9,
+      "ast": 6.7,
+      "team": "POR",
+      "gp": 60
+    },
+    "Dennis Schr\u00f6der": {
+      "pts": 11.0,
+      "reb": 2.7,
+      "ast": 4.9,
+      "team": "CLE",
+      "gp": 63
+    },
+    "Dereck Lively II": {
+      "pts": 4.3,
+      "reb": 5.3,
+      "ast": 1.9,
+      "team": "DAL",
+      "gp": 7
+    },
+    "Derik Queen": {
+      "pts": 11.4,
+      "reb": 6.8,
+      "ast": 3.6,
+      "team": "NOP",
+      "gp": 75
+    },
+    "Derrick Jones Jr.": {
+      "pts": 10.7,
+      "reb": 3.3,
+      "ast": 1.4,
+      "team": "LAC",
+      "gp": 43
+    },
+    "Derrick White": {
+      "pts": 17.1,
+      "reb": 4.5,
+      "ast": 5.5,
+      "team": "BOS",
+      "gp": 70
+    },
+    "Desmond Bane": {
+      "pts": 20.3,
+      "reb": 4.1,
+      "ast": 4.2,
+      "team": "ORL",
+      "gp": 74
+    },
+    "Devin Booker": {
+      "pts": 25.5,
+      "reb": 3.9,
+      "ast": 6.0,
+      "team": "PHX",
+      "gp": 58
+    },
+    "Devin Carter": {
+      "pts": 7.9,
+      "reb": 2.8,
+      "ast": 2.3,
+      "team": "SAC",
+      "gp": 32
+    },
+    "Devin Vassell": {
+      "pts": 14.2,
+      "reb": 3.8,
+      "ast": 2.5,
+      "team": "SAS",
+      "gp": 59
+    },
+    "Dillon Brooks": {
+      "pts": 20.9,
+      "reb": 3.7,
+      "ast": 1.8,
+      "team": "PHX",
+      "gp": 50
+    },
+    "Dillon Jones": {
+      "pts": 1.2,
+      "reb": 1.0,
+      "ast": 0.7,
+      "team": "NYK",
+      "gp": 6
+    },
+    "Domantas Sabonis": {
+      "pts": 15.8,
+      "reb": 11.4,
+      "ast": 4.1,
+      "team": "SAC",
+      "gp": 19
+    },
+    "Dominick Barlow": {
+      "pts": 8.0,
+      "reb": 4.7,
+      "ast": 1.3,
+      "team": "PHI",
+      "gp": 63
+    },
+    "Donovan Clingan": {
+      "pts": 12.2,
+      "reb": 11.7,
+      "ast": 2.1,
+      "team": "POR",
+      "gp": 71
+    },
+    "Donovan Mitchell": {
+      "pts": 27.9,
+      "reb": 4.5,
+      "ast": 5.8,
+      "team": "CLE",
+      "gp": 65
+    },
+    "Donte DiVincenzo": {
+      "pts": 12.4,
+      "reb": 4.3,
+      "ast": 4.0,
+      "team": "MIN",
+      "gp": 74
+    },
+    "Dorian Finney-Smith": {
+      "pts": 3.1,
+      "reb": 2.5,
+      "ast": 1.0,
+      "team": "HOU",
+      "gp": 35
+    },
+    "Doug McDermott": {
+      "pts": 5.6,
+      "reb": 1.1,
+      "ast": 0.6,
+      "team": "SAC",
+      "gp": 23
+    },
+    "Drake Powell": {
+      "pts": 6.3,
+      "reb": 1.7,
+      "ast": 1.5,
+      "team": "BKN",
+      "gp": 57
+    },
+    "Draymond Green": {
+      "pts": 8.6,
+      "reb": 5.5,
+      "ast": 5.4,
+      "team": "GSW",
+      "gp": 62
+    },
+    "Drew Eubanks": {
+      "pts": 5.2,
+      "reb": 3.0,
+      "ast": 0.5,
+      "team": "SAC",
+      "gp": 42
+    },
+    "Drew Peterson": {
+      "pts": 0.8,
+      "reb": 1.5,
+      "ast": 0.3,
+      "team": "CHA",
+      "gp": 6
+    },
+    "Drew Timme": {
+      "pts": 3.4,
+      "reb": 1.3,
+      "ast": 0.8,
+      "team": "LAL",
+      "gp": 21
+    },
+    "Dru Smith": {
+      "pts": 5.8,
+      "reb": 2.6,
+      "ast": 2.7,
+      "team": "MIA",
+      "gp": 67
+    },
+    "Duncan Robinson": {
+      "pts": 11.9,
+      "reb": 2.7,
+      "ast": 2.1,
+      "team": "DET",
+      "gp": 71
+    },
+    "Duop Reath": {
+      "pts": 2.9,
+      "reb": 1.2,
+      "ast": 0.3,
+      "team": "POR",
+      "gp": 32
+    },
+    "Dwight Powell": {
+      "pts": 3.3,
+      "reb": 3.7,
+      "ast": 0.9,
+      "team": "DAL",
+      "gp": 55
+    },
+    "Dylan Cardwell": {
+      "pts": 5.1,
+      "reb": 7.5,
+      "ast": 1.4,
+      "team": "SAC",
+      "gp": 38
+    },
+    "Dylan Harper": {
+      "pts": 11.5,
+      "reb": 3.4,
+      "ast": 3.9,
+      "team": "SAS",
+      "gp": 61
+    },
+    "Dyson Daniels": {
+      "pts": 11.7,
+      "reb": 6.7,
+      "ast": 5.9,
+      "team": "ATL",
+      "gp": 70
+    },
+    "E.J. Liddell": {
+      "pts": 2.6,
+      "reb": 1.9,
+      "ast": 0.8,
+      "team": "BKN",
+      "gp": 20
+    },
+    "Egor D\u00ebmin": {
+      "pts": 10.3,
+      "reb": 3.2,
+      "ast": 3.3,
+      "team": "BKN",
+      "gp": 52
+    },
+    "Elijah Harkless": {
+      "pts": 6.8,
+      "reb": 2.0,
+      "ast": 2.9,
+      "team": "UTA",
+      "gp": 26
+    },
+    "Emanuel Miller": {
+      "pts": 3.0,
+      "reb": 0.6,
+      "ast": 0.8,
+      "team": "SAS",
+      "gp": 5
+    },
+    "Enrique Freeman": {
+      "pts": 0.0,
+      "reb": 1.5,
+      "ast": 0.0,
+      "team": "MIN",
+      "gp": 2
+    },
+    "Eric Gordon": {
+      "pts": 5.5,
+      "reb": 0.3,
+      "ast": 0.5,
+      "team": "PHI",
+      "gp": 6
+    },
+    "Ethan Thompson": {
+      "pts": 5.0,
+      "reb": 1.8,
+      "ast": 1.4,
+      "team": "IND",
+      "gp": 25
+    },
+    "Evan Mobley": {
+      "pts": 18.2,
+      "reb": 8.9,
+      "ast": 3.6,
+      "team": "CLE",
+      "gp": 59
+    },
+    "Franz Wagner": {
+      "pts": 21.3,
+      "reb": 5.8,
+      "ast": 3.6,
+      "team": "ORL",
+      "gp": 28
+    },
+    "GG Jackson": {
+      "pts": 12.0,
+      "reb": 4.3,
+      "ast": 1.4,
+      "team": "MEM",
+      "gp": 51
+    },
+    "Gabe Vincent": {
+      "pts": 4.4,
+      "reb": 1.0,
+      "ast": 1.4,
+      "team": "ATL",
+      "gp": 47
+    },
+    "Garrett Temple": {
+      "pts": 0.7,
+      "reb": 0.4,
+      "ast": 0.4,
+      "team": "TOR",
+      "gp": 20
+    },
+    "Garrison Mathews": {
+      "pts": 5.2,
+      "reb": 1.1,
+      "ast": 0.7,
+      "team": "IND",
+      "gp": 15
+    },
+    "Gary Harris": {
+      "pts": 2.6,
+      "reb": 1.2,
+      "ast": 1.0,
+      "team": "MIL",
+      "gp": 45
+    },
+    "Gary Payton II": {
+      "pts": 7.3,
+      "reb": 3.6,
+      "ast": 1.7,
+      "team": "GSW",
+      "gp": 67
+    },
+    "Gary Trent Jr.": {
+      "pts": 8.2,
+      "reb": 1.0,
+      "ast": 1.2,
+      "team": "MIL",
+      "gp": 62
+    },
+    "Giannis Antetokounmpo": {
+      "pts": 27.6,
+      "reb": 9.8,
+      "ast": 5.4,
+      "team": "MIL",
+      "gp": 36
+    },
+    "Goga Bitadze": {
+      "pts": 5.7,
+      "reb": 4.7,
+      "ast": 1.3,
+      "team": "ORL",
+      "gp": 56
+    },
+    "Gradey Dick": {
+      "pts": 6.3,
+      "reb": 2.1,
+      "ast": 0.7,
+      "team": "TOR",
+      "gp": 69
+    },
+    "Grant Nelson": {
+      "pts": 4.3,
+      "reb": 1.5,
+      "ast": 1.3,
+      "team": "BKN",
+      "gp": 4
+    },
+    "Grant Williams": {
+      "pts": 6.8,
+      "reb": 3.9,
+      "ast": 1.6,
+      "team": "CHA",
+      "gp": 30
+    },
+    "Grayson Allen": {
+      "pts": 17.3,
+      "reb": 3.0,
+      "ast": 4.1,
+      "team": "PHX",
+      "gp": 46
+    },
+    "Guerschon Yabusele": {
+      "pts": 5.1,
+      "reb": 3.3,
+      "ast": 0.9,
+      "team": "CHI",
+      "gp": 61
+    },
+    "Gui Santos": {
+      "pts": 8.9,
+      "reb": 3.9,
+      "ast": 2.3,
+      "team": "GSW",
+      "gp": 64
+    },
+    "Harrison Barnes": {
+      "pts": 10.1,
+      "reb": 2.9,
+      "ast": 2.0,
+      "team": "SAS",
+      "gp": 69
+    },
+    "Harrison Ingram": {
+      "pts": 1.8,
+      "reb": 0.6,
+      "ast": 0.2,
+      "team": "SAS",
+      "gp": 5
+    },
+    "Haywood Highsmith": {
+      "pts": 5.5,
+      "reb": 2.2,
+      "ast": 1.2,
+      "team": "PHX",
+      "gp": 6
+    },
+    "Herbert Jones": {
+      "pts": 9.0,
+      "reb": 3.4,
+      "ast": 2.8,
+      "team": "NOP",
+      "gp": 53
+    },
+    "Hugo Gonz\u00e1lez": {
+      "pts": 3.9,
+      "reb": 3.4,
+      "ast": 0.6,
+      "team": "BOS",
+      "gp": 69
+    },
+    "Hunter Dickinson": {
+      "pts": 2.0,
+      "reb": 0.0,
+      "ast": 0.0,
+      "team": "NOP",
+      "gp": 1
+    },
+    "Hunter Sallis": {
+      "pts": 1.0,
+      "reb": 0.1,
+      "ast": 0.6,
+      "team": "PHI",
+      "gp": 7
+    },
+    "Hunter Tyson": {
+      "pts": 2.2,
+      "reb": 1.7,
+      "ast": 0.8,
+      "team": "DEN",
+      "gp": 21
+    },
+    "Immanuel Quickley": {
+      "pts": 16.9,
+      "reb": 4.1,
+      "ast": 6.0,
+      "team": "TOR",
+      "gp": 67
+    },
+    "Isaac Jones": {
+      "pts": 1.2,
+      "reb": 0.8,
+      "ast": 0.2,
+      "team": "DET",
+      "gp": 6
+    },
+    "Isaac Okoro": {
+      "pts": 9.2,
+      "reb": 2.8,
+      "ast": 1.5,
+      "team": "CHI",
+      "gp": 58
+    },
+    "Isaiah Collier": {
+      "pts": 11.7,
+      "reb": 2.5,
+      "ast": 7.2,
+      "team": "UTA",
+      "gp": 59
+    },
+    "Isaiah Crawford": {
+      "pts": 1.3,
+      "reb": 0.8,
+      "ast": 0.3,
+      "team": "HOU",
+      "gp": 13
+    },
+    "Isaiah Hartenstein": {
+      "pts": 9.4,
+      "reb": 9.7,
+      "ast": 3.7,
+      "team": "OKC",
+      "gp": 43
+    },
+    "Isaiah Jackson": {
+      "pts": 6.7,
+      "reb": 5.3,
+      "ast": 0.9,
+      "team": "LAC",
+      "gp": 55
+    },
+    "Isaiah Joe": {
+      "pts": 10.8,
+      "reb": 2.6,
+      "ast": 1.4,
+      "team": "OKC",
+      "gp": 66
+    },
+    "Isaiah Livers": {
+      "pts": 1.8,
+      "reb": 1.7,
+      "ast": 0.6,
+      "team": "PHX",
+      "gp": 36
+    },
+    "Isaiah Stevens": {
+      "pts": 3.3,
+      "reb": 1.0,
+      "ast": 3.3,
+      "team": "SAC",
+      "gp": 3
+    },
+    "Isaiah Stewart": {
+      "pts": 10.0,
+      "reb": 5.1,
+      "ast": 1.2,
+      "team": "DET",
+      "gp": 55
+    },
+    "Ivica Zubac": {
+      "pts": 14.1,
+      "reb": 10.6,
+      "ast": 2.2,
+      "team": "IND",
+      "gp": 48
+    },
+    "JD Davison": {
+      "pts": 2.2,
+      "reb": 0.9,
+      "ast": 1.1,
+      "team": "HOU",
+      "gp": 25
+    },
+    "Ja Morant": {
+      "pts": 19.5,
+      "reb": 3.3,
+      "ast": 8.1,
+      "team": "MEM",
+      "gp": 20
+    },
+    "Ja'Kobe Walter": {
+      "pts": 7.3,
+      "reb": 2.4,
+      "ast": 1.1,
+      "team": "TOR",
+      "gp": 64
+    },
+    "Jabari Smith Jr.": {
+      "pts": 15.6,
+      "reb": 6.9,
+      "ast": 1.9,
+      "team": "HOU",
+      "gp": 70
+    },
+    "Jabari Walker": {
+      "pts": 4.5,
+      "reb": 3.1,
+      "ast": 0.6,
+      "team": "PHI",
+      "gp": 60
+    },
+    "Jacob Toppin": {
+      "pts": 1.6,
+      "reb": 0.2,
+      "ast": 0.2,
+      "team": "ATL",
+      "gp": 5
+    },
+    "Jaden Hardy": {
+      "pts": 9.1,
+      "reb": 1.5,
+      "ast": 0.9,
+      "team": "WAS",
+      "gp": 52
+    },
+    "Jaden Ivey": {
+      "pts": 8.5,
+      "reb": 2.5,
+      "ast": 1.8,
+      "team": "CHI",
+      "gp": 37
+    },
+    "Jaden McDaniels": {
+      "pts": 14.8,
+      "reb": 4.2,
+      "ast": 2.7,
+      "team": "MIN",
+      "gp": 71
+    },
+    "Jae'Sean Tate": {
+      "pts": 2.6,
+      "reb": 1.3,
+      "ast": 0.4,
+      "team": "HOU",
+      "gp": 39
+    },
+    "Jahmai Mashack": {
+      "pts": 5.4,
+      "reb": 2.2,
+      "ast": 1.4,
+      "team": "MEM",
+      "gp": 25
+    },
+    "Jahmir Young": {
+      "pts": 1.8,
+      "reb": 0.4,
+      "ast": 0.5,
+      "team": "MIA",
+      "gp": 11
+    },
+    "Jahmyl Telfort": {
+      "pts": 0.1,
+      "reb": 0.4,
+      "ast": 0.1,
+      "team": "LAC",
+      "gp": 8
+    },
+    "Jaime Jaquez Jr.": {
+      "pts": 15.0,
+      "reb": 5.0,
+      "ast": 4.7,
+      "team": "MIA",
+      "gp": 68
+    },
+    "Jake LaRavia": {
+      "pts": 8.3,
+      "reb": 3.8,
+      "ast": 1.8,
+      "team": "LAL",
+      "gp": 74
+    },
+    "Jakob Poeltl": {
+      "pts": 10.6,
+      "reb": 7.6,
+      "ast": 2.1,
+      "team": "TOR",
+      "gp": 38
+    },
+    "Jalen Brunson": {
+      "pts": 26.3,
+      "reb": 3.4,
+      "ast": 6.7,
+      "team": "NYK",
+      "gp": 69
+    },
+    "Jalen Duren": {
+      "pts": 19.3,
+      "reb": 10.6,
+      "ast": 1.8,
+      "team": "DET",
+      "gp": 64
+    },
+    "Jalen Green": {
+      "pts": 18.2,
+      "reb": 3.7,
+      "ast": 2.9,
+      "team": "PHX",
+      "gp": 26
+    },
+    "Jalen Johnson": {
+      "pts": 22.9,
+      "reb": 10.2,
+      "ast": 8.1,
+      "team": "ATL",
+      "gp": 66
+    },
+    "Jalen Pickett": {
+      "pts": 5.0,
+      "reb": 2.3,
+      "ast": 2.3,
+      "team": "DEN",
+      "gp": 46
+    },
+    "Jalen Slawson": {
+      "pts": 5.4,
+      "reb": 3.9,
+      "ast": 2.4,
+      "team": "IND",
+      "gp": 7
+    },
+    "Jalen Smith": {
+      "pts": 10.2,
+      "reb": 6.7,
+      "ast": 1.2,
+      "team": "CHI",
+      "gp": 53
+    },
+    "Jalen Suggs": {
+      "pts": 13.7,
+      "reb": 3.8,
+      "ast": 5.2,
+      "team": "ORL",
+      "gp": 49
+    },
+    "Jalen Williams": {
+      "pts": 17.3,
+      "reb": 4.5,
+      "ast": 5.3,
+      "team": "OKC",
+      "gp": 30
+    },
+    "Jalen Wilson": {
+      "pts": 5.8,
+      "reb": 1.8,
+      "ast": 0.7,
+      "team": "BKN",
+      "gp": 48
+    },
+    "Jamal Cain": {
+      "pts": 4.3,
+      "reb": 1.6,
+      "ast": 0.6,
+      "team": "ORL",
+      "gp": 32
+    },
+    "Jamal Murray": {
+      "pts": 25.5,
+      "reb": 4.4,
+      "ast": 7.2,
+      "team": "DEN",
+      "gp": 71
+    },
+    "Jamal Shead": {
+      "pts": 6.5,
+      "reb": 1.9,
+      "ast": 5.3,
+      "team": "TOR",
+      "gp": 74
+    },
+    "Jamaree Bouyea": {
+      "pts": 5.6,
+      "reb": 1.8,
+      "ast": 1.7,
+      "team": "PHX",
+      "gp": 40
+    },
+    "James Harden": {
+      "pts": 24.0,
+      "reb": 5.0,
+      "ast": 8.1,
+      "team": "CLE",
+      "gp": 64
+    },
+    "James Wiseman": {
+      "pts": 3.3,
+      "reb": 2.0,
+      "ast": 0.8,
+      "team": "IND",
+      "gp": 4
+    },
+    "Jamir Watkins": {
+      "pts": 6.3,
+      "reb": 3.6,
+      "ast": 1.2,
+      "team": "WAS",
+      "gp": 42
+    },
+    "Jamison Battle": {
+      "pts": 3.3,
+      "reb": 1.6,
+      "ast": 0.4,
+      "team": "TOR",
+      "gp": 55
+    },
+    "Jarace Walker": {
+      "pts": 11.5,
+      "reb": 5.1,
+      "ast": 2.4,
+      "team": "IND",
+      "gp": 73
+    },
+    "Jared McCain": {
+      "pts": 8.3,
+      "reb": 2.1,
+      "ast": 1.4,
+      "team": "OKC",
+      "gp": 60
+    },
+    "Jaren Jackson Jr.": {
+      "pts": 19.4,
+      "reb": 5.7,
+      "ast": 2.0,
+      "team": "UTA",
+      "gp": 48
+    },
+    "Jarred Vanderbilt": {
+      "pts": 4.4,
+      "reb": 4.5,
+      "ast": 1.2,
+      "team": "LAL",
+      "gp": 58
+    },
+    "Jarrett Allen": {
+      "pts": 15.3,
+      "reb": 8.5,
+      "ast": 1.9,
+      "team": "CLE",
+      "gp": 52
+    },
+    "Jase Richardson": {
+      "pts": 4.6,
+      "reb": 1.2,
+      "ast": 1.2,
+      "team": "ORL",
+      "gp": 49
+    },
+    "Javon Small": {
+      "pts": 9.2,
+      "reb": 3.1,
+      "ast": 3.7,
+      "team": "MEM",
+      "gp": 38
+    },
+    "Javonte Cooke": {
+      "pts": 1.2,
+      "reb": 1.0,
+      "ast": 0.4,
+      "team": "POR",
+      "gp": 19
+    },
+    "Javonte Green": {
+      "pts": 6.8,
+      "reb": 2.7,
+      "ast": 0.7,
+      "team": "DET",
+      "gp": 74
+    },
+    "Jaxson Hayes": {
+      "pts": 7.1,
+      "reb": 4.1,
+      "ast": 0.9,
+      "team": "LAL",
+      "gp": 62
+    },
+    "Jay Huff": {
+      "pts": 9.3,
+      "reb": 3.8,
+      "ast": 1.3,
+      "team": "IND",
+      "gp": 75
+    },
+    "Jaylen Brown": {
+      "pts": 28.6,
+      "reb": 7.0,
+      "ast": 5.2,
+      "team": "BOS",
+      "gp": 65
+    },
+    "Jaylen Clark": {
+      "pts": 3.9,
+      "reb": 1.8,
+      "ast": 0.5,
+      "team": "MIN",
+      "gp": 62
+    },
+    "Jaylen Wells": {
+      "pts": 12.5,
+      "reb": 3.2,
+      "ast": 1.6,
+      "team": "MEM",
+      "gp": 69
+    },
+    "Jaylin Williams": {
+      "pts": 7.5,
+      "reb": 5.5,
+      "ast": 2.5,
+      "team": "OKC",
+      "gp": 60
+    },
+    "Jaylon Tyson": {
+      "pts": 13.1,
+      "reb": 5.1,
+      "ast": 2.2,
+      "team": "CLE",
+      "gp": 64
+    },
+    "Jayson Kent": {
+      "pts": 3.3,
+      "reb": 1.3,
+      "ast": 0.0,
+      "team": "POR",
+      "gp": 3
+    },
+    "Jayson Tatum": {
+      "pts": 20.9,
+      "reb": 9.1,
+      "ast": 4.2,
+      "team": "BOS",
+      "gp": 11
+    },
+    "Jeff Green": {
+      "pts": 2.3,
+      "reb": 0.7,
+      "ast": 0.2,
+      "team": "HOU",
+      "gp": 27
+    },
+    "Jerami Grant": {
+      "pts": 18.6,
+      "reb": 3.5,
+      "ast": 2.1,
+      "team": "POR",
+      "gp": 57
+    },
+    "Jeremiah Fears": {
+      "pts": 13.0,
+      "reb": 3.5,
+      "ast": 3.3,
+      "team": "NOP",
+      "gp": 76
+    },
+    "Jeremiah Robinson-Earl": {
+      "pts": 4.6,
+      "reb": 4.7,
+      "ast": 0.7,
+      "team": "DAL",
+      "gp": 22
+    },
+    "Jeremy Sochan": {
+      "pts": 3.4,
+      "reb": 2.3,
+      "ast": 0.9,
+      "team": "NYK",
+      "gp": 40
+    },
+    "Jericho Sims": {
+      "pts": 4.3,
+      "reb": 5.0,
+      "ast": 1.2,
+      "team": "MIL",
+      "gp": 59
+    },
+    "Jett Howard": {
+      "pts": 5.4,
+      "reb": 1.6,
+      "ast": 0.8,
+      "team": "ORL",
+      "gp": 52
+    },
+    "Jevon Carter": {
+      "pts": 6.6,
+      "reb": 1.7,
+      "ast": 1.6,
+      "team": "ORL",
+      "gp": 45
+    },
+    "Jimmy Butler III": {
+      "pts": 20.0,
+      "reb": 5.6,
+      "ast": 4.9,
+      "team": "GSW",
+      "gp": 38
+    },
+    "Joan Beringer": {
+      "pts": 2.9,
+      "reb": 1.9,
+      "ast": 0.2,
+      "team": "MIN",
+      "gp": 34
+    },
+    "Jock Landale": {
+      "pts": 10.6,
+      "reb": 5.8,
+      "ast": 1.7,
+      "team": "ATL",
+      "gp": 67
+    },
+    "Joe Ingles": {
+      "pts": 0.8,
+      "reb": 0.4,
+      "ast": 0.8,
+      "team": "MIN",
+      "gp": 25
+    },
+    "Joel Embiid": {
+      "pts": 26.9,
+      "reb": 7.5,
+      "ast": 4.0,
+      "team": "PHI",
+      "gp": 35
+    },
+    "John Collins": {
+      "pts": 13.5,
+      "reb": 5.2,
+      "ast": 1.0,
+      "team": "LAC",
+      "gp": 62
+    },
+    "John Konchar": {
+      "pts": 3.9,
+      "reb": 3.8,
+      "ast": 1.7,
+      "team": "UTA",
+      "gp": 49
+    },
+    "John Poulakidas": {
+      "pts": 5.0,
+      "reb": 2.2,
+      "ast": 0.6,
+      "team": "DAL",
+      "gp": 5
+    },
+    "John Tonje": {
+      "pts": 0.5,
+      "reb": 0.5,
+      "ast": 0.3,
+      "team": "BOS",
+      "gp": 4
+    },
+    "Johni Broome": {
+      "pts": 0.9,
+      "reb": 1.5,
+      "ast": 0.4,
+      "team": "PHI",
+      "gp": 11
+    },
+    "Johnny Furphy": {
+      "pts": 5.1,
+      "reb": 4.4,
+      "ast": 1.2,
+      "team": "IND",
+      "gp": 35
+    },
+    "Johnny Juzang": {
+      "pts": 2.0,
+      "reb": 0.8,
+      "ast": 0.3,
+      "team": "MIN",
+      "gp": 21
+    },
+    "Jonas Valan\u010di\u016bnas": {
+      "pts": 8.1,
+      "reb": 4.8,
+      "ast": 1.2,
+      "team": "DEN",
+      "gp": 59
+    },
+    "Jonathan Isaac": {
+      "pts": 2.6,
+      "reb": 2.5,
+      "ast": 0.4,
+      "team": "ORL",
+      "gp": 52
+    },
+    "Jonathan Kuminga": {
+      "pts": 12.0,
+      "reb": 5.9,
+      "ast": 2.5,
+      "team": "ATL",
+      "gp": 30
+    },
+    "Jonathan Mogbo": {
+      "pts": 1.6,
+      "reb": 1.8,
+      "ast": 0.6,
+      "team": "TOR",
+      "gp": 34
+    },
+    "Jordan Clarkson": {
+      "pts": 8.9,
+      "reb": 1.7,
+      "ast": 1.3,
+      "team": "NYK",
+      "gp": 65
+    },
+    "Jordan Goodwin": {
+      "pts": 8.7,
+      "reb": 5.0,
+      "ast": 2.1,
+      "team": "PHX",
+      "gp": 64
+    },
+    "Jordan Hawkins": {
+      "pts": 3.9,
+      "reb": 1.5,
+      "ast": 0.7,
+      "team": "NOP",
+      "gp": 46
+    },
+    "Jordan McLaughlin": {
+      "pts": 2.0,
+      "reb": 0.7,
+      "ast": 0.9,
+      "team": "SAS",
+      "gp": 40
+    },
+    "Jordan Miller": {
+      "pts": 9.6,
+      "reb": 3.1,
+      "ast": 2.2,
+      "team": "LAC",
+      "gp": 53
+    },
+    "Jordan Poole": {
+      "pts": 12.9,
+      "reb": 1.9,
+      "ast": 3.0,
+      "team": "NOP",
+      "gp": 37
+    },
+    "Jordan Walsh": {
+      "pts": 5.3,
+      "reb": 4.1,
+      "ast": 0.8,
+      "team": "BOS",
+      "gp": 60
+    },
+    "Jose Alvarado": {
+      "pts": 7.1,
+      "reb": 2.4,
+      "ast": 3.4,
+      "team": "NYK",
+      "gp": 64
+    },
+    "Josh Giddey": {
+      "pts": 17.4,
+      "reb": 8.4,
+      "ast": 9.2,
+      "team": "CHI",
+      "gp": 52
+    },
+    "Josh Green": {
+      "pts": 4.6,
+      "reb": 1.9,
+      "ast": 0.9,
+      "team": "CHA",
+      "gp": 51
+    },
+    "Josh Hart": {
+      "pts": 12.3,
+      "reb": 7.6,
+      "ast": 5.0,
+      "team": "NYK",
+      "gp": 60
+    },
+    "Josh Minott": {
+      "pts": 7.1,
+      "reb": 3.3,
+      "ast": 1.0,
+      "team": "BKN",
+      "gp": 46
+    },
+    "Josh Okogie": {
+      "pts": 4.7,
+      "reb": 2.5,
+      "ast": 0.8,
+      "team": "HOU",
+      "gp": 70
+    },
+    "Jrue Holiday": {
+      "pts": 15.8,
+      "reb": 4.4,
+      "ast": 6.1,
+      "team": "POR",
+      "gp": 47
+    },
+    "Julian Champagnie": {
+      "pts": 11.1,
+      "reb": 5.7,
+      "ast": 1.5,
+      "team": "SAS",
+      "gp": 74
+    },
+    "Julian Phillips": {
+      "pts": 2.6,
+      "reb": 1.0,
+      "ast": 0.2,
+      "team": "MIN",
+      "gp": 44
+    },
+    "Julian Reese": {
+      "pts": 11.4,
+      "reb": 11.0,
+      "ast": 1.9,
+      "team": "WAS",
+      "gp": 7
+    },
+    "Julian Strawther": {
+      "pts": 6.6,
+      "reb": 2.0,
+      "ast": 1.0,
+      "team": "DEN",
+      "gp": 51
+    },
+    "Julius Randle": {
+      "pts": 20.9,
+      "reb": 6.8,
+      "ast": 5.1,
+      "team": "MIN",
+      "gp": 74
+    },
+    "Justin Champagnie": {
+      "pts": 8.3,
+      "reb": 5.4,
+      "ast": 1.2,
+      "team": "WAS",
+      "gp": 63
+    },
+    "Justin Edwards": {
+      "pts": 6.2,
+      "reb": 1.6,
+      "ast": 1.3,
+      "team": "PHI",
+      "gp": 57
+    },
+    "Jusuf Nurki\u0107": {
+      "pts": 10.9,
+      "reb": 10.4,
+      "ast": 4.8,
+      "team": "UTA",
+      "gp": 41
+    },
+    "KJ Simpson": {
+      "pts": 5.2,
+      "reb": 2.0,
+      "ast": 2.5,
+      "team": "DEN",
+      "gp": 17
+    },
+    "Kadary Richmond": {
+      "pts": 8.3,
+      "reb": 3.3,
+      "ast": 2.7,
+      "team": "WAS",
+      "gp": 3
+    },
+    "Kam Jones": {
+      "pts": 4.1,
+      "reb": 1.4,
+      "ast": 2.7,
+      "team": "IND",
+      "gp": 30
+    },
+    "Karl-Anthony Towns": {
+      "pts": 20.0,
+      "reb": 11.9,
+      "ast": 2.8,
+      "team": "NYK",
+      "gp": 70
+    },
+    "Karlo Matkovi\u0107": {
+      "pts": 5.7,
+      "reb": 3.7,
+      "ast": 0.8,
+      "team": "NOP",
+      "gp": 62
+    },
+    "Kasparas Jaku\u010dionis": {
+      "pts": 6.0,
+      "reb": 2.6,
+      "ast": 2.4,
+      "team": "MIA",
+      "gp": 48
+    },
+    "Kawhi Leonard": {
+      "pts": 28.2,
+      "reb": 6.3,
+      "ast": 3.6,
+      "team": "LAC",
+      "gp": 59
+    },
+    "Keaton Wallace": {
+      "pts": 3.6,
+      "reb": 1.0,
+      "ast": 1.7,
+      "team": "ATL",
+      "gp": 49
+    },
+    "Keegan Murray": {
+      "pts": 14.0,
+      "reb": 5.7,
+      "ast": 1.7,
+      "team": "SAC",
+      "gp": 23
+    },
+    "Kel'el Ware": {
+      "pts": 11.1,
+      "reb": 9.1,
+      "ast": 0.6,
+      "team": "MIA",
+      "gp": 70
+    },
+    "Keldon Johnson": {
+      "pts": 13.0,
+      "reb": 5.4,
+      "ast": 1.4,
+      "team": "SAS",
+      "gp": 74
+    },
+    "Kelly Olynyk": {
+      "pts": 3.2,
+      "reb": 1.8,
+      "ast": 1.2,
+      "team": "SAS",
+      "gp": 41
+    },
+    "Kelly Oubre Jr.": {
+      "pts": 14.5,
+      "reb": 4.9,
+      "ast": 1.7,
+      "team": "PHI",
+      "gp": 42
+    },
+    "Kennedy Chandler": {
+      "pts": 14.6,
+      "reb": 3.0,
+      "ast": 7.2,
+      "team": "UTA",
+      "gp": 5
+    },
+    "Kenrich Williams": {
+      "pts": 6.5,
+      "reb": 3.1,
+      "ast": 1.3,
+      "team": "OKC",
+      "gp": 49
+    },
+    "Kentavious Caldwell-Pope": {
+      "pts": 8.4,
+      "reb": 2.5,
+      "ast": 2.7,
+      "team": "MEM",
+      "gp": 51
+    },
+    "Keon Ellis": {
+      "pts": 6.4,
+      "reb": 1.8,
+      "ast": 0.9,
+      "team": "CLE",
+      "gp": 65
+    },
+    "Keshad Johnson": {
+      "pts": 3.7,
+      "reb": 1.9,
+      "ast": 0.1,
+      "team": "MIA",
+      "gp": 27
+    },
+    "Keshon Gilbert": {
+      "pts": 2.0,
+      "reb": 1.7,
+      "ast": 1.0,
+      "team": "ATL",
+      "gp": 3
+    },
+    "Kevin Durant": {
+      "pts": 25.9,
+      "reb": 5.4,
+      "ast": 4.6,
+      "team": "HOU",
+      "gp": 71
+    },
+    "Kevin Huerter": {
+      "pts": 9.9,
+      "reb": 3.5,
+      "ast": 2.4,
+      "team": "DET",
+      "gp": 62
+    },
+    "Kevin Love": {
+      "pts": 6.7,
+      "reb": 5.8,
+      "ast": 1.8,
+      "team": "UTA",
+      "gp": 37
+    },
+    "Kevin McCullar Jr.": {
+      "pts": 1.8,
+      "reb": 1.3,
+      "ast": 1.0,
+      "team": "NYK",
+      "gp": 20
+    },
+    "Kevin Porter Jr.": {
+      "pts": 17.4,
+      "reb": 5.2,
+      "ast": 7.4,
+      "team": "MIL",
+      "gp": 38
+    },
+    "Kevon Looney": {
+      "pts": 2.7,
+      "reb": 5.3,
+      "ast": 1.3,
+      "team": "NOP",
+      "gp": 19
+    },
+    "Keyonte George": {
+      "pts": 23.6,
+      "reb": 3.7,
+      "ast": 6.1,
+      "team": "UTA",
+      "gp": 54
+    },
+    "Khaman Maluach": {
+      "pts": 2.7,
+      "reb": 2.3,
+      "ast": 0.2,
+      "team": "PHX",
+      "gp": 39
+    },
+    "Khris Middleton": {
+      "pts": 10.7,
+      "reb": 3.8,
+      "ast": 3.0,
+      "team": "DAL",
+      "gp": 55
+    },
+    "Killian Hayes": {
+      "pts": 4.8,
+      "reb": 2.4,
+      "ast": 3.5,
+      "team": "SAC",
+      "gp": 17
+    },
+    "Klay Thompson": {
+      "pts": 11.8,
+      "reb": 2.1,
+      "ast": 1.4,
+      "team": "DAL",
+      "gp": 64
+    },
+    "Kobe Brown": {
+      "pts": 5.2,
+      "reb": 2.7,
+      "ast": 1.1,
+      "team": "IND",
+      "gp": 55
+    },
+    "Kobe Bufkin": {
+      "pts": 3.0,
+      "reb": 0.8,
+      "ast": 0.5,
+      "team": "LAL",
+      "gp": 11
+    },
+    "Kobe Sanders": {
+      "pts": 7.0,
+      "reb": 2.3,
+      "ast": 1.6,
+      "team": "LAC",
+      "gp": 61
+    },
+    "Koby Brea": {
+      "pts": 2.7,
+      "reb": 0.3,
+      "ast": 0.6,
+      "team": "PHX",
+      "gp": 7
+    },
+    "Kon Knueppel": {
+      "pts": 18.9,
+      "reb": 5.4,
+      "ast": 3.4,
+      "team": "CHA",
+      "gp": 74
+    },
+    "Kris Dunn": {
+      "pts": 7.5,
+      "reb": 3.3,
+      "ast": 3.6,
+      "team": "LAC",
+      "gp": 75
+    },
+    "Kris Murray": {
+      "pts": 5.9,
+      "reb": 3.6,
+      "ast": 1.3,
+      "team": "POR",
+      "gp": 51
+    },
+    "Kristaps Porzi\u0146\u0123is": {
+      "pts": 17.3,
+      "reb": 4.9,
+      "ast": 2.6,
+      "team": "GSW",
+      "gp": 28
+    },
+    "Kyle Anderson": {
+      "pts": 6.3,
+      "reb": 3.4,
+      "ast": 2.7,
+      "team": "MIN",
+      "gp": 36
+    },
+    "Kyle Filipowski": {
+      "pts": 10.9,
+      "reb": 7.0,
+      "ast": 2.5,
+      "team": "UTA",
+      "gp": 72
+    },
+    "Kyle Kuzma": {
+      "pts": 13.1,
+      "reb": 4.5,
+      "ast": 2.6,
+      "team": "MIL",
+      "gp": 65
+    },
+    "Kyle Lowry": {
+      "pts": 1.3,
+      "reb": 0.7,
+      "ast": 0.8,
+      "team": "PHI",
+      "gp": 13
+    },
+    "Kyshawn George": {
+      "pts": 14.8,
+      "reb": 5.1,
+      "ast": 4.5,
+      "team": "WAS",
+      "gp": 48
+    },
+    "LJ Cryer": {
+      "pts": 7.4,
+      "reb": 1.7,
+      "ast": 0.9,
+      "team": "GSW",
+      "gp": 15
+    },
+    "LaMelo Ball": {
+      "pts": 19.7,
+      "reb": 4.8,
+      "ast": 7.0,
+      "team": "CHA",
+      "gp": 65
+    },
+    "Lachlan Olbrich": {
+      "pts": 1.6,
+      "reb": 2.0,
+      "ast": 0.7,
+      "team": "CHI",
+      "gp": 29
+    },
+    "Landry Shamet": {
+      "pts": 9.6,
+      "reb": 1.8,
+      "ast": 1.5,
+      "team": "NYK",
+      "gp": 46
+    },
+    "Larry Nance Jr.": {
+      "pts": 3.3,
+      "reb": 2.5,
+      "ast": 0.9,
+      "team": "CLE",
+      "gp": 30
+    },
+    "Lauri Markkanen": {
+      "pts": 26.7,
+      "reb": 6.9,
+      "ast": 2.1,
+      "team": "UTA",
+      "gp": 42
+    },
+    "Lawson Lovering": {
+      "pts": 7.0,
+      "reb": 7.5,
+      "ast": 1.5,
+      "team": "MEM",
+      "gp": 2
+    },
+    "LeBron James": {
+      "pts": 20.9,
+      "reb": 6.0,
+      "ast": 6.9,
+      "team": "LAL",
+      "gp": 53
+    },
+    "Leaky Black": {
+      "pts": 8.1,
+      "reb": 5.9,
+      "ast": 1.9,
+      "team": "WAS",
+      "gp": 9
+    },
+    "Leonard Miller": {
+      "pts": 6.0,
+      "reb": 3.2,
+      "ast": 0.6,
+      "team": "CHI",
+      "gp": 38
+    },
+    "Liam McNeeley": {
+      "pts": 4.4,
+      "reb": 2.4,
+      "ast": 0.8,
+      "team": "CHA",
+      "gp": 30
+    },
+    "Lindy Waters III": {
+      "pts": 2.4,
+      "reb": 0.7,
+      "ast": 0.5,
+      "team": "SAS",
+      "gp": 39
+    },
+    "Lonzo Ball": {
+      "pts": 4.6,
+      "reb": 4.0,
+      "ast": 3.9,
+      "team": "CLE",
+      "gp": 35
+    },
+    "Luguentz Dort": {
+      "pts": 8.4,
+      "reb": 3.7,
+      "ast": 1.2,
+      "team": "OKC",
+      "gp": 62
+    },
+    "Luka Don\u010di\u0107": {
+      "pts": 33.7,
+      "reb": 7.8,
+      "ast": 8.2,
+      "team": "LAL",
+      "gp": 62
+    },
+    "Luka Garza": {
+      "pts": 7.5,
+      "reb": 3.9,
+      "ast": 1.0,
+      "team": "BOS",
+      "gp": 64
+    },
+    "Luke Kennard": {
+      "pts": 8.0,
+      "reb": 2.2,
+      "ast": 1.9,
+      "team": "LAL",
+      "gp": 70
+    },
+    "Luke Kornet": {
+      "pts": 6.5,
+      "reb": 6.2,
+      "ast": 1.8,
+      "team": "SAS",
+      "gp": 62
+    },
+    "Luke Travers": {
+      "pts": 2.3,
+      "reb": 2.0,
+      "ast": 0.8,
+      "team": "CLE",
+      "gp": 12
+    },
+    "Mac McClung": {
+      "pts": 5.8,
+      "reb": 1.3,
+      "ast": 0.5,
+      "team": "CHI",
+      "gp": 4
+    },
+    "Malachi Smith": {
+      "pts": 7.0,
+      "reb": 2.4,
+      "ast": 2.3,
+      "team": "BKN",
+      "gp": 8
+    },
+    "Malaki Branham": {
+      "pts": 4.6,
+      "reb": 1.6,
+      "ast": 0.8,
+      "team": "WAS",
+      "gp": 28
+    },
+    "Malevy Leons": {
+      "pts": 2.5,
+      "reb": 1.8,
+      "ast": 0.5,
+      "team": "GSW",
+      "gp": 20
+    },
+    "Malik Monk": {
+      "pts": 12.6,
+      "reb": 1.9,
+      "ast": 3.1,
+      "team": "SAC",
+      "gp": 58
+    },
+    "MarJon Beauchamp": {
+      "pts": 8.1,
+      "reb": 2.8,
+      "ast": 1.3,
+      "team": "PHI",
+      "gp": 11
+    },
+    "Marcus Sasser": {
+      "pts": 5.4,
+      "reb": 1.1,
+      "ast": 2.1,
+      "team": "DET",
+      "gp": 30
+    },
+    "Marcus Smart": {
+      "pts": 9.5,
+      "reb": 2.8,
+      "ast": 2.8,
+      "team": "LAL",
+      "gp": 60
+    },
+    "Mark Sears": {
+      "pts": 3.1,
+      "reb": 0.3,
+      "ast": 0.3,
+      "team": "MIL",
+      "gp": 7
+    },
+    "Mark Williams": {
+      "pts": 11.6,
+      "reb": 8.1,
+      "ast": 1.0,
+      "team": "PHX",
+      "gp": 56
+    },
+    "Markelle Fultz": {
+      "pts": 1.0,
+      "reb": 0.3,
+      "ast": 2.0,
+      "team": "TOR",
+      "gp": 4
+    },
+    "Marvin Bagley III": {
+      "pts": 10.3,
+      "reb": 6.1,
+      "ast": 1.4,
+      "team": "DAL",
+      "gp": 56
+    },
+    "Mason Plumlee": {
+      "pts": 1.6,
+      "reb": 2.8,
+      "ast": 1.1,
+      "team": "SAS",
+      "gp": 18
+    },
+    "Matas Buzelis": {
+      "pts": 16.4,
+      "reb": 5.7,
+      "ast": 2.0,
+      "team": "CHI",
+      "gp": 73
+    },
+    "Matisse Thybulle": {
+      "pts": 5.5,
+      "reb": 2.0,
+      "ast": 0.8,
+      "team": "POR",
+      "gp": 24
+    },
+    "Max Christie": {
+      "pts": 12.4,
+      "reb": 3.3,
+      "ast": 2.0,
+      "team": "DAL",
+      "gp": 69
+    },
+    "Max Shulga": {
+      "pts": 0.6,
+      "reb": 0.1,
+      "ast": 0.3,
+      "team": "BOS",
+      "gp": 7
+    },
+    "Max Strus": {
+      "pts": 12.5,
+      "reb": 6.5,
+      "ast": 2.0,
+      "team": "CLE",
+      "gp": 6
+    },
+    "Maxi Kleber": {
+      "pts": 2.1,
+      "reb": 1.9,
+      "ast": 0.6,
+      "team": "LAL",
+      "gp": 37
+    },
+    "Maxime Raynaud": {
+      "pts": 12.0,
+      "reb": 7.3,
+      "ast": 1.3,
+      "team": "SAC",
+      "gp": 68
+    },
+    "Micah Peavy": {
+      "pts": 3.8,
+      "reb": 1.8,
+      "ast": 0.9,
+      "team": "NOP",
+      "gp": 55
+    },
+    "Micah Potter": {
+      "pts": 9.2,
+      "reb": 4.4,
+      "ast": 1.4,
+      "team": "IND",
+      "gp": 40
+    },
+    "Michael Porter Jr.": {
+      "pts": 24.2,
+      "reb": 7.1,
+      "ast": 3.0,
+      "team": "BKN",
+      "gp": 52
+    },
+    "Mikal Bridges": {
+      "pts": 14.7,
+      "reb": 4.0,
+      "ast": 3.8,
+      "team": "NYK",
+      "gp": 75
+    },
+    "Mike Conley": {
+      "pts": 4.1,
+      "reb": 1.8,
+      "ast": 3.0,
+      "team": "MIN",
+      "gp": 49
+    },
+    "Miles Bridges": {
+      "pts": 17.1,
+      "reb": 5.8,
+      "ast": 3.2,
+      "team": "CHA",
+      "gp": 70
+    },
+    "Miles Kelly": {
+      "pts": 3.1,
+      "reb": 1.7,
+      "ast": 0.9,
+      "team": "DAL",
+      "gp": 14
+    },
+    "Miles McBride": {
+      "pts": 12.5,
+      "reb": 2.6,
+      "ast": 2.7,
+      "team": "NYK",
+      "gp": 36
+    },
+    "Mitchell Robinson": {
+      "pts": 5.4,
+      "reb": 8.8,
+      "ast": 0.9,
+      "team": "NYK",
+      "gp": 56
+    },
+    "Mo Bamba": {
+      "pts": 2.5,
+      "reb": 5.5,
+      "ast": 0.3,
+      "team": "UTA",
+      "gp": 4
+    },
+    "Mohamed Diawara": {
+      "pts": 3.6,
+      "reb": 1.4,
+      "ast": 0.7,
+      "team": "NYK",
+      "gp": 64
+    },
+    "Monte Morris": {
+      "pts": 3.0,
+      "reb": 1.2,
+      "ast": 1.5,
+      "team": "IND",
+      "gp": 6
+    },
+    "Moritz Wagner": {
+      "pts": 7.3,
+      "reb": 3.3,
+      "ast": 0.8,
+      "team": "ORL",
+      "gp": 32
+    },
+    "Moses Moody": {
+      "pts": 12.1,
+      "reb": 3.3,
+      "ast": 1.6,
+      "team": "GSW",
+      "gp": 60
+    },
+    "Mouhamed Gueye": {
+      "pts": 4.6,
+      "reb": 3.6,
+      "ast": 0.9,
+      "team": "ATL",
+      "gp": 71
+    },
+    "Moussa Cisse": {
+      "pts": 3.7,
+      "reb": 4.9,
+      "ast": 0.2,
+      "team": "DAL",
+      "gp": 34
+    },
+    "Moussa Diabat\u00e9": {
+      "pts": 8.0,
+      "reb": 8.7,
+      "ast": 1.9,
+      "team": "CHA",
+      "gp": 67
+    },
+    "Myles Turner": {
+      "pts": 11.9,
+      "reb": 5.3,
+      "ast": 1.5,
+      "team": "MIL",
+      "gp": 67
+    },
+    "Myron Gardner": {
+      "pts": 3.9,
+      "reb": 2.9,
+      "ast": 1.0,
+      "team": "MIA",
+      "gp": 41
+    },
+    "N'Faly Dante": {
+      "pts": 0.8,
+      "reb": 1.8,
+      "ast": 0.0,
+      "team": "ATL",
+      "gp": 4
+    },
+    "Nae'Qwan Tomlin": {
+      "pts": 5.5,
+      "reb": 2.7,
+      "ast": 0.8,
+      "team": "CLE",
+      "gp": 58
+    },
+    "Naji Marshall": {
+      "pts": 15.5,
+      "reb": 4.7,
+      "ast": 3.3,
+      "team": "DAL",
+      "gp": 71
+    },
+    "Nate Williams": {
+      "pts": 6.2,
+      "reb": 1.8,
+      "ast": 0.8,
+      "team": "GSW",
+      "gp": 11
+    },
+    "Naz Reid": {
+      "pts": 13.6,
+      "reb": 6.3,
+      "ast": 2.3,
+      "team": "MIN",
+      "gp": 71
+    },
+    "Neemias Queta": {
+      "pts": 9.9,
+      "reb": 8.3,
+      "ast": 1.6,
+      "team": "BOS",
+      "gp": 70
+    },
+    "Nic Claxton": {
+      "pts": 11.8,
+      "reb": 7.0,
+      "ast": 3.7,
+      "team": "BKN",
+      "gp": 67
+    },
+    "Nick Richards": {
+      "pts": 5.8,
+      "reb": 5.1,
+      "ast": 0.3,
+      "team": "CHI",
+      "gp": 48
+    },
+    "Nick Smith Jr.": {
+      "pts": 5.8,
+      "reb": 0.8,
+      "ast": 1.1,
+      "team": "LAL",
+      "gp": 25
+    },
+    "Nickeil Alexander-Walker": {
+      "pts": 20.5,
+      "reb": 3.5,
+      "ast": 3.8,
+      "team": "ATL",
+      "gp": 72
+    },
+    "Nicolas Batum": {
+      "pts": 4.1,
+      "reb": 2.6,
+      "ast": 0.9,
+      "team": "LAC",
+      "gp": 69
+    },
+    "Nigel Hayes-Davis": {
+      "pts": 1.3,
+      "reb": 1.2,
+      "ast": 0.3,
+      "team": "PHX",
+      "gp": 27
+    },
+    "Nikola Joki\u0107": {
+      "pts": 27.9,
+      "reb": 12.9,
+      "ast": 10.8,
+      "team": "DEN",
+      "gp": 60
+    },
+    "Nikola Jovi\u0107": {
+      "pts": 7.4,
+      "reb": 3.3,
+      "ast": 2.2,
+      "team": "MIA",
+      "gp": 46
+    },
+    "Nikola Topi\u0107": {
+      "pts": 3.2,
+      "reb": 1.6,
+      "ast": 2.0,
+      "team": "OKC",
+      "gp": 5
+    },
+    "Nikola Vu\u010devi\u0107": {
+      "pts": 15.6,
+      "reb": 8.6,
+      "ast": 3.4,
+      "team": "BOS",
+      "gp": 60
+    },
+    "Nique Clifford": {
+      "pts": 7.8,
+      "reb": 3.6,
+      "ast": 2.2,
+      "team": "SAC",
+      "gp": 69
+    },
+    "Noa Essengue": {
+      "pts": 0.0,
+      "reb": 0.0,
+      "ast": 0.0,
+      "team": "CHI",
+      "gp": 2
+    },
+    "Noah Clowney": {
+      "pts": 12.4,
+      "reb": 4.2,
+      "ast": 1.7,
+      "team": "BKN",
+      "gp": 64
+    },
+    "Noah Penda": {
+      "pts": 4.2,
+      "reb": 3.4,
+      "ast": 1.2,
+      "team": "ORL",
+      "gp": 54
+    },
+    "Nolan Traore": {
+      "pts": 8.5,
+      "reb": 1.7,
+      "ast": 3.8,
+      "team": "BKN",
+      "gp": 51
+    },
+    "Norchad Omier": {
+      "pts": 2.7,
+      "reb": 1.3,
+      "ast": 0.3,
+      "team": "LAC",
+      "gp": 3
+    },
+    "Norman Powell": {
+      "pts": 22.1,
+      "reb": 3.6,
+      "ast": 2.6,
+      "team": "MIA",
+      "gp": 55
+    },
+    "OG Anunoby": {
+      "pts": 16.7,
+      "reb": 5.1,
+      "ast": 2.2,
+      "team": "NYK",
+      "gp": 61
+    },
+    "Obi Toppin": {
+      "pts": 10.2,
+      "reb": 4.1,
+      "ast": 2.2,
+      "team": "IND",
+      "gp": 17
+    },
+    "Ochai Agbaji": {
+      "pts": 5.0,
+      "reb": 2.3,
+      "ast": 0.8,
+      "team": "BKN",
+      "gp": 60
+    },
+    "Olivier Sarr": {
+      "pts": 1.0,
+      "reb": 0.0,
+      "ast": 0.0,
+      "team": "CLE",
+      "gp": 1
+    },
+    "Olivier-Maxence Prosper": {
+      "pts": 9.5,
+      "reb": 3.5,
+      "ast": 1.0,
+      "team": "MEM",
+      "gp": 50
+    },
+    "Omer Yurtseven": {
+      "pts": 2.1,
+      "reb": 2.8,
+      "ast": 0.5,
+      "team": "GSW",
+      "gp": 8
+    },
+    "Onyeka Okongwu": {
+      "pts": 15.3,
+      "reb": 7.6,
+      "ast": 3.2,
+      "team": "ATL",
+      "gp": 68
+    },
+    "Orlando Robinson": {
+      "pts": 1.8,
+      "reb": 1.0,
+      "ast": 0.8,
+      "team": "ORL",
+      "gp": 4
+    },
+    "Oscar Tshiebwe": {
+      "pts": 6.0,
+      "reb": 5.3,
+      "ast": 1.1,
+      "team": "UTA",
+      "gp": 20
+    },
+    "Oso Ighodaro": {
+      "pts": 6.5,
+      "reb": 5.0,
+      "ast": 2.2,
+      "team": "PHX",
+      "gp": 74
+    },
+    "Ousmane Dieng": {
+      "pts": 6.3,
+      "reb": 2.6,
+      "ast": 1.8,
+      "team": "MIL",
+      "gp": 49
+    },
+    "P.J. Washington": {
+      "pts": 14.1,
+      "reb": 7.1,
+      "ast": 1.8,
+      "team": "DAL",
+      "gp": 55
+    },
+    "PJ Hall": {
+      "pts": 4.5,
+      "reb": 3.9,
+      "ast": 0.5,
+      "team": "CHA",
+      "gp": 19
+    },
+    "Pac\u00f4me Dadiet": {
+      "pts": 1.2,
+      "reb": 0.8,
+      "ast": 0.4,
+      "team": "NYK",
+      "gp": 25
+    },
+    "Paolo Banchero": {
+      "pts": 22.6,
+      "reb": 8.3,
+      "ast": 5.1,
+      "team": "ORL",
+      "gp": 64
+    },
+    "Pascal Siakam": {
+      "pts": 23.8,
+      "reb": 6.7,
+      "ast": 3.8,
+      "team": "IND",
+      "gp": 60
+    },
+    "Pat Connaughton": {
+      "pts": 2.8,
+      "reb": 1.5,
+      "ast": 0.5,
+      "team": "CHA",
+      "gp": 36
+    },
+    "Pat Spencer": {
+      "pts": 6.9,
+      "reb": 2.3,
+      "ast": 3.5,
+      "team": "GSW",
+      "gp": 59
+    },
+    "Patrick Baldwin Jr.": {
+      "pts": 3.7,
+      "reb": 2.6,
+      "ast": 0.6,
+      "team": "SAC",
+      "gp": 9
+    },
+    "Patrick Williams": {
+      "pts": 6.8,
+      "reb": 2.9,
+      "ast": 1.3,
+      "team": "CHI",
+      "gp": 64
+    },
+    "Paul George": {
+      "pts": 16.7,
+      "reb": 5.4,
+      "ast": 3.7,
+      "team": "PHI",
+      "gp": 29
+    },
+    "Paul Reed": {
+      "pts": 7.2,
+      "reb": 4.4,
+      "ast": 1.2,
+      "team": "DET",
+      "gp": 57
+    },
+    "Payton Pritchard": {
+      "pts": 17.0,
+      "reb": 4.1,
+      "ast": 5.2,
+      "team": "BOS",
+      "gp": 72
+    },
+    "Payton Sandfort": {
+      "pts": 2.0,
+      "reb": 1.0,
+      "ast": 0.0,
+      "team": "OKC",
+      "gp": 2
+    },
+    "Pelle Larsson": {
+      "pts": 11.0,
+      "reb": 3.4,
+      "ast": 3.3,
+      "team": "MIA",
+      "gp": 64
+    },
+    "Pete Nance": {
+      "pts": 4.7,
+      "reb": 2.4,
+      "ast": 0.8,
+      "team": "MIL",
+      "gp": 41
+    },
+    "Peyton Watson": {
+      "pts": 14.8,
+      "reb": 4.9,
+      "ast": 2.1,
+      "team": "DEN",
+      "gp": 53
+    },
+    "Precious Achiuwa": {
+      "pts": 9.6,
+      "reb": 6.5,
+      "ast": 1.3,
+      "team": "SAC",
+      "gp": 67
+    },
+    "Quentin Grimes": {
+      "pts": 13.8,
+      "reb": 3.7,
+      "ast": 3.4,
+      "team": "PHI",
+      "gp": 67
+    },
+    "Quenton Jackson": {
+      "pts": 8.4,
+      "reb": 2.2,
+      "ast": 2.4,
+      "team": "IND",
+      "gp": 42
+    },
+    "Quinten Post": {
+      "pts": 7.7,
+      "reb": 4.0,
+      "ast": 1.4,
+      "team": "GSW",
+      "gp": 67
+    },
+    "RJ Barrett": {
+      "pts": 19.0,
+      "reb": 5.3,
+      "ast": 3.3,
+      "team": "TOR",
+      "gp": 50
+    },
+    "Rasheer Fleming": {
+      "pts": 4.0,
+      "reb": 2.3,
+      "ast": 0.2,
+      "team": "PHX",
+      "gp": 48
+    },
+    "RayJ Dennis": {
+      "pts": 4.0,
+      "reb": 1.4,
+      "ast": 1.9,
+      "team": "ATL",
+      "gp": 16
+    },
+    "Rayan Rupert": {
+      "pts": 4.3,
+      "reb": 2.5,
+      "ast": 0.8,
+      "team": "MEM",
+      "gp": 60
+    },
+    "Reed Sheppard": {
+      "pts": 13.4,
+      "reb": 2.9,
+      "ast": 3.4,
+      "team": "HOU",
+      "gp": 74
+    },
+    "Riley Minix": {
+      "pts": 3.2,
+      "reb": 0.8,
+      "ast": 0.7,
+      "team": "CLE",
+      "gp": 6
+    },
+    "Rob Dillingham": {
+      "pts": 5.4,
+      "reb": 1.7,
+      "ast": 2.2,
+      "team": "CHI",
+      "gp": 57
+    },
+    "Robert Williams III": {
+      "pts": 6.7,
+      "reb": 6.9,
+      "ast": 1.0,
+      "team": "POR",
+      "gp": 53
+    },
+    "Rocco Zikarsky": {
+      "pts": 1.5,
+      "reb": 1.3,
+      "ast": 0.0,
+      "team": "MIN",
+      "gp": 4
+    },
+    "Ron Harper Jr.": {
+      "pts": 3.6,
+      "reb": 1.6,
+      "ast": 0.6,
+      "team": "BOS",
+      "gp": 25
+    },
+    "Ronald Holland II": {
+      "pts": 8.2,
+      "reb": 4.2,
+      "ast": 1.3,
+      "team": "DET",
+      "gp": 70
+    },
+    "Royce O'Neale": {
+      "pts": 10.0,
+      "reb": 4.8,
+      "ast": 2.8,
+      "team": "PHX",
+      "gp": 71
+    },
+    "Rudy Gobert": {
+      "pts": 11.1,
+      "reb": 11.5,
+      "ast": 1.7,
+      "team": "MIN",
+      "gp": 71
+    },
+    "Rui Hachimura": {
+      "pts": 11.1,
+      "reb": 3.2,
+      "ast": 0.8,
+      "team": "LAL",
+      "gp": 60
+    },
+    "Russell Westbrook": {
+      "pts": 15.2,
+      "reb": 5.4,
+      "ast": 6.7,
+      "team": "SAC",
+      "gp": 64
+    },
+    "Ryan Dunn": {
+      "pts": 5.9,
+      "reb": 4.2,
+      "ast": 1.4,
+      "team": "PHX",
+      "gp": 64
+    },
+    "Ryan Kalkbrenner": {
+      "pts": 7.7,
+      "reb": 5.5,
+      "ast": 0.8,
+      "team": "CHA",
+      "gp": 62
+    },
+    "Ryan Nembhard": {
+      "pts": 6.2,
+      "reb": 1.9,
+      "ast": 4.9,
+      "team": "DAL",
+      "gp": 53
+    },
+    "Ryan Rollins": {
+      "pts": 17.0,
+      "reb": 4.6,
+      "ast": 5.6,
+      "team": "MIL",
+      "gp": 71
+    },
+    "Saddiq Bey": {
+      "pts": 17.4,
+      "reb": 5.6,
+      "ast": 2.6,
+      "team": "NOP",
+      "gp": 69
+    },
+    "Sam Hauser": {
+      "pts": 8.9,
+      "reb": 3.8,
+      "ast": 1.4,
+      "team": "BOS",
+      "gp": 71
+    },
+    "Sam Merrill": {
+      "pts": 13.0,
+      "reb": 2.6,
+      "ast": 2.3,
+      "team": "CLE",
+      "gp": 48
+    },
+    "Sandro Mamukelashvili": {
+      "pts": 11.1,
+      "reb": 4.9,
+      "ast": 1.8,
+      "team": "TOR",
+      "gp": 72
+    },
+    "Santi Aldama": {
+      "pts": 14.0,
+      "reb": 6.7,
+      "ast": 2.9,
+      "team": "MEM",
+      "gp": 43
+    },
+    "Scoot Henderson": {
+      "pts": 14.0,
+      "reb": 2.8,
+      "ast": 4.0,
+      "team": "POR",
+      "gp": 24
+    },
+    "Scottie Barnes": {
+      "pts": 18.6,
+      "reb": 7.7,
+      "ast": 5.8,
+      "team": "TOR",
+      "gp": 72
+    },
+    "Scotty Pippen Jr.": {
+      "pts": 11.4,
+      "reb": 2.2,
+      "ast": 4.7,
+      "team": "MEM",
+      "gp": 10
+    },
+    "Sean Pedulla": {
+      "pts": 3.3,
+      "reb": 0.5,
+      "ast": 1.0,
+      "team": "LAC",
+      "gp": 4
+    },
+    "Seth Curry": {
+      "pts": 5.4,
+      "reb": 1.4,
+      "ast": 1.4,
+      "team": "GSW",
+      "gp": 5
+    },
+    "Shaedon Sharpe": {
+      "pts": 21.4,
+      "reb": 4.4,
+      "ast": 2.6,
+      "team": "POR",
+      "gp": 48
+    },
+    "Shai Gilgeous-Alexander": {
+      "pts": 31.4,
+      "reb": 4.3,
+      "ast": 6.5,
+      "team": "OKC",
+      "gp": 63
+    },
+    "Sharife Cooper": {
+      "pts": 7.3,
+      "reb": 2.2,
+      "ast": 2.6,
+      "team": "WAS",
+      "gp": 33
+    },
+    "Sidy Cissoko": {
+      "pts": 5.5,
+      "reb": 2.4,
+      "ast": 1.6,
+      "team": "POR",
+      "gp": 69
+    },
+    "Simone Fontecchio": {
+      "pts": 8.4,
+      "reb": 3.0,
+      "ast": 1.4,
+      "team": "MIA",
+      "gp": 66
+    },
+    "Sion James": {
+      "pts": 5.4,
+      "reb": 3.4,
+      "ast": 2.0,
+      "team": "CHA",
+      "gp": 75
+    },
+    "Skal Labissiere": {
+      "pts": 4.3,
+      "reb": 3.0,
+      "ast": 1.0,
+      "team": "WAS",
+      "gp": 3
+    },
+    "Spencer Jones": {
+      "pts": 5.5,
+      "reb": 3.3,
+      "ast": 0.8,
+      "team": "DEN",
+      "gp": 64
+    },
+    "Stanley Umude": {
+      "pts": 1.0,
+      "reb": 0.0,
+      "ast": 0.5,
+      "team": "SAS",
+      "gp": 2
+    },
+    "Stephen Curry": {
+      "pts": 27.2,
+      "reb": 3.5,
+      "ast": 4.8,
+      "team": "GSW",
+      "gp": 39
+    },
+    "Stephon Castle": {
+      "pts": 16.6,
+      "reb": 5.1,
+      "ast": 7.2,
+      "team": "SAS",
+      "gp": 62
+    },
+    "Steven Adams": {
+      "pts": 5.8,
+      "reb": 8.6,
+      "ast": 1.5,
+      "team": "HOU",
+      "gp": 32
+    },
+    "Svi Mykhailiuk": {
+      "pts": 9.2,
+      "reb": 2.4,
+      "ast": 1.9,
+      "team": "UTA",
+      "gp": 49
+    },
+    "T.J. McConnell": {
+      "pts": 9.4,
+      "reb": 2.2,
+      "ast": 5.1,
+      "team": "IND",
+      "gp": 56
+    },
+    "Taelon Peter": {
+      "pts": 3.9,
+      "reb": 1.4,
+      "ast": 1.0,
+      "team": "IND",
+      "gp": 31
+    },
+    "Taj Gibson": {
+      "pts": 4.0,
+      "reb": 2.1,
+      "ast": 0.6,
+      "team": "MEM",
+      "gp": 7
+    },
+    "Tari Eason": {
+      "pts": 10.4,
+      "reb": 6.4,
+      "ast": 1.5,
+      "team": "HOU",
+      "gp": 52
+    },
+    "Taurean Prince": {
+      "pts": 7.0,
+      "reb": 2.5,
+      "ast": 1.4,
+      "team": "MIL",
+      "gp": 19
+    },
+    "Taylor Hendricks": {
+      "pts": 7.2,
+      "reb": 3.7,
+      "ast": 1.0,
+      "team": "MEM",
+      "gp": 55
+    },
+    "Terance Mann": {
+      "pts": 7.2,
+      "reb": 3.2,
+      "ast": 3.0,
+      "team": "BKN",
+      "gp": 62
+    },
+    "Terrence Shannon Jr.": {
+      "pts": 4.1,
+      "reb": 1.1,
+      "ast": 0.7,
+      "team": "MIN",
+      "gp": 35
+    },
+    "Thanasis Antetokounmpo": {
+      "pts": 1.2,
+      "reb": 0.9,
+      "ast": 0.3,
+      "team": "MIL",
+      "gp": 30
+    },
+    "Thomas Bryant": {
+      "pts": 6.0,
+      "reb": 3.2,
+      "ast": 0.6,
+      "team": "CLE",
+      "gp": 56
+    },
+    "Tidjane Sala\u00fcn": {
+      "pts": 6.2,
+      "reb": 4.1,
+      "ast": 0.8,
+      "team": "CHA",
+      "gp": 36
+    },
+    "Tim Hardaway Jr.": {
+      "pts": 13.8,
+      "reb": 2.6,
+      "ast": 1.4,
+      "team": "DEN",
+      "gp": 75
+    },
+    "Tobias Harris": {
+      "pts": 13.4,
+      "reb": 5.2,
+      "ast": 2.5,
+      "team": "DET",
+      "gp": 57
+    },
+    "Tolu Smith": {
+      "pts": 3.5,
+      "reb": 3.3,
+      "ast": 0.7,
+      "team": "DET",
+      "gp": 11
+    },
+    "Tony Bradley": {
+      "pts": 4.0,
+      "reb": 2.8,
+      "ast": 0.5,
+      "team": "IND",
+      "gp": 38
+    },
+    "Tosan Evbuomwan": {
+      "pts": 0.0,
+      "reb": 0.4,
+      "ast": 0.0,
+      "team": "CHA",
+      "gp": 5
+    },
+    "Toumani Camara": {
+      "pts": 13.1,
+      "reb": 5.2,
+      "ast": 2.5,
+      "team": "POR",
+      "gp": 76
+    },
+    "Trae Young": {
+      "pts": 17.9,
+      "reb": 2.0,
+      "ast": 8.0,
+      "team": "WAS",
+      "gp": 15
+    },
+    "Trayce Jackson-Davis": {
+      "pts": 3.5,
+      "reb": 2.8,
+      "ast": 0.8,
+      "team": "TOR",
+      "gp": 49
+    },
+    "Tre Johnson": {
+      "pts": 12.3,
+      "reb": 2.8,
+      "ast": 2.0,
+      "team": "WAS",
+      "gp": 57
+    },
+    "Tre Jones": {
+      "pts": 13.2,
+      "reb": 3.1,
+      "ast": 5.5,
+      "team": "CHI",
+      "gp": 57
+    },
+    "Tre Mann": {
+      "pts": 5.9,
+      "reb": 1.9,
+      "ast": 1.8,
+      "team": "CHA",
+      "gp": 48
+    },
+    "Trendon Watford": {
+      "pts": 6.8,
+      "reb": 3.4,
+      "ast": 2.6,
+      "team": "PHI",
+      "gp": 50
+    },
+    "Trentyn Flowers": {
+      "pts": 2.0,
+      "reb": 0.5,
+      "ast": 0.5,
+      "team": "CHI",
+      "gp": 2
+    },
+    "Trevor Keels": {
+      "pts": 0.0,
+      "reb": 0.5,
+      "ast": 0.0,
+      "team": "MIA",
+      "gp": 4
+    },
+    "Trey Alexander": {
+      "pts": 2.8,
+      "reb": 0.8,
+      "ast": 1.0,
+      "team": "NOP",
+      "gp": 5
+    },
+    "Trey Jemison III": {
+      "pts": 0.8,
+      "reb": 1.5,
+      "ast": 0.3,
+      "team": "NYK",
+      "gp": 11
+    },
+    "Trey Murphy III": {
+      "pts": 21.7,
+      "reb": 5.7,
+      "ast": 3.8,
+      "team": "NOP",
+      "gp": 64
+    },
+    "Tristan Enaruna": {
+      "pts": 2.2,
+      "reb": 1.5,
+      "ast": 0.5,
+      "team": "CLE",
+      "gp": 6
+    },
+    "Tristan Vukcevic": {
+      "pts": 8.7,
+      "reb": 3.0,
+      "ast": 1.1,
+      "team": "WAS",
+      "gp": 47
+    },
+    "Tristan da Silva": {
+      "pts": 10.0,
+      "reb": 3.7,
+      "ast": 1.5,
+      "team": "ORL",
+      "gp": 69
+    },
+    "Ty Jerome": {
+      "pts": 19.7,
+      "reb": 2.8,
+      "ast": 5.7,
+      "team": "MEM",
+      "gp": 15
+    },
+    "TyTy Washington Jr.": {
+      "pts": 2.1,
+      "reb": 0.3,
+      "ast": 1.4,
+      "team": "LAC",
+      "gp": 10
+    },
+    "Tyler Burton": {
+      "pts": 10.2,
+      "reb": 4.3,
+      "ast": 1.1,
+      "team": "MEM",
+      "gp": 10
+    },
+    "Tyler Herro": {
+      "pts": 21.3,
+      "reb": 4.7,
+      "ast": 3.9,
+      "team": "MIA",
+      "gp": 28
+    },
+    "Tyler Kolek": {
+      "pts": 4.4,
+      "reb": 1.6,
+      "ast": 2.7,
+      "team": "NYK",
+      "gp": 59
+    },
+    "Tyler Smith": {
+      "pts": 2.2,
+      "reb": 1.2,
+      "ast": 0.0,
+      "team": "DAL",
+      "gp": 5
+    },
+    "Tyrese Martin": {
+      "pts": 6.4,
+      "reb": 2.6,
+      "ast": 1.7,
+      "team": "PHI",
+      "gp": 45
+    },
+    "Tyrese Maxey": {
+      "pts": 28.9,
+      "reb": 4.2,
+      "ast": 6.7,
+      "team": "PHI",
+      "gp": 62
+    },
+    "Tyrese Proctor": {
+      "pts": 4.7,
+      "reb": 1.0,
+      "ast": 1.3,
+      "team": "CLE",
+      "gp": 44
+    },
+    "Tyson Etienne": {
+      "pts": 6.1,
+      "reb": 0.7,
+      "ast": 1.2,
+      "team": "BKN",
+      "gp": 18
+    },
+    "Tyus Jones": {
+      "pts": 2.9,
+      "reb": 1.0,
+      "ast": 2.4,
+      "team": "DEN",
+      "gp": 64
+    },
+    "VJ Edgecombe": {
+      "pts": 16.1,
+      "reb": 5.7,
+      "ast": 4.0,
+      "team": "PHI",
+      "gp": 67
+    },
+    "Victor Wembanyama": {
+      "pts": 24.2,
+      "reb": 11.3,
+      "ast": 3.0,
+      "team": "SAS",
+      "gp": 59
+    },
+    "Vince Williams Jr.": {
+      "pts": 7.5,
+      "reb": 3.9,
+      "ast": 4.2,
+      "team": "UTA",
+      "gp": 40
+    },
+    "Vladislav Goldin": {
+      "pts": 0.8,
+      "reb": 0.8,
+      "ast": 0.4,
+      "team": "MIA",
+      "gp": 5
+    },
+    "V\u00edt Krej\u010d\u00ed": {
+      "pts": 8.6,
+      "reb": 2.3,
+      "ast": 1.6,
+      "team": "POR",
+      "gp": 64
+    },
+    "Walker Kessler": {
+      "pts": 14.4,
+      "reb": 10.8,
+      "ast": 3.0,
+      "team": "UTA",
+      "gp": 5
+    },
+    "Walter Clayton Jr.": {
+      "pts": 7.4,
+      "reb": 2.0,
+      "ast": 3.9,
+      "team": "MEM",
+      "gp": 64
+    },
+    "Wendell Carter Jr.": {
+      "pts": 11.7,
+      "reb": 7.5,
+      "ast": 2.1,
+      "team": "ORL",
+      "gp": 70
+    },
+    "Wendell Moore Jr.": {
+      "pts": 2.0,
+      "reb": 1.2,
+      "ast": 0.6,
+      "team": "DET",
+      "gp": 5
+    },
+    "Will Richard": {
+      "pts": 6.9,
+      "reb": 2.5,
+      "ast": 1.4,
+      "team": "GSW",
+      "gp": 64
+    },
+    "Will Riley": {
+      "pts": 9.4,
+      "reb": 2.7,
+      "ast": 1.8,
+      "team": "WAS",
+      "gp": 66
+    },
+    "Xavier Tillman": {
+      "pts": 1.4,
+      "reb": 1.5,
+      "ast": 0.4,
+      "team": "CHA",
+      "gp": 26
+    },
+    "Yang Hansen": {
+      "pts": 2.3,
+      "reb": 1.6,
+      "ast": 0.5,
+      "team": "POR",
+      "gp": 41
+    },
+    "Yanic Konan Niederh\u00e4user": {
+      "pts": 4.3,
+      "reb": 2.9,
+      "ast": 0.3,
+      "team": "LAC",
+      "gp": 41
+    },
+    "Yuki Kawamura": {
+      "pts": 3.0,
+      "reb": 1.9,
+      "ast": 2.9,
+      "team": "CHI",
+      "gp": 11
+    },
+    "Yves Missi": {
+      "pts": 5.5,
+      "reb": 5.7,
+      "ast": 1.3,
+      "team": "NOP",
+      "gp": 63
+    },
+    "Zaccharie Risacher": {
+      "pts": 10.0,
+      "reb": 3.9,
+      "ast": 1.2,
+      "team": "ATL",
+      "gp": 61
+    },
+    "Zach Collins": {
+      "pts": 9.7,
+      "reb": 5.6,
+      "ast": 1.5,
+      "team": "CHI",
+      "gp": 10
+    },
+    "Zach Edey": {
+      "pts": 13.6,
+      "reb": 11.1,
+      "ast": 1.1,
+      "team": "MEM",
+      "gp": 11
+    },
+    "Zach LaVine": {
+      "pts": 19.2,
+      "reb": 2.8,
+      "ast": 2.3,
+      "team": "SAC",
+      "gp": 39
+    },
+    "Zeke Nnaji": {
+      "pts": 3.7,
+      "reb": 2.6,
+      "ast": 0.5,
+      "team": "DEN",
+      "gp": 49
+    },
+    "Ziaire Williams": {
+      "pts": 10.3,
+      "reb": 2.4,
+      "ast": 1.1,
+      "team": "BKN",
+      "gp": 54
+    },
+    "Zion Williamson": {
+      "pts": 21.3,
+      "reb": 5.7,
+      "ast": 3.2,
+      "team": "NOP",
+      "gp": 59
+    },
+    "Zyon Pullin": {
+      "pts": 2.0,
+      "reb": 0.0,
+      "ast": 1.5,
+      "team": "MIN",
+      "gp": 2
+    }
+  },
+  "rosters": {
+    "ATL": {
+      "players": [
+        "Keshon Gilbert",
+        "RayJ Dennis",
+        "Jonathan Kuminga",
+        "Jalen Johnson",
+        "Keaton Wallace",
+        "CJ McCollum",
+        "Gabe Vincent",
+        "Dyson Daniels",
+        "Nickeil Alexander-Walker",
+        "Buddy Hield",
+        "Christian Koloko",
+        "Zaccharie Risacher",
+        "Asa Newell",
+        "Onyeka Okongwu",
+        "Mouhamed Gueye",
+        "Corey Kispert",
+        "Jock Landale",
+        "Caleb Houstan"
+      ],
+      "rookies": [
+        "Keshon Gilbert",
+        "Asa Newell"
+      ]
+    },
+    "BOS": {
+      "players": [
+        "Jayson Tatum",
+        "Nikola Vu\u010devi\u0107",
+        "Jaylen Brown",
+        "John Tonje",
+        "Derrick White",
+        "Payton Pritchard",
+        "Ron Harper Jr.",
+        "Jordan Walsh",
+        "Hugo Gonz\u00e1lez",
+        "Charles Bassey",
+        "Sam Hauser",
+        "Max Shulga",
+        "Luka Garza",
+        "Baylor Scheierman",
+        "Amari Williams",
+        "Neemias Queta"
+      ],
+      "rookies": [
+        "John Tonje",
+        "Hugo Gonz\u00e1lez",
+        "Max Shulga",
+        "Amari Williams"
+      ]
+    },
+    "CLE": {
+      "players": [
+        "James Harden",
+        "Max Strus",
+        "Thomas Bryant",
+        "Evan Mobley",
+        "Sam Merrill",
+        "Dennis Schr\u00f6der",
+        "Craig Porter Jr.",
+        "Riley Minix",
+        "Keon Ellis",
+        "Jaylon Tyson",
+        "Tristan Enaruna",
+        "Larry Nance Jr.",
+        "Tyrese Proctor",
+        "Jarrett Allen",
+        "Dean Wade",
+        "Olivier Sarr",
+        "Nae'Qwan Tomlin",
+        "Donovan Mitchell"
+      ],
+      "rookies": [
+        "Tristan Enaruna",
+        "Tyrese Proctor"
+      ]
+    },
+    "NOP": {
+      "players": [
+        "Josh Oduro",
+        "Jeremiah Fears",
+        "Zion Williamson",
+        "Herbert Jones",
+        "Jordan Poole",
+        "Hunter Dickinson",
+        "Dejounte Murray",
+        "DeAndre Jordan",
+        "Bryce McGowens",
+        "Micah Peavy",
+        "Karlo Matkovi\u0107",
+        "Yves Missi",
+        "Derik Queen",
+        "Trey Alexander",
+        "Jordan Hawkins",
+        "Trey Murphy III",
+        "Saddiq Bey",
+        "Kevon Looney"
+      ],
+      "rookies": [
+        "Josh Oduro",
+        "Jeremiah Fears",
+        "Hunter Dickinson",
+        "Micah Peavy",
+        "Derik Queen"
+      ]
+    },
+    "CHI": {
+      "players": [
+        "Collin Sexton",
+        "Josh Giddey",
+        "Mac McClung",
+        "Rob Dillingham",
+        "Yuki Kawamura",
+        "Leonard Miller",
+        "Zach Collins",
+        "Nick Richards",
+        "Matas Buzelis",
+        "Anfernee Simons",
+        "Noa Essengue",
+        "Jalen Smith",
+        "Guerschon Yabusele",
+        "Tre Jones",
+        "Jaden Ivey",
+        "Isaac Okoro",
+        "Patrick Williams",
+        "Lachlan Olbrich"
+      ],
+      "rookies": [
+        "Noa Essengue",
+        "Lachlan Olbrich"
+      ]
+    },
+    "DAL": {
+      "players": [
+        "John Poulakidas",
+        "Max Christie",
+        "Dereck Lively II",
+        "Dwight Powell",
+        "AJ Johnson",
+        "Ryan Nembhard",
+        "Brandon Williams",
+        "Kyrie Irving",
+        "Naji Marshall",
+        "Caleb Martin",
+        "Khris Middleton",
+        "Daniel Gafford",
+        "Tyler Smith",
+        "P.J. Washington",
+        "Moussa Cisse",
+        "Klay Thompson",
+        "Cooper Flagg",
+        "Marvin Bagley III"
+      ],
+      "rookies": [
+        "John Poulakidas",
+        "Ryan Nembhard",
+        "Moussa Cisse",
+        "Cooper Flagg"
+      ]
+    },
+    "DEN": {
+      "players": [
+        "Christian Braun",
+        "Tyus Jones",
+        "Curtis Jones",
+        "Julian Strawther",
+        "Peyton Watson",
+        "Tim Hardaway Jr.",
+        "Bruce Brown",
+        "DaRon Holmes II",
+        "Nikola Joki\u0107",
+        "Jonas Valan\u010di\u016bnas",
+        "Spencer Jones",
+        "Zeke Nnaji",
+        "Cameron Johnson",
+        "Jalen Pickett",
+        "KJ Simpson",
+        "Jamal Murray",
+        "Aaron Gordon",
+        "David Roddy"
+      ],
+      "rookies": [
+        "Curtis Jones",
+        "DaRon Holmes II"
+      ]
+    },
+    "GSW": {
+      "players": [
+        "Gary Payton II",
+        "Brandin Podziemski",
+        "Will Richard",
+        "Moses Moody",
+        "Kristaps Porzi\u0146\u0123is",
+        "De'Anthony Melton",
+        "Jimmy Butler III",
+        "Gui Santos",
+        "LJ Cryer",
+        "Nate Williams",
+        "Al Horford",
+        "Quinten Post",
+        "Draymond Green",
+        "Stephen Curry",
+        "Seth Curry",
+        "Malevy Leons",
+        "Pat Spencer",
+        "Omer Yurtseven"
+      ],
+      "rookies": [
+        "Will Richard",
+        "LJ Cryer"
+      ]
+    },
+    "HOU": {
+      "players": [
+        "Aaron Holiday",
+        "Amen Thompson",
+        "Dorian Finney-Smith",
+        "JD Davison",
+        "Fred VanVleet",
+        "Kevin Durant",
+        "Jae'Sean Tate",
+        "Jabari Smith Jr.",
+        "Steven Adams",
+        "Tristen Newton",
+        "Reed Sheppard",
+        "Tari Eason",
+        "Josh Okogie",
+        "Isaiah Crawford",
+        "Alperen Sengun",
+        "Clint Capela",
+        "Jeff Green"
+      ],
+      "rookies": []
+    },
+    "LAC": {
+      "players": [
+        "Norchad Omier",
+        "Sean Pedulla",
+        "Bradley Beal",
+        "Kawhi Leonard",
+        "Kobe Sanders",
+        "Derrick Jones Jr.",
+        "Bogdan Bogdanovi\u0107",
+        "Kris Dunn",
+        "Bennedict Mathurin",
+        "Darius Garland",
+        "Brook Lopez",
+        "Cam Christie",
+        "TyTy Washington Jr.",
+        "Yanic Konan Niederh\u00e4user",
+        "John Collins",
+        "Jordan Miller",
+        "Isaiah Jackson",
+        "Nicolas Batum"
+      ],
+      "rookies": [
+        "Norchad Omier",
+        "Sean Pedulla",
+        "Kobe Sanders",
+        "Yanic Konan Niederh\u00e4user"
+      ]
+    },
+    "LAL": {
+      "players": [
+        "Adou Thiero",
+        "Jarred Vanderbilt",
+        "Dalton Knecht",
+        "Deandre Ayton",
+        "Bronny James",
+        "Luke Kennard",
+        "Jaxson Hayes",
+        "Jake LaRavia",
+        "Maxi Kleber",
+        "Austin Reaves",
+        "Drew Timme",
+        "Nick Smith Jr.",
+        "LeBron James",
+        "Rui Hachimura",
+        "Chris Ma\u00f1on",
+        "Marcus Smart",
+        "Kobe Bufkin",
+        "Luka Don\u010di\u0107"
+      ],
+      "rookies": [
+        "Adou Thiero",
+        "Chris Ma\u00f1on"
+      ]
+    },
+    "MIA": {
+      "players": [
+        "Simone Fontecchio",
+        "Terry Rozier",
+        "Trevor Keels",
+        "Nikola Jovi\u0107",
+        "Kel'el Ware",
+        "Pelle Larsson",
+        "Jaime Jaquez Jr.",
+        "Dru Smith",
+        "Bam Adebayo",
+        "Tyler Herro",
+        "Myron Gardner",
+        "Keshad Johnson",
+        "Jahmir Young",
+        "Andrew Wiggins",
+        "Norman Powell",
+        "Kasparas Jaku\u010dionis",
+        "Davion Mitchell",
+        "Vladislav Goldin"
+      ],
+      "rookies": [
+        "Myron Gardner",
+        "Kasparas Jaku\u010dionis",
+        "Vladislav Goldin"
+      ]
+    },
+    "MIL": {
+      "players": [
+        "Jericho Sims",
+        "Myles Turner",
+        "Gary Trent Jr.",
+        "Kevin Porter Jr.",
+        "Bobby Portis",
+        "Gary Harris",
+        "Taurean Prince",
+        "Ryan Rollins",
+        "Kyle Kuzma",
+        "AJ Green",
+        "Ousmane Dieng",
+        "Alex Antetokounmpo",
+        "Cormac Ryan",
+        "Giannis Antetokounmpo",
+        "Pete Nance",
+        "Thanasis Antetokounmpo",
+        "Andre Jackson Jr."
+      ],
+      "rookies": [
+        "Alex Antetokounmpo",
+        "Cormac Ryan"
+      ]
+    },
+    "MIN": {
+      "players": [
+        "Zyon Pullin",
+        "Donte DiVincenzo",
+        "Terrence Shannon Jr.",
+        "Jaden McDaniels",
+        "Julian Phillips",
+        "Anthony Edwards",
+        "Joe Ingles",
+        "Bones Hyland",
+        "Mike Conley",
+        "Naz Reid",
+        "Kyle Anderson",
+        "Ayo Dosunmu",
+        "Joan Beringer",
+        "Jaylen Clark",
+        "Enrique Freeman",
+        "Rudy Gobert",
+        "Julius Randle",
+        "Rocco Zikarsky"
+      ],
+      "rookies": [
+        "Joan Beringer",
+        "Rocco Zikarsky"
+      ]
+    },
+    "BKN": {
+      "players": [
+        "Malachi Smith",
+        "Josh Minott",
+        "Ziaire Williams",
+        "Danny Wolf",
+        "Drake Powell",
+        "Egor D\u00ebmin",
+        "E.J. Liddell",
+        "Tyson Etienne",
+        "Terance Mann",
+        "Michael Porter Jr.",
+        "Day'Ron Sharpe",
+        "Noah Clowney",
+        "Jalen Wilson",
+        "Ochai Agbaji",
+        "Chaney Johnson",
+        "Nic Claxton",
+        "Ben Saraf",
+        "Nolan Traore"
+      ],
+      "rookies": [
+        "Malachi Smith",
+        "Danny Wolf",
+        "Drake Powell",
+        "Egor D\u00ebmin",
+        "Chaney Johnson",
+        "Ben Saraf",
+        "Nolan Traore"
+      ]
+    },
+    "NYK": {
+      "players": [
+        "Jordan Clarkson",
+        "Miles McBride",
+        "Josh Hart",
+        "Pac\u00f4me Dadiet",
+        "Jose Alvarado",
+        "OG Anunoby",
+        "Kevin McCullar Jr.",
+        "Jalen Brunson",
+        "Tyler Kolek",
+        "Jeremy Sochan",
+        "Mitchell Robinson",
+        "Mikal Bridges",
+        "Karl-Anthony Towns",
+        "Dillon Jones",
+        "Landry Shamet",
+        "Trey Jemison III",
+        "Mohamed Diawara",
+        "Ariel Hukporti"
+      ],
+      "rookies": [
+        "Mohamed Diawara"
+      ]
+    },
+    "ORL": {
+      "players": [
+        "Alex Morales",
+        "Anthony Black",
+        "Jonathan Isaac",
+        "Jevon Carter",
+        "Desmond Bane",
+        "Jalen Suggs",
+        "Paolo Banchero",
+        "Jamal Cain",
+        "Jase Richardson",
+        "Jett Howard",
+        "Colin Castleton",
+        "Moritz Wagner",
+        "Franz Wagner",
+        "Tristan da Silva",
+        "Wendell Carter Jr.",
+        "Goga Bitadze",
+        "Noah Penda"
+      ],
+      "rookies": [
+        "Alex Morales",
+        "Jase Richardson",
+        "Noah Penda"
+      ]
+    },
+    "IND": {
+      "players": [
+        "Tyrese Haliburton",
+        "Obi Toppin",
+        "Andrew Nembhard",
+        "Taelon Peter",
+        "Jarace Walker",
+        "Kam Jones",
+        "T.J. McConnell",
+        "Micah Potter",
+        "Johnny Furphy",
+        "Jalen Slawson",
+        "Aaron Nesmith",
+        "Kobe Brown",
+        "Ben Sheppard",
+        "Quenton Jackson",
+        "Jay Huff",
+        "Ivica Zubac",
+        "Pascal Siakam",
+        "Ethan Thompson"
+      ],
+      "rookies": [
+        "Taelon Peter",
+        "Kam Jones",
+        "Ethan Thompson"
+      ]
+    },
+    "PHI": {
+      "players": [
+        "Tyrese Maxey",
+        "Andre Drummond",
+        "Quentin Grimes",
+        "Kyle Lowry",
+        "Paul George",
+        "Kelly Oubre Jr.",
+        "Justin Edwards",
+        "Trendon Watford",
+        "Dalen Terry",
+        "MarJon Beauchamp",
+        "Cameron Payne",
+        "Joel Embiid",
+        "Johni Broome",
+        "Tyrese Martin",
+        "Dominick Barlow",
+        "Adem Bona",
+        "Jabari Walker",
+        "VJ Edgecombe"
+      ],
+      "rookies": [
+        "Johni Broome",
+        "VJ Edgecombe"
+      ]
+    },
+    "PHX": {
+      "players": [
+        "Royce O'Neale",
+        "Ryan Dunn",
+        "Devin Booker",
+        "Amir Coffey",
+        "Dillon Brooks",
+        "Jalen Green",
+        "Haywood Highsmith",
+        "Grayson Allen",
+        "Khaman Maluach",
+        "Oso Ighodaro",
+        "Collin Gillespie",
+        "Koby Brea",
+        "Mark Williams",
+        "Jamaree Bouyea",
+        "Isaiah Livers",
+        "Rasheer Fleming",
+        "CJ Huntley",
+        "Jordan Goodwin"
+      ],
+      "rookies": [
+        "Khaman Maluach",
+        "Koby Brea",
+        "Rasheer Fleming",
+        "CJ Huntley"
+      ]
+    },
+    "POR": {
+      "players": [
+        "Jayson Kent",
+        "Scoot Henderson",
+        "Damian Lillard",
+        "Blake Wesley",
+        "Caleb Love",
+        "Chris Youngblood",
+        "Matisse Thybulle",
+        "Jrue Holiday",
+        "Deni Avdija",
+        "Jerami Grant",
+        "Yang Hansen",
+        "Shaedon Sharpe",
+        "Donovan Clingan",
+        "Kris Murray",
+        "V\u00edt Krej\u010d\u00ed",
+        "Toumani Camara",
+        "Robert Williams III",
+        "Sidy Cissoko"
+      ],
+      "rookies": [
+        "Jayson Kent",
+        "Caleb Love",
+        "Chris Youngblood",
+        "Yang Hansen"
+      ]
+    },
+    "SAC": {
+      "players": [
+        "Malik Monk",
+        "DaQuan Jeffries",
+        "Nique Clifford",
+        "Killian Hayes",
+        "Doug McDermott",
+        "Zach LaVine",
+        "Precious Achiuwa",
+        "DeMar DeRozan",
+        "Domantas Sabonis",
+        "Keegan Murray",
+        "De'Andre Hunter",
+        "Russell Westbrook",
+        "Drew Eubanks",
+        "Devin Carter",
+        "Patrick Baldwin Jr.",
+        "Isaiah Stevens",
+        "Daeqwon Plowden",
+        "Dylan Cardwell",
+        "Maxime Raynaud"
+      ],
+      "rookies": [
+        "Nique Clifford",
+        "Dylan Cardwell",
+        "Maxime Raynaud"
+      ]
+    },
+    "SAS": {
+      "players": [
+        "Jordan McLaughlin",
+        "Victor Wembanyama",
+        "Dylan Harper",
+        "Keldon Johnson",
+        "De'Aaron Fox",
+        "Stephon Castle",
+        "Luke Kornet",
+        "Kelly Olynyk",
+        "Carter Bryant",
+        "Emanuel Miller",
+        "Bismack Biyombo",
+        "Devin Vassell",
+        "David Jones Garcia",
+        "Julian Champagnie",
+        "Harrison Barnes",
+        "Lindy Waters III",
+        "Mason Plumlee",
+        "Harrison Ingram"
+      ],
+      "rookies": [
+        "Dylan Harper",
+        "Carter Bryant",
+        "David Jones Garcia"
+      ]
+    },
+    "OKC": {
+      "players": [
+        "Shai Gilgeous-Alexander",
+        "Jared McCain",
+        "Luguentz Dort",
+        "Jaylin Williams",
+        "Chet Holmgren",
+        "Jalen Williams",
+        "Alex Caruso",
+        "Isaiah Joe",
+        "Thomas Sorber",
+        "Payton Sandfort",
+        "Branden Carlson",
+        "Aaron Wiggins",
+        "Cason Wallace",
+        "Brooks Barnhizer",
+        "Ajay Mitchell",
+        "Kenrich Williams",
+        "Nikola Topi\u0107",
+        "Isaiah Hartenstein"
+      ],
+      "rookies": [
+        "Thomas Sorber",
+        "Payton Sandfort",
+        "Brooks Barnhizer",
+        "Nikola Topi\u0107"
+      ]
+    },
+    "TOR": {
+      "players": [
+        "A.J. Lawson",
+        "Gradey Dick",
+        "Jonathan Mogbo",
+        "Brandon Ingram",
+        "Scottie Barnes",
+        "Immanuel Quickley",
+        "RJ Barrett",
+        "Collin Murray-Boyles",
+        "Ja'Kobe Walter",
+        "Garrett Temple",
+        "Jakob Poeltl",
+        "Markelle Fultz",
+        "Jamal Shead",
+        "Chucky Hepburn",
+        "Trayce Jackson-Davis",
+        "Sandro Mamukelashvili",
+        "Alijah Martin",
+        "Jamison Battle"
+      ],
+      "rookies": [
+        "Collin Murray-Boyles",
+        "Chucky Hepburn",
+        "Alijah Martin"
+      ]
+    },
+    "UTA": {
+      "players": [
+        "Kennedy Chandler",
+        "Blake Hinson",
+        "Keyonte George",
+        "Cody Williams",
+        "Isaiah Collier",
+        "Svi Mykhailiuk",
+        "Elijah Harkless",
+        "Ace Bailey",
+        "Jaren Jackson Jr.",
+        "Bez Mbeng",
+        "Kyle Filipowski",
+        "Lauri Markkanen",
+        "Walker Kessler",
+        "Brice Sensabaugh",
+        "Jusuf Nurki\u0107",
+        "Oscar Tshiebwe",
+        "Kevin Love",
+        "John Konchar"
+      ],
+      "rookies": [
+        "Blake Hinson",
+        "Ace Bailey",
+        "Bez Mbeng"
+      ]
+    },
+    "MEM": {
+      "players": [
+        "Tyler Burton",
+        "Adama Bal",
+        "Jahmai Mashack",
+        "Jaylen Wells",
+        "Scotty Pippen Jr.",
+        "Ty Jerome",
+        "Kentavious Caldwell-Pope",
+        "Walter Clayton Jr.",
+        "Santi Aldama",
+        "Javon Small",
+        "Ja Morant",
+        "Zach Edey",
+        "Brandon Clarke",
+        "Olivier-Maxence Prosper",
+        "Rayan Rupert",
+        "Taylor Hendricks",
+        "Cedric Coward",
+        "Cam Spencer",
+        "DeJon Jarreau",
+        "GG Jackson",
+        "Taj Gibson"
+      ],
+      "rookies": [
+        "Tyler Burton",
+        "Adama Bal",
+        "Jahmai Mashack",
+        "Walter Clayton Jr.",
+        "Javon Small",
+        "Cedric Coward"
+      ]
+    },
+    "WAS": {
+      "players": [
+        "Julian Reese",
+        "Bilal Coulibaly",
+        "Tristan Vukcevic",
+        "Cam Whitmore",
+        "Trae Young",
+        "D'Angelo Russell",
+        "Jamir Watkins",
+        "Bub Carrington",
+        "Jaden Hardy",
+        "Justin Champagnie",
+        "Tre Johnson",
+        "Leaky Black",
+        "Sharife Cooper",
+        "Anthony Gill",
+        "Kyshawn George",
+        "Alex Sarr",
+        "Anthony Davis",
+        "Will Riley"
+      ],
+      "rookies": [
+        "Julian Reese",
+        "Jamir Watkins",
+        "Tre Johnson",
+        "Will Riley"
+      ]
+    },
+    "DET": {
+      "players": [
+        "Jalen Duren",
+        "Cade Cunningham",
+        "Isaac Jones",
+        "Ronald Holland II",
+        "Paul Reed",
+        "Caris LeVert",
+        "Ausar Thompson",
+        "Tobias Harris",
+        "Wendell Moore Jr.",
+        "Chaz Lanier",
+        "Daniss Jenkins",
+        "Marcus Sasser",
+        "Kevin Huerter",
+        "Isaiah Stewart",
+        "Javonte Green",
+        "Bobi Klintman",
+        "Tolu Smith",
+        "Duncan Robinson"
+      ],
+      "rookies": [
+        "Chaz Lanier"
+      ]
+    },
+    "CHA": {
+      "players": [
+        "Miles Bridges",
+        "LaMelo Ball",
+        "Grant Williams",
+        "Coby White",
+        "Sion James",
+        "Kon Knueppel",
+        "Josh Green",
+        "Ryan Kalkbrenner",
+        "Antonio Reeves",
+        "Moussa Diabat\u00e9",
+        "PJ Hall",
+        "Tosan Evbuomwan",
+        "Pat Connaughton",
+        "Tre Mann",
+        "Brandon Miller",
+        "Xavier Tillman",
+        "Tidjane Sala\u00fcn",
+        "Liam McNeeley"
+      ],
+      "rookies": [
+        "Sion James",
+        "Kon Knueppel",
+        "Ryan Kalkbrenner",
+        "Liam McNeeley"
+      ]
+    }
+  },
+  "triple_double_threats": [
+    "Alperen Sengun",
+    "Amen Thompson",
+    "Cade Cunningham",
+    "Giannis Antetokounmpo",
+    "Jalen Johnson",
+    "James Harden",
+    "Jaylen Brown",
+    "Josh Giddey",
+    "Josh Hart",
+    "Kevin Porter Jr.",
+    "Luka Don\u010di\u0107",
+    "Nikola Joki\u0107",
+    "Paolo Banchero",
+    "Scottie Barnes",
+    "Stephon Castle"
+  ],
+  "mvp_candidates": [
+    "Shai Gilgeous-Alexander",
+    "Giannis Antetokounmpo",
+    "Jayson Tatum",
+    "LeBron James",
+    "Kevin Durant",
+    "Stephen Curry"
+  ],
+  "timestamp": 1774888750.2575731
+}

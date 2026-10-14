@@ -1,0 +1,7064 @@
+{
+  "event": {
+    "kristi / noem": {
+      "hit_rate": 0.25,
+      "smoothed": 0.3333,
+      "yes_count": 1,
+      "total": 4,
+      "confidence": "low"
+    },
+    "iran": {
+      "hit_rate": 0.7143,
+      "smoothed": 0.7027,
+      "yes_count": 25,
+      "total": 35,
+      "confidence": "high"
+    },
+    "hormuz": {
+      "hit_rate": 0.0,
+      "smoothed": 0.1667,
+      "yes_count": 0,
+      "total": 4,
+      "confidence": "low"
+    },
+    "oil": {
+      "hit_rate": 0.3462,
+      "smoothed": 0.3571,
+      "yes_count": 9,
+      "total": 26,
+      "confidence": "high"
+    },
+    "gas / gasoline": {
+      "hit_rate": 0.75,
+      "smoothed": 0.6667,
+      "yes_count": 3,
+      "total": 4,
+      "confidence": "low"
+    },
+    "biden": {
+      "hit_rate": 0.7358,
+      "smoothed": 0.7315,
+      "yes_count": 78,
+      "total": 106,
+      "confidence": "high"
+    },
+    "deport / deportation": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "illegal alien": {
+      "hit_rate": 0.2727,
+      "smoothed": 0.2917,
+      "yes_count": 6,
+      "total": 22,
+      "confidence": "high"
+    },
+    "israel / israeli": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 2,
+      "total": 4,
+      "confidence": "low"
+    },
+    "negotiate / negotiated / negotiation": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "hottest": {
+      "hit_rate": 0.519,
+      "smoothed": 0.5185,
+      "yes_count": 41,
+      "total": 79,
+      "confidence": "high"
+    },
+    "crypto / bitcoin": {
+      "hit_rate": 0.0556,
+      "smoothed": 0.0714,
+      "yes_count": 3,
+      "total": 54,
+      "confidence": "high"
+    },
+    "ballroom": {
+      "hit_rate": 0.3,
+      "smoothed": 0.3182,
+      "yes_count": 6,
+      "total": 20,
+      "confidence": "high"
+    },
+    "affordable / affordability": {
+      "hit_rate": 0.2143,
+      "smoothed": 0.2333,
+      "yes_count": 6,
+      "total": 28,
+      "confidence": "high"
+    },
+    "transgender": {
+      "hit_rate": 0.2,
+      "smoothed": 0.2273,
+      "yes_count": 4,
+      "total": 20,
+      "confidence": "high"
+    },
+    "democrat": {
+      "hit_rate": 0.6833,
+      "smoothed": 0.6774,
+      "yes_count": 41,
+      "total": 60,
+      "confidence": "high"
+    },
+    "shutdown / shut down": {
+      "hit_rate": 0.35,
+      "smoothed": 0.3571,
+      "yes_count": 14,
+      "total": 40,
+      "confidence": "high"
+    },
+    "obliterate / obliterated / obliteration": {
+      "hit_rate": 0.4,
+      "smoothed": 0.4286,
+      "yes_count": 2,
+      "total": 5,
+      "confidence": "low"
+    },
+    "national guard": {
+      "hit_rate": 0.35,
+      "smoothed": 0.3636,
+      "yes_count": 7,
+      "total": 20,
+      "confidence": "high"
+    },
+    "save act / save america act": {
+      "hit_rate": 0.6667,
+      "smoothed": 0.6,
+      "yes_count": 2,
+      "total": 3,
+      "confidence": "low"
+    },
+    "ai / artificial intelligence": {
+      "hit_rate": 0.3929,
+      "smoothed": 0.4,
+      "yes_count": 11,
+      "total": 28,
+      "confidence": "high"
+    },
+    "tariff": {
+      "hit_rate": 0.6029,
+      "smoothed": 0.6,
+      "yes_count": 41,
+      "total": 68,
+      "confidence": "high"
+    },
+    "id / identification": {
+      "hit_rate": 0.6,
+      "smoothed": 0.5714,
+      "yes_count": 3,
+      "total": 5,
+      "confidence": "low"
+    },
+    "trump": {
+      "hit_rate": 0.4667,
+      "smoothed": 0.4706,
+      "yes_count": 7,
+      "total": 15,
+      "confidence": "high"
+    },
+    "mental institution": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8,
+      "yes_count": 3,
+      "total": 3,
+      "confidence": "low"
+    },
+    "excursion": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "deal": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8889,
+      "yes_count": 7,
+      "total": 7,
+      "confidence": "medium"
+    },
+    "radical left": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 13,
+      "total": 26,
+      "confidence": "high"
+    },
+    "sanctuary": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "fraud": {
+      "hit_rate": 0.125,
+      "smoothed": 0.2,
+      "yes_count": 1,
+      "total": 8,
+      "confidence": "medium"
+    },
+    "ice": {
+      "hit_rate": 0.0833,
+      "smoothed": 0.1429,
+      "yes_count": 1,
+      "total": 12,
+      "confidence": "medium"
+    },
+    "peace in the middle east": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "thug": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "ayatollah / khamenei": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "marco / rubio": {
+      "hit_rate": 0.6,
+      "smoothed": 0.5714,
+      "yes_count": 3,
+      "total": 5,
+      "confidence": "low"
+    },
+    "investment / invested": {
+      "hit_rate": 0.5714,
+      "smoothed": 0.5556,
+      "yes_count": 4,
+      "total": 7,
+      "confidence": "medium"
+    },
+    "fbi": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "chicago": {
+      "hit_rate": 0.4545,
+      "smoothed": 0.4615,
+      "yes_count": 5,
+      "total": 11,
+      "confidence": "medium"
+    },
+    "pam / bondi": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "trillion": {
+      "hit_rate": 0.6154,
+      "smoothed": 0.6098,
+      "yes_count": 24,
+      "total": 39,
+      "confidence": "high"
+    },
+    "cartel": {
+      "hit_rate": 0.4444,
+      "smoothed": 0.4545,
+      "yes_count": 4,
+      "total": 9,
+      "confidence": "medium"
+    },
+    "ceasefire": {
+      "hit_rate": 0.2308,
+      "smoothed": 0.2667,
+      "yes_count": 3,
+      "total": 13,
+      "confidence": "medium"
+    },
+    "nuclear": {
+      "hit_rate": 0.6,
+      "smoothed": 0.5965,
+      "yes_count": 33,
+      "total": 55,
+      "confidence": "high"
+    },
+    "stock market": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 11,
+      "total": 22,
+      "confidence": "high"
+    },
+    "hegseth": {
+      "hit_rate": 0.6,
+      "smoothed": 0.5714,
+      "yes_count": 3,
+      "total": 5,
+      "confidence": "low"
+    },
+    "china": {
+      "hit_rate": 0.678,
+      "smoothed": 0.6721,
+      "yes_count": 40,
+      "total": 59,
+      "confidence": "high"
+    },
+    "afford / affordable / affordability": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "mog / mogged / mogging": {
+      "hit_rate": 0.0,
+      "smoothed": 0.1429,
+      "yes_count": 0,
+      "total": 5,
+      "confidence": "low"
+    },
+    "olympic / olympics / world cup": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "epic fury": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "election": {
+      "hit_rate": 0.6522,
+      "smoothed": 0.6458,
+      "yes_count": 30,
+      "total": 46,
+      "confidence": "high"
+    },
+    "drone": {
+      "hit_rate": 0.0909,
+      "smoothed": 0.1538,
+      "yes_count": 1,
+      "total": 11,
+      "confidence": "medium"
+    },
+    "toyota": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "manufacturing": {
+      "hit_rate": 0.0909,
+      "smoothed": 0.1538,
+      "yes_count": 1,
+      "total": 11,
+      "confidence": "medium"
+    },
+    "nato": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 10,
+      "total": 20,
+      "confidence": "high"
+    },
+    "invested / investment": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "taiwan": {
+      "hit_rate": 0.25,
+      "smoothed": 0.3333,
+      "yes_count": 1,
+      "total": 4,
+      "confidence": "low"
+    },
+    "shinzo / abe": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "cuba": {
+      "hit_rate": 0.4,
+      "smoothed": 0.4286,
+      "yes_count": 2,
+      "total": 5,
+      "confidence": "low"
+    },
+    "epstein": {
+      "hit_rate": 0.0357,
+      "smoothed": 0.0667,
+      "yes_count": 1,
+      "total": 28,
+      "confidence": "high"
+    },
+    "eight war": {
+      "hit_rate": 0.5789,
+      "smoothed": 0.5714,
+      "yes_count": 11,
+      "total": 19,
+      "confidence": "high"
+    },
+    "national security": {
+      "hit_rate": 0.25,
+      "smoothed": 0.3333,
+      "yes_count": 1,
+      "total": 4,
+      "confidence": "low"
+    },
+    "border": {
+      "hit_rate": 0.6154,
+      "smoothed": 0.6111,
+      "yes_count": 32,
+      "total": 52,
+      "confidence": "high"
+    },
+    "midnight hammer": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8,
+      "yes_count": 3,
+      "total": 3,
+      "confidence": "low"
+    },
+    "donroe doctrine": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "maduro": {
+      "hit_rate": 0.2222,
+      "smoothed": 0.2727,
+      "yes_count": 2,
+      "total": 9,
+      "confidence": "medium"
+    },
+    "terrorist": {
+      "hit_rate": 0.4444,
+      "smoothed": 0.4545,
+      "yes_count": 4,
+      "total": 9,
+      "confidence": "medium"
+    },
+    "fentanyl": {
+      "hit_rate": 0.25,
+      "smoothed": 0.3,
+      "yes_count": 2,
+      "total": 8,
+      "confidence": "medium"
+    },
+    "gulf of america": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.4,
+      "yes_count": 1,
+      "total": 3,
+      "confidence": "low"
+    },
+    "kickoff": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "nil": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "hockey": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.4,
+      "yes_count": 1,
+      "total": 3,
+      "confidence": "low"
+    },
+    "oil / gas / gasoline": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.3636,
+      "yes_count": 3,
+      "total": 9,
+      "confidence": "medium"
+    },
+    "israel": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 12,
+      "total": 24,
+      "confidence": "high"
+    },
+    "world cup": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "olympic / olympics": {
+      "hit_rate": 0.75,
+      "smoothed": 0.6667,
+      "yes_count": 3,
+      "total": 4,
+      "confidence": "low"
+    },
+    "heisman": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "playoff": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "nfl / nba": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "graduate / graduated / graduating": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "soccer": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "golf / golfing": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "roll tide": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "transfer / transfers / transferred": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "scholarship": {
+      "hit_rate": 0.6667,
+      "smoothed": 0.6,
+      "yes_count": 2,
+      "total": 3,
+      "confidence": "low"
+    },
+    "freshman": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "futbol / football": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "nobel": {
+      "hit_rate": 0.0,
+      "smoothed": 0.0667,
+      "yes_count": 0,
+      "total": 13,
+      "confidence": "medium"
+    },
+    "ronaldo": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "gianni / infantino": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "goat / greatest of all time": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "250": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8333,
+      "yes_count": 4,
+      "total": 4,
+      "confidence": "low"
+    },
+    "economy / economic": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "gas / gasoline / oil": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "pel\u00e9": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "beckham": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "barron": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "bessent": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "bibi / netanyahu": {
+      "hit_rate": 0.0,
+      "smoothed": 0.2,
+      "yes_count": 0,
+      "total": 3,
+      "confidence": "low"
+    },
+    "charlie kirk": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "clinton": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "elon / musk": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.375,
+      "yes_count": 2,
+      "total": 6,
+      "confidence": "low"
+    },
+    "prince mohammed": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "keir / starmer": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "howard / lutnick": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "homan": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "jared / kushner": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "schumer": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.3571,
+      "yes_count": 4,
+      "total": 12,
+      "confidence": "medium"
+    },
+    "pelosi": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "kamala": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.4,
+      "yes_count": 1,
+      "total": 3,
+      "confidence": "low"
+    },
+    "karoline / leavitt": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "kash / patel": {
+      "hit_rate": 0.0,
+      "smoothed": 0.1667,
+      "yes_count": 0,
+      "total": 4,
+      "confidence": "low"
+    },
+    "lincoln": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "modi": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "newsom / newscum": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "obama": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 3,
+      "total": 6,
+      "confidence": "low"
+    },
+    "pocahontas": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "president xi": {
+      "hit_rate": 0.25,
+      "smoothed": 0.3333,
+      "yes_count": 1,
+      "total": 4,
+      "confidence": "low"
+    },
+    "putin": {
+      "hit_rate": 0.3571,
+      "smoothed": 0.3667,
+      "yes_count": 10,
+      "total": 28,
+      "confidence": "high"
+    },
+    "reagan": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "usha": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "witkoff": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "thune": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "walz": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.4,
+      "yes_count": 1,
+      "total": 3,
+      "confidence": "low"
+    },
+    "zelensky": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "zohran / mamdani": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "judy shelton": {
+      "hit_rate": 0.0,
+      "smoothed": 0.2,
+      "yes_count": 0,
+      "total": 3,
+      "confidence": "low"
+    },
+    "tulsi / gabbard": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "satoshi": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "warsh": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "ghislaine / maxwell": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "kavanaugh": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "prince andrew": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "nicki minaj": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "dell": {
+      "hit_rate": 1.0,
+      "smoothed": 0.75,
+      "yes_count": 2,
+      "total": 2,
+      "confidence": "low"
+    },
+    "bad bunny": {
+      "hit_rate": 0.0,
+      "smoothed": 0.0769,
+      "yes_count": 0,
+      "total": 11,
+      "confidence": "medium"
+    },
+    "new york": {
+      "hit_rate": 0.5455,
+      "smoothed": 0.5385,
+      "yes_count": 6,
+      "total": 11,
+      "confidence": "medium"
+    },
+    "alaska": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "arizona": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "california": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.4,
+      "yes_count": 1,
+      "total": 3,
+      "confidence": "low"
+    },
+    "congo": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "canada": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.375,
+      "yes_count": 2,
+      "total": 6,
+      "confidence": "low"
+    },
+    "mexico": {
+      "hit_rate": 0.75,
+      "smoothed": 0.6667,
+      "yes_count": 3,
+      "total": 4,
+      "confidence": "low"
+    },
+    "colombia": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "venezuela": {
+      "hit_rate": 0.4,
+      "smoothed": 0.4286,
+      "yes_count": 2,
+      "total": 5,
+      "confidence": "low"
+    },
+    "el salvador": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "argentina": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "russia": {
+      "hit_rate": 0.4783,
+      "smoothed": 0.48,
+      "yes_count": 11,
+      "total": 23,
+      "confidence": "high"
+    },
+    "ukraine": {
+      "hit_rate": 0.4583,
+      "smoothed": 0.4615,
+      "yes_count": 11,
+      "total": 24,
+      "confidence": "high"
+    },
+    "minnesota / minneapolis": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "gaza": {
+      "hit_rate": 0.5714,
+      "smoothed": 0.5556,
+      "yes_count": 4,
+      "total": 7,
+      "confidence": "medium"
+    },
+    "palestine": {
+      "hit_rate": 0.0,
+      "smoothed": 0.1111,
+      "yes_count": 0,
+      "total": 7,
+      "confidence": "medium"
+    },
+    "greenland": {
+      "hit_rate": 0.2727,
+      "smoothed": 0.3077,
+      "yes_count": 3,
+      "total": 11,
+      "confidence": "medium"
+    },
+    "india": {
+      "hit_rate": 0.7778,
+      "smoothed": 0.7273,
+      "yes_count": 7,
+      "total": 9,
+      "confidence": "medium"
+    },
+    "japan": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 4,
+      "total": 8,
+      "confidence": "medium"
+    },
+    "korea": {
+      "hit_rate": 1.0,
+      "smoothed": 0.75,
+      "yes_count": 2,
+      "total": 2,
+      "confidence": "low"
+    },
+    "memphis": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 2,
+      "total": 4,
+      "confidence": "low"
+    },
+    "mount mckinley": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "saudi arabia": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "somalia": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "portland": {
+      "hit_rate": 0.375,
+      "smoothed": 0.4,
+      "yes_count": 3,
+      "total": 8,
+      "confidence": "medium"
+    },
+    "iceland": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "epstein island / little saint james": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "florida": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "kennedy center": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "detroit": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "iowa": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "sleepy joe": {
+      "hit_rate": 0.4286,
+      "smoothed": 0.4444,
+      "yes_count": 3,
+      "total": 7,
+      "confidence": "medium"
+    },
+    "ice / national guard": {
+      "hit_rate": 0.3,
+      "smoothed": 0.3182,
+      "yes_count": 6,
+      "total": 20,
+      "confidence": "high"
+    },
+    "drill baby drill": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 3,
+      "total": 6,
+      "confidence": "low"
+    },
+    "fentanyl / cocaine": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "hoax": {
+      "hit_rate": 0.2222,
+      "smoothed": 0.2727,
+      "yes_count": 2,
+      "total": 9,
+      "confidence": "medium"
+    },
+    "highest inflation": {
+      "hit_rate": 0.2857,
+      "smoothed": 0.3333,
+      "yes_count": 2,
+      "total": 7,
+      "confidence": "medium"
+    },
+    "somali / somalia / somalian": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.3636,
+      "yes_count": 3,
+      "total": 9,
+      "confidence": "medium"
+    },
+    "ufc": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "olympics / world cup": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "windmill": {
+      "hit_rate": 0.25,
+      "smoothed": 0.3333,
+      "yes_count": 1,
+      "total": 4,
+      "confidence": "low"
+    },
+    "woke / dei": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.4,
+      "yes_count": 1,
+      "total": 3,
+      "confidence": "low"
+    },
+    "maha / make america healthy again": {
+      "hit_rate": 0.25,
+      "smoothed": 0.3333,
+      "yes_count": 1,
+      "total": 4,
+      "confidence": "low"
+    },
+    "vaccine / autism": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "affordability": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "the state of the / our union is strong": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "ethereum": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "doge / department of government efficiency": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "tds / trump derangement syndrome": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "dei / woke": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "discombobulator": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "fake news": {
+      "hit_rate": 0.4615,
+      "smoothed": 0.4667,
+      "yes_count": 6,
+      "total": 13,
+      "confidence": "medium"
+    },
+    "supreme court": {
+      "hit_rate": 0.2353,
+      "smoothed": 0.2632,
+      "yes_count": 4,
+      "total": 17,
+      "confidence": "high"
+    },
+    "golden dome": {
+      "hit_rate": 0.3,
+      "smoothed": 0.3333,
+      "yes_count": 3,
+      "total": 10,
+      "confidence": "medium"
+    },
+    "cheat / cheater / cheating": {
+      "hit_rate": 1.0,
+      "smoothed": 0.75,
+      "yes_count": 2,
+      "total": 2,
+      "confidence": "low"
+    },
+    "autopen / auto pen": {
+      "hit_rate": 0.0,
+      "smoothed": 0.2,
+      "yes_count": 0,
+      "total": 3,
+      "confidence": "low"
+    },
+    "rare earth / mineral": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.3571,
+      "yes_count": 4,
+      "total": 12,
+      "confidence": "medium"
+    },
+    "alien": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 2,
+      "total": 4,
+      "confidence": "low"
+    },
+    "trumprx / trumprx.gov": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "genius act": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "foster": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "insurrection act": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "martial law": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "save act": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "nationalize / nationalized": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "egg": {
+      "hit_rate": 0.4286,
+      "smoothed": 0.4444,
+      "yes_count": 3,
+      "total": 7,
+      "confidence": "medium"
+    },
+    "coal": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "no no no": {
+      "hit_rate": 1.0,
+      "smoothed": 0.75,
+      "yes_count": 2,
+      "total": 2,
+      "confidence": "low"
+    },
+    "cancer": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "crime / criminal": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8333,
+      "yes_count": 4,
+      "total": 4,
+      "confidence": "low"
+    },
+    "graduate / graduating": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "army / navy": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "playoff / tournament": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "miami / florida": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "saban": {
+      "hit_rate": 1.0,
+      "smoothed": 0.75,
+      "yes_count": 2,
+      "total": 2,
+      "confidence": "low"
+    },
+    "bowl": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "low iq": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "maduro / venezuela": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.3636,
+      "yes_count": 3,
+      "total": 9,
+      "confidence": "medium"
+    },
+    "america first": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 6,
+      "total": 12,
+      "confidence": "medium"
+    },
+    "disgrace / disgraceful": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "rino": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "wes moore": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "potomac": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "disaster": {
+      "hit_rate": 0.4615,
+      "smoothed": 0.4667,
+      "yes_count": 6,
+      "total": 13,
+      "confidence": "medium"
+    },
+    "401k": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "november 5": {
+      "hit_rate": 0.6667,
+      "smoothed": 0.6,
+      "yes_count": 2,
+      "total": 3,
+      "confidence": "low"
+    },
+    "home / housing": {
+      "hit_rate": 0.2857,
+      "smoothed": 0.3333,
+      "yes_count": 2,
+      "total": 7,
+      "confidence": "medium"
+    },
+    "marjorie traitor greene": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "lieutenant": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "obliterate / obliterated": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "venezuela / maduro": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "beautiful black woman / beautiful black women": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "clarence / thomas": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "tiger / woods": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "africa": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "golden dome / golden age": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "recruitment / recruiting": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "transgender / dei / woke": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "middle east": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 6,
+      "total": 12,
+      "confidence": "medium"
+    },
+    "space force": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "big beautiful bill": {
+      "hit_rate": 0.5625,
+      "smoothed": 0.5556,
+      "yes_count": 9,
+      "total": 16,
+      "confidence": "high"
+    },
+    "emission": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "wind / windmill": {
+      "hit_rate": 1.0,
+      "smoothed": 0.75,
+      "yes_count": 2,
+      "total": 2,
+      "confidence": "low"
+    },
+    "solar": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "climate change": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "green new scam": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "cafe": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "ev / electric": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "clean": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "lee / zeldin": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "bibi": {
+      "hit_rate": 0.6667,
+      "smoothed": 0.6,
+      "yes_count": 2,
+      "total": 3,
+      "confidence": "low"
+    },
+    "kevin / warsh": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "credit": {
+      "hit_rate": 0.4286,
+      "smoothed": 0.4444,
+      "yes_count": 3,
+      "total": 7,
+      "confidence": "medium"
+    },
+    "turning point": {
+      "hit_rate": 0.6667,
+      "smoothed": 0.6,
+      "yes_count": 2,
+      "total": 3,
+      "confidence": "low"
+    },
+    "nfl": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "jd / vance": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "inflation": {
+      "hit_rate": 0.4545,
+      "smoothed": 0.4583,
+      "yes_count": 10,
+      "total": 22,
+      "confidence": "high"
+    },
+    "jesus": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "cocaine": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "water": {
+      "hit_rate": 0.4167,
+      "smoothed": 0.4286,
+      "yes_count": 5,
+      "total": 12,
+      "confidence": "medium"
+    },
+    "paid agitator / professional agitator": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.4,
+      "yes_count": 1,
+      "total": 3,
+      "confidence": "low"
+    },
+    "teacher": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "golden age / golden dome": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "too late": {
+      "hit_rate": 0.2857,
+      "smoothed": 0.3333,
+      "yes_count": 2,
+      "total": 7,
+      "confidence": "medium"
+    },
+    "greenland / iceland": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "housing": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8,
+      "yes_count": 3,
+      "total": 3,
+      "confidence": "low"
+    },
+    "6 billion": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "baby": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "education / college": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "401k / 401(k)": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "dividend / stimulus": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.4,
+      "yes_count": 1,
+      "total": 3,
+      "confidence": "low"
+    },
+    "gold / golden": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "social security": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "stagflation": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "common sense": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "1.99 / dollar nine nine": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "don lemon": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "depreciate / depreciation": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "renee good": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "corn / soybean": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "davos": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "farmer": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 2,
+      "total": 4,
+      "confidence": "low"
+    },
+    "economy": {
+      "hit_rate": 0.5789,
+      "smoothed": 0.5714,
+      "yes_count": 11,
+      "total": 19,
+      "confidence": "high"
+    },
+    "bible": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "adopt / adoption": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "faith": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8,
+      "yes_count": 3,
+      "total": 3,
+      "confidence": "low"
+    },
+    "pro life / pro-life": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "unborn": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "family": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "ivf": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "israel / bibi": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "abraham accord": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "witkoff / kushner": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "hamas": {
+      "hit_rate": 0.6154,
+      "smoothed": 0.6,
+      "yes_count": 8,
+      "total": 13,
+      "confidence": "medium"
+    },
+    "russia / ukraine": {
+      "hit_rate": 0.6667,
+      "smoothed": 0.625,
+      "yes_count": 4,
+      "total": 6,
+      "confidence": "low"
+    },
+    "refugee": {
+      "hit_rate": 0.0,
+      "smoothed": 0.2,
+      "yes_count": 0,
+      "total": 3,
+      "confidence": "low"
+    },
+    "hostage": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 2,
+      "total": 4,
+      "confidence": "low"
+    },
+    "world peace / peace on earth": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "build / rebuild": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "autism": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.4,
+      "yes_count": 1,
+      "total": 3,
+      "confidence": "low"
+    },
+    "bobby / kennedy": {
+      "hit_rate": 1.0,
+      "smoothed": 0.75,
+      "yes_count": 2,
+      "total": 2,
+      "confidence": "low"
+    },
+    "vaccine": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 2,
+      "total": 4,
+      "confidence": "low"
+    },
+    "tylenol": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.4,
+      "yes_count": 1,
+      "total": 3,
+      "confidence": "low"
+    },
+    "trump rx / trumprx.gov / trumprx.com": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "healthcare": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 4,
+      "total": 8,
+      "confidence": "medium"
+    },
+    "insurance": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "peace": {
+      "hit_rate": 0.6875,
+      "smoothed": 0.6667,
+      "yes_count": 11,
+      "total": 16,
+      "confidence": "high"
+    },
+    "milk": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "overtime": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "rat": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "trump / maga": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "minnesota / walz": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "somalia / somalian / somali": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "bone": {
+      "hit_rate": 0.0,
+      "smoothed": 0.1667,
+      "yes_count": 0,
+      "total": 4,
+      "confidence": "low"
+    },
+    "protest / protester": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "elon / musk / starlink": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "peace through strength": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "machado": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "war": {
+      "hit_rate": 0.8,
+      "smoothed": 0.7143,
+      "yes_count": 4,
+      "total": 5,
+      "confidence": "low"
+    },
+    "pete / hegseth": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "delta": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "helicopter": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "wife": {
+      "hit_rate": 1.0,
+      "smoothed": 0.75,
+      "yes_count": 2,
+      "total": 2,
+      "confidence": "low"
+    },
+    "boat": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "invade / invasion": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "terrorist / narcoterrorist": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "regime": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "congress": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "dictator": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "arrest / arrested": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "florida / mar-a-lago": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "drug": {
+      "hit_rate": 0.6667,
+      "smoothed": 0.6471,
+      "yes_count": 10,
+      "total": 15,
+      "confidence": "high"
+    },
+    "woke": {
+      "hit_rate": 0.1875,
+      "smoothed": 0.2222,
+      "yes_count": 3,
+      "total": 16,
+      "confidence": "high"
+    },
+    "immigrant / immigration": {
+      "hit_rate": 0.0,
+      "smoothed": 0.2,
+      "yes_count": 0,
+      "total": 3,
+      "confidence": "low"
+    },
+    "tomahawk": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 2,
+      "total": 4,
+      "confidence": "low"
+    },
+    "barrier": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "car / automobile": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "chip / semiconductor": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "defense": {
+      "hit_rate": 0.4,
+      "smoothed": 0.4286,
+      "yes_count": 2,
+      "total": 5,
+      "confidence": "low"
+    },
+    "energy": {
+      "hit_rate": 0.6667,
+      "smoothed": 0.6471,
+      "yes_count": 10,
+      "total": 15,
+      "confidence": "high"
+    },
+    "europe / european": {
+      "hit_rate": 0.7143,
+      "smoothed": 0.6667,
+      "yes_count": 5,
+      "total": 7,
+      "confidence": "medium"
+    },
+    "five percent": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "gaza / israel": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 3,
+      "total": 6,
+      "confidence": "low"
+    },
+    "hyundai": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "investment": {
+      "hit_rate": 0.4348,
+      "smoothed": 0.44,
+      "yes_count": 10,
+      "total": 23,
+      "confidence": "high"
+    },
+    "kim jong un": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "missile": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.4,
+      "yes_count": 1,
+      "total": 3,
+      "confidence": "low"
+    },
+    "north korea / north korean": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "reciprocal": {
+      "hit_rate": 0.1429,
+      "smoothed": 0.2222,
+      "yes_count": 1,
+      "total": 7,
+      "confidence": "medium"
+    },
+    "samsung": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "sanction": {
+      "hit_rate": 0.1111,
+      "smoothed": 0.15,
+      "yes_count": 2,
+      "total": 18,
+      "confidence": "high"
+    },
+    "shipbuilding": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "trade deal": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.4,
+      "yes_count": 1,
+      "total": 3,
+      "confidence": "low"
+    },
+    "christmas": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "olympics / 250": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "barack hussein obama": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "tiktok": {
+      "hit_rate": 0.2,
+      "smoothed": 0.25,
+      "yes_count": 2,
+      "total": 10,
+      "confidence": "medium"
+    },
+    "somalia / somalian": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "autopen": {
+      "hit_rate": 0.2941,
+      "smoothed": 0.3158,
+      "yes_count": 5,
+      "total": 17,
+      "confidence": "high"
+    },
+    "tax on tips / tax on overtime": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "rob reiner": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "hanukkah": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "bondi": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "santa": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "terrorist / terrorism": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 2,
+      "total": 4,
+      "confidence": "low"
+    },
+    "crime": {
+      "hit_rate": 0.2,
+      "smoothed": 0.2857,
+      "yes_count": 1,
+      "total": 5,
+      "confidence": "low"
+    },
+    "trump card / trump gold card": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "250 / olympic": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "rainbow": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "gas / energy": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "army": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "merry christmas": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "melania": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "national park": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "veteran": {
+      "hit_rate": 0.75,
+      "smoothed": 0.6667,
+      "yes_count": 3,
+      "total": 4,
+      "confidence": "low"
+    },
+    "virginia": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "military": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8,
+      "yes_count": 3,
+      "total": 3,
+      "confidence": "low"
+    },
+    "wealth / wealthy": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "dead country": {
+      "hit_rate": 0.125,
+      "smoothed": 0.2,
+      "yes_count": 1,
+      "total": 8,
+      "confidence": "medium"
+    },
+    "one big beautiful bill": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "somali / somalia": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "data center": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "new york / mayor": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.4,
+      "yes_count": 1,
+      "total": 3,
+      "confidence": "low"
+    },
+    "turkey": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "gas": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8,
+      "yes_count": 3,
+      "total": 3,
+      "confidence": "low"
+    },
+    "nvidia": {
+      "hit_rate": 0.2,
+      "smoothed": 0.2857,
+      "yes_count": 1,
+      "total": 5,
+      "confidence": "low"
+    },
+    "abraham": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8333,
+      "yes_count": 4,
+      "total": 4,
+      "confidence": "low"
+    },
+    "email": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "communist / communism": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.375,
+      "yes_count": 2,
+      "total": 6,
+      "confidence": "low"
+    },
+    "stimulus": {
+      "hit_rate": 0.0,
+      "smoothed": 0.2,
+      "yes_count": 0,
+      "total": 3,
+      "confidence": "low"
+    },
+    "fry / fries": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "big mac": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "beef": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "tallow": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "quarter pounder": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "walmart": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "thanksgiving": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "homeless": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "education": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "youth": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8,
+      "yes_count": 3,
+      "total": 3,
+      "confidence": "low"
+    },
+    "college / university": {
+      "hit_rate": 1.0,
+      "smoothed": 0.75,
+      "yes_count": 2,
+      "total": 2,
+      "confidence": "low"
+    },
+    "fed / too late": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "magnet": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "syria": {
+      "hit_rate": 0.6667,
+      "smoothed": 0.6,
+      "yes_count": 2,
+      "total": 3,
+      "confidence": "low"
+    },
+    "air traffic": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "negotiate / negotiation": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "tax": {
+      "hit_rate": 0.7143,
+      "smoothed": 0.6667,
+      "yes_count": 5,
+      "total": 7,
+      "confidence": "medium"
+    },
+    "tariff (3+ times)": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "oil / gas": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "washington / white house": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "invest / investment": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "cheat / cheater / cheated": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "corrupt": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "bedminster": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "communist": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "kim / jong un": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "shipbuilding / ship building": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "domestic": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "pearl harbor": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "stablecoin": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "event does not occur": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "iq": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "bargain": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "gaza / hamas": {
+      "hit_rate": 0.0,
+      "smoothed": 0.2,
+      "yes_count": 0,
+      "total": 3,
+      "confidence": "low"
+    },
+    "999": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "radical": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8333,
+      "yes_count": 4,
+      "total": 4,
+      "confidence": "low"
+    },
+    "aluminum": {
+      "hit_rate": 0.0,
+      "smoothed": 0.2,
+      "yes_count": 0,
+      "total": 3,
+      "confidence": "low"
+    },
+    "submarine": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "kangaroo": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "crimea": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "department of war": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "moscow": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "reproductive": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "sperm": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "holistic": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "embryo": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "bitcoin / crypto": {
+      "hit_rate": 0.0,
+      "smoothed": 0.1667,
+      "yes_count": 0,
+      "total": 4,
+      "confidence": "low"
+    },
+    "lunatic": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "soybean / soy bean": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "college / campus": {
+      "hit_rate": 1.0,
+      "smoothed": 0.75,
+      "yes_count": 2,
+      "total": 2,
+      "confidence": "low"
+    },
+    "debate": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "free speech": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8,
+      "yes_count": 3,
+      "total": 3,
+      "confidence": "low"
+    },
+    "political violence": {
+      "hit_rate": 0.2,
+      "smoothed": 0.2857,
+      "yes_count": 1,
+      "total": 5,
+      "confidence": "low"
+    },
+    "young people": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "antifa": {
+      "hit_rate": 0.25,
+      "smoothed": 0.3,
+      "yes_count": 2,
+      "total": 8,
+      "confidence": "medium"
+    },
+    "pig": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "cambodia": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "trafficking": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "criminal": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "gang": {
+      "hit_rate": 1.0,
+      "smoothed": 0.75,
+      "yes_count": 2,
+      "total": 2,
+      "confidence": "low"
+    },
+    "socialist": {
+      "hit_rate": 0.0,
+      "smoothed": 0.2,
+      "yes_count": 0,
+      "total": 3,
+      "confidence": "low"
+    },
+    "soros": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "bailout / bail out": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "dollar": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "lithium": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "charlie / kirk": {
+      "hit_rate": 0.4,
+      "smoothed": 0.4286,
+      "yes_count": 2,
+      "total": 5,
+      "confidence": "low"
+    },
+    "peso": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "socialism": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "nobel peace prize": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "negotiate": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.4,
+      "yes_count": 1,
+      "total": 3,
+      "confidence": "low"
+    },
+    "world war": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 3,
+      "total": 6,
+      "confidence": "low"
+    },
+    "heinous": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "hamas (3+ times)": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "hostage (3+ times)": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "peace (3+ times)": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "october 7": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "rare earth": {
+      "hit_rate": 0.0,
+      "smoothed": 0.2,
+      "yes_count": 0,
+      "total": 3,
+      "confidence": "low"
+    },
+    "pharmaceutical": {
+      "hit_rate": 0.4286,
+      "smoothed": 0.4444,
+      "yes_count": 3,
+      "total": 7,
+      "confidence": "medium"
+    },
+    "health / healthy": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "military / veteran": {
+      "hit_rate": 1.0,
+      "smoothed": 0.75,
+      "yes_count": 2,
+      "total": 2,
+      "confidence": "low"
+    },
+    "medicare / medicaid": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8,
+      "yes_count": 3,
+      "total": 3,
+      "confidence": "low"
+    },
+    "aoc": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "furlough": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "forest": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "golf": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "helsinki": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "nordic": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "mayor": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "newscum": {
+      "hit_rate": 0.2,
+      "smoothed": 0.2857,
+      "yes_count": 1,
+      "total": 5,
+      "confidence": "low"
+    },
+    "rico": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.4,
+      "yes_count": 1,
+      "total": 3,
+      "confidence": "low"
+    },
+    "wayne / gretzky": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "usmca / united states\u2013mexico\u2013canada agreement": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "nafta": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "governor": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "51st / fifty first": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "export": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "lumber": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "steel": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8571,
+      "yes_count": 5,
+      "total": 5,
+      "confidence": "low"
+    },
+    "trudeau": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "golden age": {
+      "hit_rate": 0.8,
+      "smoothed": 0.7143,
+      "yes_count": 4,
+      "total": 5,
+      "confidence": "low"
+    },
+    "midway": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "medal of honor": {
+      "hit_rate": 1.0,
+      "smoothed": 0.75,
+      "yes_count": 2,
+      "total": 2,
+      "confidence": "low"
+    },
+    "submarine / sub": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "ship building / shipbuilding": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "terror": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "george washington": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "fleet": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "comey": {
+      "hit_rate": 0.0,
+      "smoothed": 0.2,
+      "yes_count": 0,
+      "total": 3,
+      "confidence": "low"
+    },
+    "houthi": {
+      "hit_rate": 0.0,
+      "smoothed": 0.2,
+      "yes_count": 0,
+      "total": 3,
+      "confidence": "low"
+    },
+    "october 7th": {
+      "hit_rate": 0.6667,
+      "smoothed": 0.6,
+      "yes_count": 2,
+      "total": 3,
+      "confidence": "low"
+    },
+    "hezbollah": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "qatar": {
+      "hit_rate": 0.6667,
+      "smoothed": 0.6,
+      "yes_count": 2,
+      "total": 3,
+      "confidence": "low"
+    },
+    "iron dome": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "west bank": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "immigration": {
+      "hit_rate": 0.0,
+      "smoothed": 0.1429,
+      "yes_count": 0,
+      "total": 5,
+      "confidence": "low"
+    },
+    "federal reserve / fed": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "shutdown": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "kennedy": {
+      "hit_rate": 0.6667,
+      "smoothed": 0.6,
+      "yes_count": 2,
+      "total": 3,
+      "confidence": "low"
+    },
+    "newsom": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "school / university": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "cdc": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "ryder cup": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "250 / 250th": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "communism / socialism": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "dead": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "fair share": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "immigration / migration": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "trafficking / smuggling": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "cdc / centers for disease control": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "covid": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "diet / nutrition": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "fda / food and drug administration": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "fitness / exercise": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "lobby / lobbyist": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "nih / national institutes of health": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "over the counter": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "painkiller": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "pregnant / pregnancy": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "prescription": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "republican": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8,
+      "yes_count": 3,
+      "total": 3,
+      "confidence": "low"
+    },
+    "warp speed": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "president": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "assassinated": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "student": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "heaven": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "god": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "roof": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "horrific": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "unite": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "constitution": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "buckingham / windsor": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "cuomo": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "dc / capital": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "powell / too late": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "president xi / xi": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "queen": {
+      "hit_rate": 1.0,
+      "smoothed": 0.75,
+      "yes_count": 2,
+      "total": 2,
+      "confidence": "low"
+    },
+    "speech": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "trade / deal": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "agriculture / agricultural": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "carriage": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "charlie": {
+      "hit_rate": 1.0,
+      "smoothed": 0.75,
+      "yes_count": 2,
+      "total": 2,
+      "confidence": "low"
+    },
+    "churchill": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "king": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "london": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "scotch / whisky": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "zelenskyy": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 2,
+      "total": 4,
+      "confidence": "low"
+    },
+    "ally / alliance": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "ancestry / heritage": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "beautiful": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8333,
+      "yes_count": 4,
+      "total": 4,
+      "confidence": "low"
+    },
+    "buckingham palace": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "camilla": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "commonwealth": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "culture / cultural": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "d-day / normandy": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "defense / security": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "democracy / democratic": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "freedom": {
+      "hit_rate": 0.6667,
+      "smoothed": 0.6,
+      "yes_count": 2,
+      "total": 3,
+      "confidence": "low"
+    },
+    "historic": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "legacy": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "partner / partnership": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "platinum jubilee / 70": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "prince / princess": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "queen elizabeth": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "rule of law": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "scotland": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "sovereignty": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "starmer": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "trade": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 3,
+      "total": 6,
+      "confidence": "low"
+    },
+    "doj / justice": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "fund / funding": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "investigate / investigation": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "murder": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "the left / radical left": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "violence / violent": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "resign": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "crypto / cryptocurrency / bitcoin": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "epstein / maxwell": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "rudy / giuliani": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "fifa / world cup": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "washington dc / nation's capital": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "executive order": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "stroke": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "mail-in voting": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "emergency": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "hand/hands": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "window": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "department of defense": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "hell": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "kiev / kyiv": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "withdraw / withdrawal": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "donbas": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "javelin": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "*event cancelled*": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "air force one": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "dc / district of columbia": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "federalize": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "gold": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "texas": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "powell": {
+      "hit_rate": 0.25,
+      "smoothed": 0.3333,
+      "yes_count": 1,
+      "total": 4,
+      "confidence": "low"
+    },
+    "renovation": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "low iq / low-iq": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "dei / diversity, equity, and inclusion": {
+      "hit_rate": 0.0,
+      "smoothed": 0.2,
+      "yes_count": 0,
+      "total": 3,
+      "confidence": "low"
+    },
+    "fed / federal reserve": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.4,
+      "yes_count": 1,
+      "total": 3,
+      "confidence": "low"
+    },
+    "graffiti": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "ice / immigration and customs enforcement": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "make america safe again": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "cnn": {
+      "hit_rate": 0.2,
+      "smoothed": 0.2857,
+      "yes_count": 1,
+      "total": 5,
+      "confidence": "low"
+    },
+    "msdnc": {
+      "hit_rate": 0.0,
+      "smoothed": 0.2,
+      "yes_count": 0,
+      "total": 3,
+      "confidence": "low"
+    },
+    "subway": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "insane asylum": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "tent": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "mr. nice guy": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "south park": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "kevins": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "georgia": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "tesla": {
+      "hit_rate": 0.0,
+      "smoothed": 0.1429,
+      "yes_count": 0,
+      "total": 5,
+      "confidence": "low"
+    },
+    "intel": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "sydney sweeney": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "dei": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "apple": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "boom": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "golden": {
+      "hit_rate": 0.25,
+      "smoothed": 0.3333,
+      "yes_count": 1,
+      "total": 4,
+      "confidence": "low"
+    },
+    "chip": {
+      "hit_rate": 0.7143,
+      "smoothed": 0.6667,
+      "yes_count": 5,
+      "total": 7,
+      "confidence": "medium"
+    },
+    "eu / european union": {
+      "hit_rate": 0.75,
+      "smoothed": 0.6667,
+      "yes_count": 3,
+      "total": 4,
+      "confidence": "low"
+    },
+    "patriot": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8333,
+      "yes_count": 4,
+      "total": 4,
+      "confidence": "low"
+    },
+    "genius": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "job": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "data": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "cook": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "iphone": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "labor": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "mit / massachusetts institute of technology": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "earnings": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "elon": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "kamala / harris": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "jobs numbers": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "adriana / kugler": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "bls / bureau of labor statistics": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "cramer": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "fat shot": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "make america healthy again / maha": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "device": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "opioid": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "diabetes": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "hate our country": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "abortion": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "casey means": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "rate": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "smart": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "sacks": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "chamath / palihapitiya": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "all-in": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "amd": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "clarity": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "bitcoin": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "palantir": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "crypto / cryptocurrency": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "robot / robotic": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "innovation": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "electric": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "plant": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "revolution": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "artificial intelligence / ai": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "infrastructure": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "microsoft": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "meta": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "openai": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "spacex": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "starlink": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.4,
+      "yes_count": 1,
+      "total": 3,
+      "confidence": "low"
+    },
+    "corn": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "soy": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "hawkeye": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "caucus": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "birthday": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "slavery": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "washington": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "religion": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "maga / make america great again": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "warrior": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "disgrace": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "chuck / grassley": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "kim / reynolds": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "joni / ernst": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "amendment": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "court": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "leak": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "ever": {
+      "hit_rate": 1.0,
+      "smoothed": 0.75,
+      "yes_count": 2,
+      "total": 2,
+      "confidence": "low"
+    },
+    "bunker": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "modhi": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "pakistan": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 2,
+      "total": 4,
+      "confidence": "low"
+    },
+    "obliterated": {
+      "hit_rate": 1.0,
+      "smoothed": 0.75,
+      "yes_count": 2,
+      "total": 2,
+      "confidence": "low"
+    },
+    "victory": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "jail": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "decimated": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "success / successful": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "khamenei": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "child labor": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "cobalt": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "copper": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "diamond": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "m23": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "agreement": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "bukavu": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "goma": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "security": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.4,
+      "yes_count": 1,
+      "total": 3,
+      "confidence": "low"
+    },
+    "coltan": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "mineral": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "humanitarian": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "stabilization": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "disarmament": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "spending": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "alliance": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "strike": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "article": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "dogecoin": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "deterrence": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "dog": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "surrender": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "fordow": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "natanz": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "america/american": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "success/successful": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "negotiation": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "isfahan": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "gabbard": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "make america great again": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "2 week": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "intelligence": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "bunker buster": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "ayatollah": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "veterans": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "january 6": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "nation": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "frankly": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "riot": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "german": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "strongest": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "patton": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "la / los angeles": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "flag day": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "space": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "afghanistan": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "duty": {
+      "hit_rate": 1.0,
+      "smoothed": 0.75,
+      "yes_count": 2,
+      "total": 2,
+      "confidence": "low"
+    },
+    "commander-in-chief": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "special forces": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "airborne": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "segregation": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "normandy": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "roland": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "braxton": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "liberty": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "insurrection": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "nippon": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "pennsylvania": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "swing": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "fetterman": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "elon/musk": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "harvard": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "altman": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "cybertruck": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "sec": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "stock": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "judge": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "liar": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "democrats": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "leadership": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "military strength": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "honor": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "patriotism": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "bloodbath": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "lethal": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "monken": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "brics": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "expropriation": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "afrikaners": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "discrimination": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "genocide": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "g20": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "equity": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "plane": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "houthis": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "safest": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "carnage": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "signal": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "pricing": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "fairness": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "reduction": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "savings": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "medicare": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "manufacturer": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "laboratory": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "sucker": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "uae / united arab emirates": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "saudi": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "g7 / g-7": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "automobile": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "uk / united kingdom": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "import": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "luxury": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "statehood": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "annexation": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "aluminum / aluminium": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "usmca / united states-mexico-canada agreement": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "ultimatum": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "goldman": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "brookfield": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "electricity": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "congratulations": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "maple syrup": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "success": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "antisemitism": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "crimson": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "tuberville": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "ainsworth": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "student loan": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "gold card": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "shedeur / sanders": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "jalen / hurts": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "saquon / barkley": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "xi / jinping": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "automotive": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "recession": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "bukele": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "budget": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "hillary / clinton": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "humanitarian aid": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "17 percent": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "diplomat / diplomacy / diplomatic": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "bilateral": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "jerusalem": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "obvious subject": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "rip off / ripped off": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "liberation day": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "carney": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "ford / gm / chrysler": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "external revenue service": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "gas / gasoline / natural gas": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "tsmc": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "farm / farmer": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    }
+  },
+  "week": {
+    "barack hussein obama": {
+      "hit_rate": 0.8214,
+      "smoothed": 0.8,
+      "yes_count": 23,
+      "total": 28,
+      "confidence": "high"
+    },
+    "thug": {
+      "hit_rate": 0.7273,
+      "smoothed": 0.7083,
+      "yes_count": 16,
+      "total": 22,
+      "confidence": "high"
+    },
+    "who are you with / where are you from": {
+      "hit_rate": 0.6154,
+      "smoothed": 0.6,
+      "yes_count": 8,
+      "total": 13,
+      "confidence": "medium"
+    },
+    "newscum": {
+      "hit_rate": 0.6071,
+      "smoothed": 0.6,
+      "yes_count": 17,
+      "total": 28,
+      "confidence": "high"
+    },
+    "50,000": {
+      "hit_rate": 0.8333,
+      "smoothed": 0.75,
+      "yes_count": 5,
+      "total": 6,
+      "confidence": "low"
+    },
+    "sleepy joe": {
+      "hit_rate": 0.8929,
+      "smoothed": 0.8667,
+      "yes_count": 25,
+      "total": 28,
+      "confidence": "high"
+    },
+    "transgender": {
+      "hit_rate": 0.9231,
+      "smoothed": 0.8667,
+      "yes_count": 12,
+      "total": 13,
+      "confidence": "medium"
+    },
+    "eight war": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "hottest": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "cookie": {
+      "hit_rate": 0.625,
+      "smoothed": 0.6,
+      "yes_count": 5,
+      "total": 8,
+      "confidence": "medium"
+    },
+    "communist / communism": {
+      "hit_rate": 0.4706,
+      "smoothed": 0.4737,
+      "yes_count": 8,
+      "total": 17,
+      "confidence": "high"
+    },
+    "golden dome": {
+      "hit_rate": 0.0,
+      "smoothed": 0.1,
+      "yes_count": 0,
+      "total": 8,
+      "confidence": "medium"
+    },
+    "mog / mogged / mogging": {
+      "hit_rate": 0.0,
+      "smoothed": 0.2,
+      "yes_count": 0,
+      "total": 3,
+      "confidence": "low"
+    },
+    "tds / trump derangement syndrome": {
+      "hit_rate": 0.5714,
+      "smoothed": 0.5652,
+      "yes_count": 12,
+      "total": 21,
+      "confidence": "high"
+    },
+    "crypto / bitcoin": {
+      "hit_rate": 0.3462,
+      "smoothed": 0.3571,
+      "yes_count": 9,
+      "total": 26,
+      "confidence": "high"
+    },
+    "bibi / netanyahu": {
+      "hit_rate": 0.6,
+      "smoothed": 0.5714,
+      "yes_count": 3,
+      "total": 5,
+      "confidence": "low"
+    },
+    "drill baby drill": {
+      "hit_rate": 0.4737,
+      "smoothed": 0.4762,
+      "yes_count": 9,
+      "total": 19,
+      "confidence": "high"
+    },
+    "autopen / auto pen": {
+      "hit_rate": 0.8696,
+      "smoothed": 0.84,
+      "yes_count": 20,
+      "total": 23,
+      "confidence": "high"
+    },
+    "nobel": {
+      "hit_rate": 0.1667,
+      "smoothed": 0.25,
+      "yes_count": 1,
+      "total": 6,
+      "confidence": "low"
+    },
+    "marijuana / weed / cannabis": {
+      "hit_rate": 0.0769,
+      "smoothed": 0.1071,
+      "yes_count": 2,
+      "total": 26,
+      "confidence": "high"
+    },
+    "windmill": {
+      "hit_rate": 0.6667,
+      "smoothed": 0.6364,
+      "yes_count": 6,
+      "total": 9,
+      "confidence": "medium"
+    },
+    "melania": {
+      "hit_rate": 0.8077,
+      "smoothed": 0.7857,
+      "yes_count": 21,
+      "total": 26,
+      "confidence": "high"
+    },
+    "discombobulator": {
+      "hit_rate": 0.1667,
+      "smoothed": 0.25,
+      "yes_count": 1,
+      "total": 6,
+      "confidence": "low"
+    },
+    "predict / prediction": {
+      "hit_rate": 0.5769,
+      "smoothed": 0.5714,
+      "yes_count": 15,
+      "total": 26,
+      "confidence": "high"
+    },
+    "stupid question": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "rigged election / stolen election": {
+      "hit_rate": 0.8095,
+      "smoothed": 0.7826,
+      "yes_count": 17,
+      "total": 21,
+      "confidence": "high"
+    },
+    "epstein": {
+      "hit_rate": 0.4,
+      "smoothed": 0.4074,
+      "yes_count": 10,
+      "total": 25,
+      "confidence": "high"
+    },
+    "world cup": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8,
+      "yes_count": 3,
+      "total": 3,
+      "confidence": "low"
+    },
+    "khamenei": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "nancy / pelosi": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "space force": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "hockey": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "somalia / somali / somalian": {
+      "hit_rate": 0.8333,
+      "smoothed": 0.7857,
+      "yes_count": 10,
+      "total": 12,
+      "confidence": "medium"
+    },
+    "olympics": {
+      "hit_rate": 0.7333,
+      "smoothed": 0.7059,
+      "yes_count": 11,
+      "total": 15,
+      "confidence": "high"
+    },
+    "fake news": {
+      "hit_rate": 0.8947,
+      "smoothed": 0.8571,
+      "yes_count": 17,
+      "total": 19,
+      "confidence": "high"
+    },
+    "mental institution": {
+      "hit_rate": 0.8333,
+      "smoothed": 0.7857,
+      "yes_count": 10,
+      "total": 12,
+      "confidence": "medium"
+    },
+    "antifa": {
+      "hit_rate": 0.0,
+      "smoothed": 0.2,
+      "yes_count": 0,
+      "total": 3,
+      "confidence": "low"
+    },
+    "paid agitator": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "iq": {
+      "hit_rate": 0.8,
+      "smoothed": 0.75,
+      "yes_count": 8,
+      "total": 10,
+      "confidence": "medium"
+    },
+    "insurrection act": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "penguin": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "paid agitator / professional agitator": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "maduro": {
+      "hit_rate": 0.7143,
+      "smoothed": 0.6875,
+      "yes_count": 10,
+      "total": 14,
+      "confidence": "medium"
+    },
+    "elon / musk": {
+      "hit_rate": 0.5556,
+      "smoothed": 0.55,
+      "yes_count": 10,
+      "total": 18,
+      "confidence": "high"
+    },
+    "new york": {
+      "hit_rate": 1.0,
+      "smoothed": 0.9231,
+      "yes_count": 11,
+      "total": 11,
+      "confidence": "medium"
+    },
+    "tiktok": {
+      "hit_rate": 0.2778,
+      "smoothed": 0.3,
+      "yes_count": 5,
+      "total": 18,
+      "confidence": "high"
+    },
+    "stimulus / dividend": {
+      "hit_rate": 0.6667,
+      "smoothed": 0.6,
+      "yes_count": 2,
+      "total": 3,
+      "confidence": "low"
+    },
+    "central casting": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "nine war": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "email": {
+      "hit_rate": 0.0,
+      "smoothed": 0.1111,
+      "yes_count": 0,
+      "total": 7,
+      "confidence": "medium"
+    },
+    "beef": {
+      "hit_rate": 0.5714,
+      "smoothed": 0.5556,
+      "yes_count": 4,
+      "total": 7,
+      "confidence": "medium"
+    },
+    "fat shot / ozempic": {
+      "hit_rate": 0.1,
+      "smoothed": 0.1667,
+      "yes_count": 1,
+      "total": 10,
+      "confidence": "medium"
+    },
+    "christmas": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8,
+      "yes_count": 3,
+      "total": 3,
+      "confidence": "low"
+    },
+    "argentina": {
+      "hit_rate": 0.2857,
+      "smoothed": 0.3333,
+      "yes_count": 2,
+      "total": 7,
+      "confidence": "medium"
+    },
+    "bbc": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.4,
+      "yes_count": 1,
+      "total": 3,
+      "confidence": "low"
+    },
+    "stock market": {
+      "hit_rate": 1.0,
+      "smoothed": 0.75,
+      "yes_count": 2,
+      "total": 2,
+      "confidence": "low"
+    },
+    "sedition": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "hoax": {
+      "hit_rate": 1.0,
+      "smoothed": 0.75,
+      "yes_count": 2,
+      "total": 2,
+      "confidence": "low"
+    },
+    "manhattan": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 2,
+      "total": 4,
+      "confidence": "low"
+    },
+    "marjorie taylor greene": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "turkey": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "autism": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "olympic": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "kim jong un": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "zohran / mamdani": {
+      "hit_rate": 0.2857,
+      "smoothed": 0.3333,
+      "yes_count": 2,
+      "total": 7,
+      "confidence": "medium"
+    },
+    "slopadopoulos": {
+      "hit_rate": 0.4286,
+      "smoothed": 0.4444,
+      "yes_count": 3,
+      "total": 7,
+      "confidence": "medium"
+    },
+    "halloween": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "green new scam": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "soros": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.4,
+      "yes_count": 1,
+      "total": 3,
+      "confidence": "low"
+    },
+    "king": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "insurrection": {
+      "hit_rate": 1.0,
+      "smoothed": 0.75,
+      "yes_count": 2,
+      "total": 2,
+      "confidence": "low"
+    },
+    "ghislaine / maxwell": {
+      "hit_rate": 0.1667,
+      "smoothed": 0.25,
+      "yes_count": 1,
+      "total": 6,
+      "confidence": "low"
+    },
+    "soybean": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "ufc": {
+      "hit_rate": 0.4,
+      "smoothed": 0.4286,
+      "yes_count": 2,
+      "total": 5,
+      "confidence": "low"
+    },
+    "amish": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.4,
+      "yes_count": 1,
+      "total": 3,
+      "confidence": "low"
+    },
+    "football": {
+      "hit_rate": 0.75,
+      "smoothed": 0.6667,
+      "yes_count": 3,
+      "total": 4,
+      "confidence": "low"
+    },
+    "shutdown / shut down": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8,
+      "yes_count": 3,
+      "total": 3,
+      "confidence": "low"
+    },
+    "buttigieg": {
+      "hit_rate": 0.0,
+      "smoothed": 0.2,
+      "yes_count": 0,
+      "total": 3,
+      "confidence": "low"
+    },
+    "desantis": {
+      "hit_rate": 0.0,
+      "smoothed": 0.2,
+      "yes_count": 0,
+      "total": 3,
+      "confidence": "low"
+    },
+    "nobel prize / peace prize": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8,
+      "yes_count": 3,
+      "total": 3,
+      "confidence": "low"
+    },
+    "tylenol": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "panican": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "cracker barrel": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "mcdonald\u2019s": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "taylor swift": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "aoc": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "africa": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "ballroom": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "bill clinton": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "bitcoin": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "clean beautiful coal": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "colbert": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "comey": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "con job": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "crooked hillary": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "dead country": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "elon": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "hunter": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "lyin kamala": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "larry summers": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "lisa monaco": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "loomer": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "massie": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "nest egg": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "palestine": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "paramount": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "pelosi": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "recession": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "schiff": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "south park": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "swamp": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "too big to rig": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "two-state": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "zelenskyy": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "witch hunt": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "sydney sweeney": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    }
+  },
+  "month": {
+    "greenland": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8,
+      "yes_count": 3,
+      "total": 3,
+      "confidence": "low"
+    },
+    "transgender": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8,
+      "yes_count": 3,
+      "total": 3,
+      "confidence": "low"
+    },
+    "barack hussein obama": {
+      "hit_rate": 1.0,
+      "smoothed": 0.875,
+      "yes_count": 6,
+      "total": 6,
+      "confidence": "low"
+    },
+    "newscum": {
+      "hit_rate": 1.0,
+      "smoothed": 0.875,
+      "yes_count": 6,
+      "total": 6,
+      "confidence": "low"
+    },
+    "predict / prediction": {
+      "hit_rate": 1.0,
+      "smoothed": 0.875,
+      "yes_count": 6,
+      "total": 6,
+      "confidence": "low"
+    },
+    "autism": {
+      "hit_rate": 0.8333,
+      "smoothed": 0.75,
+      "yes_count": 5,
+      "total": 6,
+      "confidence": "low"
+    },
+    "genius": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "dei / woke": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8,
+      "yes_count": 3,
+      "total": 3,
+      "confidence": "low"
+    },
+    "crypto / bitcoin": {
+      "hit_rate": 0.8333,
+      "smoothed": 0.75,
+      "yes_count": 5,
+      "total": 6,
+      "confidence": "low"
+    },
+    "epstein": {
+      "hit_rate": 0.8333,
+      "smoothed": 0.75,
+      "yes_count": 5,
+      "total": 6,
+      "confidence": "low"
+    },
+    "make iran great again": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "ufc": {
+      "hit_rate": 0.8,
+      "smoothed": 0.7143,
+      "yes_count": 4,
+      "total": 5,
+      "confidence": "low"
+    },
+    "windmill": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8333,
+      "yes_count": 4,
+      "total": 4,
+      "confidence": "low"
+    },
+    "tds / trump derangement syndrome": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "who are you with / where are you from": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "bad bunny": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "sleepy joe": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8571,
+      "yes_count": 5,
+      "total": 5,
+      "confidence": "low"
+    },
+    "nine war": {
+      "hit_rate": 0.0,
+      "smoothed": 0.2,
+      "yes_count": 0,
+      "total": 3,
+      "confidence": "low"
+    },
+    "stimulus": {
+      "hit_rate": 0.0,
+      "smoothed": 0.2,
+      "yes_count": 0,
+      "total": 3,
+      "confidence": "low"
+    },
+    "fat shot / ozempic": {
+      "hit_rate": 0.8,
+      "smoothed": 0.7143,
+      "yes_count": 4,
+      "total": 5,
+      "confidence": "low"
+    },
+    "pelosi": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8571,
+      "yes_count": 5,
+      "total": 5,
+      "confidence": "low"
+    },
+    "moscow": {
+      "hit_rate": 0.6,
+      "smoothed": 0.5714,
+      "yes_count": 3,
+      "total": 5,
+      "confidence": "low"
+    },
+    "nick shirley": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "gulf of america": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8333,
+      "yes_count": 4,
+      "total": 4,
+      "confidence": "low"
+    },
+    "nicki minaj": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "marijuana / weed / cannabis": {
+      "hit_rate": 0.2,
+      "smoothed": 0.2857,
+      "yes_count": 1,
+      "total": 5,
+      "confidence": "low"
+    },
+    "trumprx / trumprx.gov": {
+      "hit_rate": 1.0,
+      "smoothed": 0.75,
+      "yes_count": 2,
+      "total": 2,
+      "confidence": "low"
+    },
+    "turning point": {
+      "hit_rate": 0.3333,
+      "smoothed": 0.4,
+      "yes_count": 1,
+      "total": 3,
+      "confidence": "low"
+    },
+    "trump derangement syndrome": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8333,
+      "yes_count": 4,
+      "total": 4,
+      "confidence": "low"
+    },
+    "third term": {
+      "hit_rate": 0.25,
+      "smoothed": 0.3333,
+      "yes_count": 1,
+      "total": 4,
+      "confidence": "low"
+    },
+    "taylor swift": {
+      "hit_rate": 0.0,
+      "smoothed": 0.2,
+      "yes_count": 0,
+      "total": 3,
+      "confidence": "low"
+    },
+    "filibuster": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "fat slob": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "hunter": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8,
+      "yes_count": 3,
+      "total": 3,
+      "confidence": "low"
+    },
+    "elon / musk": {
+      "hit_rate": 1.0,
+      "smoothed": 0.8,
+      "yes_count": 3,
+      "total": 3,
+      "confidence": "low"
+    },
+    "trumprx / trumprx.com": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "3i atlas": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "gamestop": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "slopadopoulos": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "crooked hillary": {
+      "hit_rate": 0.5,
+      "smoothed": 0.5,
+      "yes_count": 1,
+      "total": 2,
+      "confidence": "low"
+    },
+    "whack job": {
+      "hit_rate": 0.0,
+      "smoothed": 0.25,
+      "yes_count": 0,
+      "total": 2,
+      "confidence": "low"
+    },
+    "zohran / mamdani": {
+      "hit_rate": 1.0,
+      "smoothed": 0.75,
+      "yes_count": 2,
+      "total": 2,
+      "confidence": "low"
+    },
+    "rocket man": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "taylor / swift": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "aoc": {
+      "hit_rate": 1.0,
+      "smoothed": 0.6667,
+      "yes_count": 1,
+      "total": 1,
+      "confidence": "low"
+    },
+    "clapper": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    },
+    "bird": {
+      "hit_rate": 0.0,
+      "smoothed": 0.3333,
+      "yes_count": 0,
+      "total": 1,
+      "confidence": "low"
+    }
+  }
+}
